@@ -1,1 +1,15 @@
-ai-worker/firebase-key.json
+# Environments
+.env
+venv/
+env/
+__pycache__/
+
+# Firebase Credentials (절대 깃허브에 올라가면 안 됨!)
+firebase-key.json
+
+# Fandom Bot Auth File (자동 생성되는 인증 토큰 파일)
+me
+PW/API PW.txt
+ai-worker/.env
+ai-worker/.env
+/ai-worker

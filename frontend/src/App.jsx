@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import MatchCard from './components/MatchCard';
+import MatchList from './components/MatchList';
 import { Home, BarChart2, BookOpen, Trophy, User, ChevronRight } from 'lucide-react';
 
 function App() {
@@ -92,14 +93,7 @@ function App() {
 
           {/* 탭별 내용 변경 */}
           {activeTab === 'match' && (
-            <div className="space-y-6 animate-fade-in">
-              <h3 className="text-xl font-bold text-white mb-4">오늘 예정된 경기 (AI 분석 리포트)</h3>
-              
-              {/* 👇 빈 MatchCard 대신, 파이어베이스에 저장된 matchId를 넘겨줍니다 */}
-              <MatchCard matchId="24SUM-T1-GEN-0812" />
-              
-              {/* (참고: 데이터가 1개뿐이므로 아래 있던 두 번째 <MatchCard />는 지웠습니다) */}
-            </div>
+            <MatchList /> // 👈 기존 MatchCard 하드코딩 대신 MatchList로 교체!
           )}
           {activeTab === 'meta' && (
             <div className="p-8 bg-zinc-900/50 rounded-2xl border border-zinc-800/50">
