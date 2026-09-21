@@ -37,7 +37,7 @@ export const getChampionImageUrl = (championName) => {
   if (!champId) {
     // 2. 특수문자(' space . 등) 제거 및 단어별 첫글자 대문자화
     champId = championName
-      .replace(/['\s\.-]/g, "")
+      .replace(/['\s.-]/g, "")
       .replace(/(^\w|\s\w)/g, (m) => m.toUpperCase());
   }
 

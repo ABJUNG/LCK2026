@@ -1,5 +1,4 @@
-import React, { useState } from 'react';
-import MatchCard from './components/MatchCard';
+import { useState } from 'react';
 import MatchList from './components/MatchList';
 import { Home, BarChart2, BookOpen, Trophy, User, ChevronRight } from 'lucide-react';
 

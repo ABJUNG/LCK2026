@@ -1,16 +1,60 @@
-# React + Vite
+# 엘식혜 프론트엔드
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 실행
 
-Currently, two official plugins are available:
+이 작업에서 확인한 환경: Node.js 24.12.0, npm 11.6.2.
+프로젝트의 frontend 폴더에서 다음 명령을 실행합니다.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+```sh
+npm ci
+npm run dev
+```
 
-## React Compiler
+터미널에 표시된 로컬 주소를 브라우저에서 엽니다. 기존 node_modules가 있다면 npm ci 없이 실행할 수 있습니다.
+현재 Firebase 연결은 src/firebase.js에 설정되어 있습니다. 실제 경기 조회에는 네트워크와 해당 프로젝트의 Firestore 읽기 권한이 필요합니다.
+이 변경은 Firebase 보안 규칙이나 저장 데이터를 수정하지 않습니다.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 검사
 
-## Expanding the ESLint configuration
+```sh
+npm run lint
+npm run build
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Windows의 제한된 실행 환경에서 기본 설정 로딩이 spawn EPERM 오류로 실패하면 다음 명령으로 설정을 직접 불러올 수 있습니다.
+
+```sh
+npm run build -- --configLoader native
+npm run dev -- --configLoader native
+```
+
+## 첫 학습: 경기 목록의 네 가지 상태
+
+MatchList.jsx의 흐름은 조회 시작 → Firestore 응답 → 경기 그룹화 → 상태 변경 → 화면 갱신입니다.
+
+- loading: 응답을 기다리는 동안 로딩 안내를 표시합니다.
+- error: 조회가 실패하면 오류 안내와 다시 시도 버튼을 표시합니다.
+- groupedMatches가 비어 있음: 조회에 성공했지만 경기가 없을 때만 빈 목록 안내를 표시합니다.
+- groupedMatches에 데이터가 있음: 경기 카드와 세트 탭을 표시합니다.
+
+useState는 화면에 영향을 주는 값을 기억합니다. 상태를 변경하면 React가 화면을 다시 계산합니다.
+useEffect는 화면이 나타나거나 requestId가 바뀔 때 조회를 시작합니다.
+await는 조회 결과를 기다리고, catch는 조회 또는 후속 처리 실패를 처리합니다.
+finally에서는 성공과 실패 모두 로딩을 끝냅니다.
+다시 시도 버튼은 오류를 지우고 로딩을 켠 뒤 requestId를 증가시켜 새 조회를 시작합니다.
+Effect 정리 함수의 cancelled 표시는 화면을 떠난 뒤 이전 응답이 상태를 바꾸지 못하게 합니다. 네트워크 요청 자체를 취소하는 것은 아닙니다.
+
+## 직접 확인할 항목
+
+1. 정상: 저장된 경기가 표시되고 세트 탭을 바꾸면 해당 세트의 내용이 표시되는지 확인합니다.
+2. 로딩: 개발자 도구에서 네트워크 속도를 낮춘 뒤 새로고침하여 로딩 안내를 확인합니다.
+3. 오류: 개발자 도구의 요청 차단 기능으로 firestore.googleapis.com 요청을 차단하고 새로고침합니다. SDK 재시도로 실패 표시까지 시간이 걸릴 수 있습니다.
+4. 재시도: 요청 차단을 해제한 뒤 다시 시도를 눌러 로딩 후 경기 목록이 표시되는지 확인합니다.
+5. 빈 목록: 별도의 개발용 Firebase 프로젝트의 빈 matches 컬렉션으로 확인합니다. 운영 데이터를 삭제하거나 보안 규칙을 변경하지 않습니다.
+
+오프라인 상태에서는 Firestore가 캐시 데이터를 반환할 수도 있으므로 인터넷 연결 해제만으로 오류 화면이 반드시 나오는 것은 아닙니다.
+
+## 이번 검증 범위
+
+코드 검사와 배포용 빌드를 확인했습니다. 실제 Firebase 데이터로 브라우저의 네 가지 상태를 모두 확인한 것은 아닙니다.
+경기 그룹화의 팀 순서, 원본 매치 식별자 사용, 조회 범위 제한은 후속 작업입니다.

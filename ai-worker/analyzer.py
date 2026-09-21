@@ -40,92 +40,137 @@ def extract_week_info(match_id_raw, tournament_str):
     elif "Finals" in combined_str: return "결승전", "Finals"
     return "정규시즌", "Regular Season"
 
-def fetch_recent_lck_matches(limit_count=3):
-    print(f"🌐 Leaguepedia API에서 선수 세부 데이터가 포함된 최근 {limit_count}개 세트를 탐색 중입니다...")
-    
-    # 🚨 os.getenv()로 .env 파일에서 불러옵니다!
+# 💡 파라미터에 target_date 추가 (기본값은 None)
+def fetch_recent_lck_matches(limit_count=10, target_date=None):
+    if target_date:
+        print(f"🌐 Leaguepedia API에서 [{target_date}]에 진행된 LCK 경기를 탐색 중입니다...")
+    else:
+        print(f"🌐 Leaguepedia API에서 최근 경기를 탐색 중입니다...")
+        
     FANDOM_USERNAME = os.getenv("FANDOM_USERNAME")
     BOT_PASSWORD_SECRET = os.getenv("FANDOM_BOT_PASSWORD")
 
+    # 💡 1. 원래대로 .env 인증 사용 (인증은 이미 완벽합니다)
     auth_cred = AuthCredentials(username=FANDOM_USERNAME, password=BOT_PASSWORD_SECRET)
-    site = EsportsClient("lol", credentials=auth_cred)
+    site = EsportsClient("lol", credentials=auth_cred, user_agent="LCK_2026_Data_App_by_tjdnf")
     
-    lck_1st_teams = [
-        "Gen.G", "T1", "Dplus KIA", "FearX", "OKSavingsBank BRION",
-        "Hanwha Life Esports", "KT Rolster", "Kwangdong Freecs", "Nongshim RedForce", "DRX"
-    ]
-    teams_sql_str = ", ".join([f"'{team}'" for team in lck_1st_teams])
-    
-    # 🚨 ScoreboardGames + PicksAndBansS7 + ScoreboardPlayers 3개 테이블 JOIN
-    response = site.cargo_client.query(
-        tables="ScoreboardGames=SG, PicksAndBansS7=PB, ScoreboardPlayers=SP",
-        join_on="SG.GameId=PB.GameId, SG.GameId=SP.GameId",
-        fields="""
-            SG.GameId, SG.Tournament=Tournament, SG.DateTime_UTC=DateTime, 
-            SG.Team1=Team1, SG.Team2=Team2, 
-            SG.Team1Score=Team1Score, SG.Team2Score=Team2Score, 
-            SG.Patch=Patch, SG.N_GameInMatch=SetNumber, SG.MatchId=MatchId,
-            PB.Team1Ban1, PB.Team1Ban2, PB.Team1Ban3, PB.Team1Ban4, PB.Team1Ban5,
-            PB.Team2Ban1, PB.Team2Ban2, PB.Team2Ban3, PB.Team2Ban4, PB.Team2Ban5,
-            SP.Link=PlayerName, SP.Team=PlayerTeam, SP.Champion=Champion, SP.Role=Role,
-            SP.Kills=Kills, SP.Deaths=Deaths, SP.Assists=Assists, SP.Gold=Gold, SP.DamageToChampions=Damage
-        """,
-        where=f"SG.Tournament LIKE '%LCK%2026%' AND SG.Team1 IN ({teams_sql_str}) AND SG.Team2 IN ({teams_sql_str})",
-        order_by="SG.DateTime_UTC DESC",
-        limit=limit_count * 10
+    # 🚨 2. DB가 싫어하는 복잡한 IN 조건 제거! 아주 단순한 WHERE 절 생성
+    where_clause = "Tournament LIKE '%LCK%2026%'"
+    if target_date:
+        where_clause += f" AND DateTime_UTC >= '{target_date} 00:00:00' AND DateTime_UTC <= '{target_date} 23:59:59'"
+
+    def safe_query(**kwargs):
+        for attempt in range(3):
+            try:
+                return site.cargo_client.query(**kwargs)
+            except Exception as e:
+                error_details = str(e)
+                print(f"\n   🚨 [API 오류] 시도 {attempt+1}/3: {error_details}")
+                if "ratelimited" in error_details.lower():
+                    import time
+                    time.sleep(30)
+                else:
+                    raise e
+        return None
+
+    # 💡 3. 경기 기본 정보 (순정 테이블 이름 사용, 정렬 옵션 제거)
+    games_response = safe_query(
+        tables="ScoreboardGames",
+        fields="GameId, Tournament, DateTime_UTC, Team1, Team2, Team1Score, Team2Score, Patch, N_GameInMatch, MatchId",
+        where=where_clause,
+        limit=limit_count * 5
     )
+
+    if not games_response:
+        print("❌ 조건에 맞는 경기 데이터를 찾을 수 없습니다.")
+        return []
+
+    # 파이썬에서 안전하게 시간순 정렬 (DB 부담 제로)
+    games_response = sorted(games_response, key=lambda x: x.get('DateTime_UTC', ''))
+
+    lck_1st_teams = ["Gen.G", "T1", "Dplus KIA", "FearX", "OKSavingsBank BRION", "Hanwha Life Esports", "KT Rolster", "Kwangdong Freecs", "Nongshim RedForce", "DRX"]
     
     games_map = {}
-    if response and len(response) > 0:
-        for row in response:
-            game_id = row['GameId']
-            if game_id not in games_map:
-                date_kst, time_kst = convert_utc_to_kst(row.get('DateTime', ''))
-                week_kr, week_en = extract_week_info(row.get('MatchId', ''), row.get('Tournament', ''))
-                
-                games_map[game_id] = {
-                    "tournament": row.get('Tournament', 'LCK 2026'),
-                    "week_kr": week_kr,
-                    "week_en": week_en,
-                    "date_kst": date_kst,
-                    "time_kst": time_kst,
-                    "patch": row.get('Patch') or "Unknown",
-                    "team_A": row.get('Team1', ''),
-                    "team_B": row.get('Team2', ''),
-                    "team_A_score": int(row.get('Team1Score') or 0),
-                    "team_B_score": int(row.get('Team2Score') or 0),
-                    "set_number": str(row.get('SetNumber') or "1"),
-                    "team_A_bans": [row.get(f'Team1Ban{i}', '') for i in range(1, 6)],
-                    "team_B_bans": [row.get(f'Team2Ban{i}', '') for i in range(1, 6)],
-                    "team_A_players": [],
-                    "team_B_players": []
-                }
+    game_ids = []
+    
+    for row in games_response:
+        # 🚨 4. 1군 팀 필터링을 파이썬에서 수행!
+        if row.get('Team1') not in lck_1st_teams or row.get('Team2') not in lck_1st_teams:
+            continue
+
+        g_id = row['GameId']
+        game_ids.append(f"'{g_id}'")
+        
+        date_kst, time_kst = convert_utc_to_kst(row.get('DateTime_UTC', ''))
+        week_kr, week_en = extract_week_info(row.get('MatchId', ''), row.get('Tournament', ''))
+        
+        games_map[g_id] = {
+            "tournament": row.get('Tournament', 'LCK 2026'),
+            "week_kr": week_kr,
+            "week_en": week_en,
+            "date_kst": date_kst,
+            "time_kst": time_kst,
+            "patch": row.get('Patch') or "Unknown",
+            "team_A": row.get('Team1', ''),
+            "team_B": row.get('Team2', ''),
+            "team_A_score": int(row.get('Team1Score') or 0),
+            "team_B_score": int(row.get('Team2Score') or 0),
+            "set_number": str(row.get('N_GameInMatch') or "1"),
+            "team_A_bans": [], "team_B_bans": [],
+            "team_A_players": [], "team_B_players": []
+        }
+        
+        if len(games_map) >= limit_count:
+            break
             
-            # 괄호 안의 본명 제거 로직 추가
-            raw_name = row.get('PlayerName', 'Unknown')
-            clean_name = re.sub(r'\s*\(.*?\)', '', raw_name) # 괄호와 그 앞의 공백 제거
-
-            player_info = {
-                "name": clean_name, # 정제된 닉네임 저장
-                "role": row.get('Role', ''),
-                "champion": row.get('Champion', ''),
-                "kills": int(row.get('Kills') or 0),
-                "deaths": int(row.get('Deaths') or 0),
-                "assists": int(row.get('Assists') or 0),
-                "gold": int(row.get('Gold') or 0),
-                "damage": int(row.get('DamageToChampions') or int(row.get('Damage') or 0)) # 딜량 필드 확실하게!
-            }
-            # 팀 구분
-            if row.get('PlayerTeam') == games_map[game_id]['team_A']:
-                games_map[game_id]['team_A_players'].append(player_info)
-            else:
-                games_map[game_id]['team_B_players'].append(player_info)
-
-        print(f"✅ 총 {len(games_map)}개 세트의 선수 전원(10명) 픽/스탯 데이터를 완성했습니다!\n")
-        return list(games_map.values())[:limit_count]
-    else:
-        print("❌ 경기 데이터를 찾을 수 없습니다.")
+    if not game_ids:
+        print("❌ 1군 경기 데이터를 찾을 수 없습니다.")
         return []
+        
+    game_ids_str = ", ".join(game_ids)
+
+    # 💡 5. 밴픽 데이터
+    pb_response = safe_query(
+        tables="PicksAndBansS7=PB",
+        fields="PB.GameId, PB.Team1Ban1, PB.Team1Ban2, PB.Team1Ban3, PB.Team1Ban4, PB.Team1Ban5, PB.Team2Ban1, PB.Team2Ban2, PB.Team2Ban3, PB.Team2Ban4, PB.Team2Ban5",
+        where=f"PB.GameId IN ({game_ids_str})"
+    )
+    if pb_response:
+        for pb in pb_response:
+            g_id = pb['GameId']
+            if g_id in games_map:
+                games_map[g_id]["team_A_bans"] = [pb.get(f'Team1Ban{i}', '') for i in range(1, 6)]
+                games_map[g_id]["team_B_bans"] = [pb.get(f'Team2Ban{i}', '') for i in range(1, 6)]
+
+    # 💡 6. 선수 데이터
+    players_response = safe_query(
+        tables="ScoreboardPlayers=SP",
+        fields="SP.GameId, SP.Link, SP.Team, SP.Champion, SP.Role, SP.Kills, SP.Deaths, SP.Assists, SP.Gold, SP.DamageToChampions",
+        where=f"SP.GameId IN ({game_ids_str})"
+    )
+    if players_response:
+        import re
+        for sp in players_response:
+            g_id = sp['GameId']
+            if g_id in games_map:
+                clean_name = re.sub(r'\s*\(.*?\)', '', sp.get('Link', 'Unknown'))
+                player_info = {
+                    "name": clean_name,
+                    "role": sp.get('Role', ''),
+                    "champion": sp.get('Champion', ''),
+                    "kills": int(sp.get('Kills') or 0),
+                    "deaths": int(sp.get('Deaths') or 0),
+                    "assists": int(sp.get('Assists') or 0),
+                    "gold": int(sp.get('Gold') or 0),
+                    "damage": int(sp.get('DamageToChampions') or 0)
+                }
+                if sp.get('Team') == games_map[g_id]['team_A']:
+                    games_map[g_id]['team_A_players'].append(player_info)
+                else:
+                    games_map[g_id]['team_B_players'].append(player_info)
+
+    print(f"✅ 총 {len(games_map)}개 세트의 데이터 조립을 완료했습니다!\n")
+    return list(games_map.values())
 
 def analyze_draft(match_data):
     # AI 프롬프트에 포지션별 선수 닉네임과 픽 챔피언 제공
@@ -170,11 +215,6 @@ def analyze_draft(match_data):
     
     return "API 호출 한도 초과로 인하여 분석 리포트를 생성하지 못했습니다."
 
-    interaction = client.interactions.create(
-        model='gemini-3.6-flash',
-        input=prompt,
-    )
-    return interaction.output_text
 
 def save_to_firestore(match_id, match_data, ai_review_text):
     # 포지션 순서 정렬 도우미
@@ -211,7 +251,18 @@ def save_to_firestore(match_id, match_data, ai_review_text):
     db.collection('matches').document(match_id).set(doc_data)
 
 if __name__ == "__main__":
-    recent_matches = fetch_recent_lck_matches(limit_count=3)
+    # 💡 사용자에게 날짜 입력받기 (터미널에서 타이핑)
+    print("=========================================")
+    user_input_date = input("📅 분석할 LCK 경기 날짜를 입력하세요 (예: 2026-08-16)\n[그냥 엔터(Enter)를 치면 가장 최근 3세트를 가져옵니다]: ").strip()
+    print("=========================================\n")
+
+    if user_input_date:
+        # 특정 날짜를 입력한 경우, 그 날의 모든 세트(넉넉하게 10세트)를 가져옴
+        recent_matches = fetch_recent_lck_matches(limit_count=10, target_date=user_input_date)
+    else:
+        # 엔터를 친 경우 최근 3세트만 가져옴
+        recent_matches = fetch_recent_lck_matches(limit_count=3)
+        
     if recent_matches:
         for match in recent_matches:
             time_clean = match['time_kst'].replace(":", "")
@@ -224,8 +275,10 @@ if __name__ == "__main__":
             save_to_firestore(dynamic_match_id, match, result)
             print(f"   ✅ Firestore 저장 완료! Document ID: {dynamic_match_id}\n")
             
-            # 🚨 [추가] 무료 API 요금제 제한(Rate Limit)을 피하기 위해 1개 분석 후 30초 휴식
             print("⏳ API 호출 한도 보호를 위해 30초 대기합니다...\n")
+            import time
             time.sleep(30) 
 
-        print("🎉 모든 세부 선수 데이터 및 AI 리포트 저장이 완료되었습니다!")
+        print(f"🎉 모든 파이프라인 처리가 완료되었습니다!")
+    else:
+        print(f"❌ 해당 조건({user_input_date})에 맞는 경기 데이터를 찾지 못했습니다.")
