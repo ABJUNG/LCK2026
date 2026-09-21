@@ -2,6 +2,11 @@ import { useState, useEffect } from 'react';
 import { db } from '../firebase';
 import { collection, getDocs } from 'firebase/firestore';
 import MatchCard from './Matchcard.jsx';
+import { groupMatches } from '../utils/groupMatches';
+
+const demoMode = import.meta.env.DEV
+  ? new URLSearchParams(window.location.search).get('demo')
+  : null;
 
 function MatchList() {
   const [groupedMatches, setGroupedMatches] = useState([]);
@@ -15,46 +20,15 @@ function MatchList() {
     let cancelled = false;
     const fetchAllMatches = async () => {
       try {
-        const matchesRef = collection(db, 'matches');
-        const querySnapshot = await getDocs(matchesRef);
-
-        const matchArray = [];
-        querySnapshot.forEach((doc) => {
-          matchArray.push({ id: doc.id, ...doc.data() });
-        });
-
-        // 💡 1. 시리즈(매치) 단위로 데이터 그룹화
-        const groups = {};
-        matchArray.forEach(match => {
-          // 고유 키 생성 (예: "2026-08-16_Gen.G_T1")
-          const seriesKey = `${match.dateKST}_${match.teamA}_${match.teamB}`;
-          
-          if (!groups[seriesKey]) {
-            groups[seriesKey] = {
-              seriesKey,
-              dateKST: match.dateKST,
-              timeKST: match.timeKST,
-              teamA: match.teamA,
-              teamB: match.teamB,
-              tournament: match.tournament,
-              week: match.week,
-              sets: [] // 세트 데이터들이 담길 배열
-            };
-          }
-          groups[seriesKey].sets.push(match);
-        });
-
-        // 💡 2. 각 시리즈 내에서 1세트 -> 2세트 순서로 정렬
-        Object.values(groups).forEach(group => {
-          group.sets.sort((a, b) => parseInt(a.setNumber) - parseInt(b.setNumber));
-        });
-
-        // 💡 3. 전체 시리즈를 최신 날짜순으로 정렬
-        const sortedGroups = Object.values(groups).sort((a, b) => {
-          const timeA = new Date(`${a.dateKST}T${a.timeKST}`);
-          const timeB = new Date(`${b.dateKST}T${b.timeKST}`);
-          return timeB - timeA;
-        });
+        let matchArray;
+        if (demoMode) {
+          const { loadDemoMatches } = await import('../dev/demoMatches');
+          matchArray = await loadDemoMatches(demoMode, requestId);
+        } else {
+          const querySnapshot = await getDocs(collection(db, 'matches'));
+          matchArray = querySnapshot.docs.map(doc => ({ ...doc.data(), id: doc.id }));
+        }
+        const sortedGroups = groupMatches(matchArray);
 
         if (!cancelled) setGroupedMatches(sortedGroups);
       } catch (error) {
@@ -75,9 +49,16 @@ function MatchList() {
     setRequestId(previous => previous + 1);
   };
 
+  const demoNotice = demoMode && (
+    <p className="mb-4 rounded-lg border border-amber-400 p-3 text-sm text-amber-300">
+      개발 확인용 예제 데이터입니다. 실제 경기 결과가 아닙니다. ({demoMode})
+    </p>
+  );
+
   if (loading) {
     return (
       <div role="status" className="flex flex-col items-center justify-center p-12 bg-slate-800/50 rounded-xl border border-slate-700">
+        {demoNotice}
         <div className="w-8 h-8 border-4 border-amber-400 border-t-transparent rounded-full animate-spin mb-3"></div>
         <p className="text-amber-400 font-bold text-sm">🍚 경기 데이터를 묶어서 불러오는 중입니다...</p>
       </div>
@@ -87,6 +68,7 @@ function MatchList() {
   if (error) {
     return (
       <div role="alert" className="p-8 text-center bg-slate-800/40 rounded-xl border border-red-400/40">
+        {demoNotice}
         <p className="text-slate-200">{error}</p>
         <button type="button" onClick={retry}
           className="mt-4 rounded-lg bg-amber-400 px-4 py-2 font-bold text-slate-950 hover:bg-amber-300 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-amber-400">
@@ -99,6 +81,7 @@ function MatchList() {
   if (groupedMatches.length === 0) {
     return (
       <div className="p-8 text-center bg-slate-800/40 rounded-xl border border-slate-700/60">
+        {demoNotice}
         <p className="text-slate-400">저장된 경기 데이터가 없습니다.</p>
       </div>
     );
@@ -106,6 +89,7 @@ function MatchList() {
 
   return (
     <div className="space-y-6 animate-fade-in">
+      {demoNotice}
       <div className="flex justify-between items-center">
         <h3 className="text-xl font-bold text-white flex items-center gap-2">
           <span>🔥</span> 최근 분석된 LCK 매치 ({groupedMatches.length}경기)

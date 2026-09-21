@@ -134,7 +134,8 @@ function MatchCard({ seriesData }) {
       <div className="flex gap-2 mb-4 border-b border-slate-700/60 pb-3">
         {seriesData.sets.map((set, index) => (
           <button
-            key={index}
+            key={set.id || set.setNumber}
+            aria-pressed={activeTabIndex === index}
             onClick={() => setActiveTabIndex(index)}
             className={`px-4 py-1.5 text-xs font-bold rounded-full transition-all ${
               activeTabIndex === index 
@@ -146,7 +147,7 @@ function MatchCard({ seriesData }) {
           </button>
         ))}
         {/* 총평 탭 (미래 확장용 UI) */}
-        <button className="px-4 py-1.5 text-xs font-bold rounded-full bg-slate-800 border border-slate-600 text-slate-400 opacity-50 cursor-not-allowed" title="곧 추가될 예정입니다.">
+        <button className="px-4 py-1.5 text-xs font-bold rounded-full bg-slate-800 border border-slate-600 text-slate-400 opacity-50 cursor-not-allowed" disabled title="곧 추가될 예정입니다.">
           총평 (예정)
         </button>
       </div>
