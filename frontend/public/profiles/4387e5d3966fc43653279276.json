@@ -1,0 +1,437 @@
+{
+  "schemaVersion": 1,
+  "id": "Effort",
+  "fetchedAt": "2026-10-07T09:20:41.533078+00:00",
+  "sourceUrl": "https://lol.fandom.com/wiki/Effort",
+  "careerStatus": "fetched",
+  "resultsStatus": "fetched",
+  "awardsStatus": "not_collected",
+  "awards": [],
+  "careers": [
+    {
+      "team": "KT Rolster",
+      "joinedAt": "2026-03-22",
+      "leftAt": null,
+      "current": true,
+      "joinedPrecision": "1",
+      "leftPrecision": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Effort"
+    },
+    {
+      "team": "KT Rolster Challengers",
+      "joinedAt": "2025-11-21",
+      "leftAt": "2026-03-22",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Effort"
+    },
+    {
+      "team": "OKSavingsBank BRION Challengers",
+      "joinedAt": "2024-02-03",
+      "leftAt": "2024-11-17",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Effort"
+    },
+    {
+      "team": "OKSavingsBank BRION",
+      "joinedAt": "2023-11-30",
+      "leftAt": "2024-02-03",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Effort"
+    },
+    {
+      "team": "OKSavingsBank BRION",
+      "joinedAt": "2022-11-28",
+      "leftAt": "2023-11-20",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Effort"
+    },
+    {
+      "team": "Nongshim RedForce",
+      "joinedAt": "2021-11-24",
+      "leftAt": "2022-11-21",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Effort"
+    },
+    {
+      "team": "Liiv SANDBOX",
+      "joinedAt": "2020-12-01",
+      "leftAt": "2021-11-15",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Effort"
+    },
+    {
+      "team": "T1",
+      "joinedAt": "2019-12-08",
+      "leftAt": "2020-12-01",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Effort"
+    },
+    {
+      "team": "SK Telecom T1",
+      "joinedAt": "2017-01-01",
+      "leftAt": "2019-12-08",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Effort"
+    }
+  ],
+  "results": [
+    {
+      "id": "LCK/2026 Season/Season Playoffs_5",
+      "tournament": "LCK 2026 Season Playoffs",
+      "team": "KT Rolster",
+      "date": "2026-09-04",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK/2026 Season/Season Play-In_1",
+      "tournament": "LCK 2026 Season Play-In",
+      "team": "KT Rolster",
+      "date": "2026-08-26",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FSeason_Play-In"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 3-4_1_5",
+      "tournament": "LCK 2026 Rounds 3-4",
+      "team": "KT Rolster",
+      "date": "2026-08-23",
+      "place": "5",
+      "phase": "Legend Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_3-4"
+    },
+    {
+      "id": "2026 LoL KeSPA Cup_8",
+      "tournament": "KeSPA Cup 2026",
+      "team": "KT Rolster",
+      "date": "2026-07-28",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK/2026 Season/Road to MSI_4",
+      "tournament": "LCK 2026 Road to MSI",
+      "team": "KT Rolster",
+      "date": "2026-06-13",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRoad_to_MSI"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 1-2_4",
+      "tournament": "LCK 2026 Rounds 1-2",
+      "team": "KT Rolster",
+      "date": "2026-05-31",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_1-2"
+    },
+    {
+      "id": "Esports World Cup 2026/Online Qualifiers/Korea_7",
+      "tournament": "Esports World Cup 2026 Online Qualifier: Korea",
+      "team": "KT Rolster",
+      "date": "2026-05-18",
+      "place": "NQ",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Esports_World_Cup_2026%2FOnline_Qualifiers%2FKorea"
+    },
+    {
+      "id": "LCK CL/2026 Season/Kickoff_3",
+      "tournament": "LCK CL 2026 Kickoff",
+      "team": "KT Rolster Challengers",
+      "date": "2026-03-02",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2026_Season%2FKickoff"
+    },
+    {
+      "id": "2025 LoL KeSPA Cup_11",
+      "tournament": "KeSPA Cup 2025",
+      "team": "KT Rolster",
+      "date": "2025-12-08",
+      "place": "10-12",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK CL/2024 Season/Summer Season_1_7",
+      "tournament": "LCK CL 2024 Summer",
+      "team": "OKSavingsBank BRION Challengers",
+      "date": "2024-08-16",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2024_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK CL/2024 Season/Spring Playoffs_5",
+      "tournament": "LCK CL 2024 Spring Playoffs",
+      "team": "OKSavingsBank BRION Challengers",
+      "date": "2024-03-25",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2024_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK/2024 Season/Spring Season_1_10",
+      "tournament": "LCK 2024 Spring",
+      "team": "OKSavingsBank BRION",
+      "date": "2024-03-24",
+      "place": "10",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2024_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK CL/2024 Season/Spring Season_1_6",
+      "tournament": "LCK CL 2024 Spring",
+      "team": "OKSavingsBank BRION Challengers",
+      "date": "2024-03-22",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2024_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK/2023 Season/Summer Season_1_8",
+      "tournament": "LCK 2023 Summer",
+      "team": "OKSavingsBank BRION",
+      "date": "2023-08-06",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2023_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK CL/2023 Season/Summer Season_1_6",
+      "tournament": "LCK CL 2023 Summer",
+      "team": "OKSavingsBank BRION Challengers",
+      "date": "2023-08-04",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2023_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2023 Season/Spring Season_1_8",
+      "tournament": "LCK 2023 Spring",
+      "team": "BRION",
+      "date": "2023-03-19",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2023_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK/2022 Season/Summer Season_1_8",
+      "tournament": "LCK 2022 Summer",
+      "team": "Nongshim RedForce",
+      "date": "2022-08-14",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2022_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2022 Season/Spring Season_1_8",
+      "tournament": "LCK 2022 Spring",
+      "team": "Nongshim RedForce",
+      "date": "2022-03-20",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2022_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK/2021 Season/Regional Finals_4",
+      "tournament": "LCK 2021 Regional Finals",
+      "team": "Liiv SANDBOX",
+      "date": "2021-08-31",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2021_Season%2FRegional_Finals"
+    },
+    {
+      "id": "LCK/2021 Season/Summer Playoffs_5",
+      "tournament": "LCK 2021 Summer Playoffs",
+      "team": "Liiv SANDBOX",
+      "date": "2021-08-19",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2021_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2021 Season/Summer Season_1_5",
+      "tournament": "LCK 2021 Summer",
+      "team": "Liiv SANDBOX",
+      "date": "2021-08-15",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2021_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2021 Season/Spring Season_1_8",
+      "tournament": "LCK 2021 Spring",
+      "team": "Liiv SANDBOX",
+      "date": "2021-03-28",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2021_Season%2FSpring_Season"
+    },
+    {
+      "id": "2020 LoL KeSPA Cup_5",
+      "tournament": "KeSPA Cup 2020",
+      "team": "Liiv SANDBOX",
+      "date": "2020-12-25",
+      "place": "5-6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2020_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK/2020 Season/Regional Finals_2",
+      "tournament": "LCK 2020 Regional Finals",
+      "team": "T1",
+      "date": "2020-09-09",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2020_Season%2FRegional_Finals"
+    },
+    {
+      "id": "LCK/2020 Season/Summer Playoffs_5",
+      "tournament": "LCK 2020 Summer Playoffs",
+      "team": "T1",
+      "date": "2020-08-26",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2020_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2020 Season/Summer Season_4",
+      "tournament": "LCK 2020 Summer",
+      "team": "T1",
+      "date": "2020-08-23",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2020_Season%2FSummer_Season"
+    },
+    {
+      "id": "2020 Mid-Season Cup_7",
+      "tournament": "Mid-Season Cup 2020",
+      "team": "T1",
+      "date": "2020-05-28",
+      "place": "7-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2020_Mid-Season_Cup"
+    },
+    {
+      "id": "LCK/2020 Season/Spring Playoffs_1",
+      "tournament": "LCK 2020 Spring Playoffs",
+      "team": "T1",
+      "date": "2020-04-25",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2020_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK/2020 Season/Spring Season_2",
+      "tournament": "LCK 2020 Spring",
+      "team": "T1",
+      "date": "2020-04-16",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2020_Season%2FSpring_Season"
+    },
+    {
+      "id": "2019 LoL KeSPA Cup_3",
+      "tournament": "KeSPA Cup 2019",
+      "team": "T1",
+      "date": "2020-01-03",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2019_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "2019 Season World Championship_4",
+      "tournament": "Worlds 2019",
+      "team": "SK Telecom T1",
+      "date": "2019-11-03",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2019_Season_World_Championship"
+    },
+    {
+      "id": "LCK/2019 Season/Summer Playoffs_1",
+      "tournament": "LCK 2019 Summer Playoffs",
+      "team": "SK Telecom T1",
+      "date": "2019-08-31",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2019_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2019 Season/Summer Season_4",
+      "tournament": "LCK 2019 Summer",
+      "team": "SK Telecom T1",
+      "date": "2019-08-18",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2019_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2018 Season/Regional Finals_4",
+      "tournament": "Korea Regional Finals 2018",
+      "team": "SK Telecom T1",
+      "date": "2018-09-12",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2018_Season%2FRegional_Finals"
+    },
+    {
+      "id": "LCK/2018 Season/Summer Season_7",
+      "tournament": "LCK 2018 Summer",
+      "team": "SK Telecom T1",
+      "date": "2018-08-09",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2018_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2018 Season/Spring Playoffs_4",
+      "tournament": "LCK 2018 Spring Playoffs",
+      "team": "SK Telecom T1",
+      "date": "2018-04-04",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2018_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK/2018 Season/Spring Season_4",
+      "tournament": "LCK 2018 Spring",
+      "team": "SK Telecom T1",
+      "date": "2018-03-25",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2018_Season%2FSpring_Season"
+    },
+    {
+      "id": "2017 LoL KeSPA Cup_4",
+      "tournament": "KeSPA Cup 2017",
+      "team": "SK Telecom T1",
+      "date": "2017-12-02",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2017_LoL_KeSPA_Cup"
+    }
+  ]
+}

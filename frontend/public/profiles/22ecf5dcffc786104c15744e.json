@@ -1,0 +1,419 @@
+{
+  "schemaVersion": 1,
+  "id": "Clear (Song Hyeon-min)",
+  "fetchedAt": "2026-10-07T09:20:41.533078+00:00",
+  "sourceUrl": "https://lol.fandom.com/wiki/Clear_%28Song_Hyeon-min%29",
+  "careerStatus": "fetched",
+  "resultsStatus": "fetched",
+  "awardsStatus": "not_collected",
+  "awards": [],
+  "careers": [
+    {
+      "team": "BNK FEARX",
+      "joinedAt": "2023-12-15",
+      "leftAt": null,
+      "current": true,
+      "joinedPrecision": "1",
+      "leftPrecision": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Clear_%28Song_Hyeon-min%29"
+    },
+    {
+      "team": "Liiv SANDBOX",
+      "joinedAt": "2023-07-04",
+      "leftAt": "2023-12-15",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Clear_%28Song_Hyeon-min%29"
+    },
+    {
+      "team": "Liiv SANDBOX Youth",
+      "joinedAt": "2023-06-03",
+      "leftAt": "2023-07-04",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Clear_%28Song_Hyeon-min%29"
+    },
+    {
+      "team": "DRX",
+      "joinedAt": "2022-02-08",
+      "leftAt": "2022-02-11",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Clear_%28Song_Hyeon-min%29"
+    },
+    {
+      "team": "DRX Challengers",
+      "joinedAt": "2021-01-07",
+      "leftAt": "2023-05-22",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Clear_%28Song_Hyeon-min%29"
+    },
+    {
+      "team": "Ulsan",
+      "joinedAt": "2020-11-06",
+      "leftAt": "2020-11-07",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Clear_%28Song_Hyeon-min%29"
+    },
+    {
+      "team": "DRX Academy",
+      "joinedAt": "2020-07-18",
+      "leftAt": "2021-01-07",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Clear_%28Song_Hyeon-min%29"
+    }
+  ],
+  "results": [
+    {
+      "id": "LCK/2026 Season/Season Playoffs_6",
+      "tournament": "LCK 2026 Season Playoffs",
+      "team": "BNK FEARX",
+      "date": "2026-09-03",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK/2026 Season/Season Play-In_2",
+      "tournament": "LCK 2026 Season Play-In",
+      "team": "BNK FEARX",
+      "date": "2026-08-28",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FSeason_Play-In"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 3-4_2_3",
+      "tournament": "LCK 2026 Rounds 3-4",
+      "team": "BNK FEARX",
+      "date": "2026-08-23",
+      "place": "3",
+      "phase": "Rise Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_3-4"
+    },
+    {
+      "id": "2026 LoL KeSPA Cup_10",
+      "tournament": "KeSPA Cup 2026",
+      "team": "BNK FEARX",
+      "date": "2026-07-27",
+      "place": "9-10",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 1-2_7",
+      "tournament": "LCK 2026 Rounds 1-2",
+      "team": "BNK FEARX",
+      "date": "2026-05-31",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_1-2"
+    },
+    {
+      "id": "Esports World Cup 2026/Online Qualifiers/Korea_6",
+      "tournament": "Esports World Cup 2026 Online Qualifier: Korea",
+      "team": "BNK FEARX",
+      "date": "2026-05-19",
+      "place": "NQ",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Esports_World_Cup_2026%2FOnline_Qualifiers%2FKorea"
+    },
+    {
+      "id": "2026 First Stand_5",
+      "tournament": "First Stand 2026",
+      "team": "BNK FEARX",
+      "date": "2026-03-20",
+      "place": "5-6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_First_Stand"
+    },
+    {
+      "id": "LCK/2026 Season/Cup_2",
+      "tournament": "LCK Cup 2026",
+      "team": "BNK FEARX",
+      "date": "2026-03-01",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FCup"
+    },
+    {
+      "id": "2025 LoL KeSPA Cup_7",
+      "tournament": "KeSPA Cup 2025",
+      "team": "BNK FEARX",
+      "date": "2025-12-08",
+      "place": "7-9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "2025 League of Legends Asia Invitational_1",
+      "tournament": "League of Legends Asia Invitational 2025",
+      "team": "BNK FEARX",
+      "date": "2025-10-12",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_League_of_Legends_Asia_Invitational"
+    },
+    {
+      "id": "LCK/2025 Season/Season Playoffs_6",
+      "tournament": "LCK 2025 Season Playoffs",
+      "team": "BNK FEARX",
+      "date": "2025-09-17",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK/2025 Season/Season Play-In_1",
+      "tournament": "LCK 2025 Season Play-In",
+      "team": "BNK FEARX",
+      "date": "2025-09-05",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FSeason_Play-In"
+    },
+    {
+      "id": "LCK/2025 Season/Rounds 3-5_2_2",
+      "tournament": "LCK 2025 Rounds 3-5",
+      "team": "BNK FEARX",
+      "date": "2025-08-31",
+      "place": "2",
+      "phase": "Rise Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRounds_3-5"
+    },
+    {
+      "id": "LCK/2025 Season/Rounds 1-2_7",
+      "tournament": "LCK 2025 Rounds 1-2",
+      "team": "BNK FEARX",
+      "date": "2025-06-04",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRounds_1-2"
+    },
+    {
+      "id": "LCK CL/2025 Season/Rounds 1-2_3",
+      "tournament": "LCK CL 2025 Rounds 1-2",
+      "team": "BNK FEARX Youth",
+      "date": "2025-05-30",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2025_Season%2FRounds_1-2"
+    },
+    {
+      "id": "LCK/2025 Season/Cup_10",
+      "tournament": "LCK Cup 2025",
+      "team": "BNK FEARX",
+      "date": "2025-02-02",
+      "place": "10",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FCup"
+    },
+    {
+      "id": "LCK/2024 Season/Regional Finals_4",
+      "tournament": "LCK 2024 Regional Finals",
+      "team": "BNK FEARX",
+      "date": "2024-09-13",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2024_Season%2FRegional_Finals"
+    },
+    {
+      "id": "LCK/2024 Season/Summer Playoffs_6",
+      "tournament": "LCK 2024 Summer Playoffs",
+      "team": "BNK FEARX",
+      "date": "2024-08-23",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2024_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2024 Season/Summer Season_1_6",
+      "tournament": "LCK 2024 Summer",
+      "team": "BNK FEARX",
+      "date": "2024-08-18",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2024_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2024 Season/Spring Season_1_7",
+      "tournament": "LCK 2024 Spring",
+      "team": "FearX",
+      "date": "2024-03-24",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2024_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK/2023 Season/Summer Season_1_7",
+      "tournament": "LCK 2023 Summer",
+      "team": "Liiv SANDBOX",
+      "date": "2023-08-06",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2023_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK CL/2023 Season/Spring Playoffs_2",
+      "tournament": "LCK CL 2023 Spring Playoffs",
+      "team": "DRX Challengers",
+      "date": "2023-04-07",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2023_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK CL/2023 Season/Spring Season_1_1",
+      "tournament": "LCK CL 2023 Spring",
+      "team": "DRX Challengers",
+      "date": "2023-03-17",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2023_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK CL/2022 Season/Summer Playoffs_4",
+      "tournament": "LCK CL 2022 Summer Playoffs",
+      "team": "DRX Challengers",
+      "date": "2022-08-23",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2022_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK CL/2022 Season/Summer Season_1_6",
+      "tournament": "LCK CL 2022 Summer",
+      "team": "DRX Challengers",
+      "date": "2022-08-12",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2022_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK CL/2022 Season/Spring Playoffs_3",
+      "tournament": "LCK CL 2022 Spring Playoffs",
+      "team": "DRX Challengers",
+      "date": "2022-03-28",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2022_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK/2022 Season/Spring Season_1_4",
+      "tournament": "LCK 2022 Spring",
+      "team": "DRX",
+      "date": "2022-03-20",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2022_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK CL/2022 Season/Spring Season_1_1",
+      "tournament": "LCK CL 2022 Spring",
+      "team": "DRX Challengers",
+      "date": "2022-03-19",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2022_Season%2FSpring_Season"
+    },
+    {
+      "id": "2021 LoL KeSPA Cup_5",
+      "tournament": "KeSPA Cup 2021",
+      "team": "DRX Challengers",
+      "date": "2021-12-10",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2021_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK CL/2021 Season/Summer Playoffs_6",
+      "tournament": "LCK CL 2021 Summer Playoffs",
+      "team": "DRX Challengers",
+      "date": "2021-08-16",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2021_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK CL/2021 Season/Summer Season_1_6",
+      "tournament": "LCK CL 2021 Summer",
+      "team": "DRX Challengers",
+      "date": "2021-08-10",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2021_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK CL/2021 Season/Spring Playoffs_4",
+      "tournament": "LCK CL 2021 Spring Playoffs",
+      "team": "DRX Challengers",
+      "date": "2021-04-05",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2021_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK CL/2021 Season/Spring Season_1_5",
+      "tournament": "LCK CL 2021 Spring",
+      "team": "DRX Challengers",
+      "date": "2021-03-23",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2021_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK Academy Series/2020 Season/November_2",
+      "tournament": "LCK AS 2020 November",
+      "team": "DRX Challenge",
+      "date": "2020-11-22",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2020_Season%2FNovember"
+    },
+    {
+      "id": "2020 KeG Championship_5",
+      "tournament": "KeG Championship 2020",
+      "team": "Ulsan",
+      "date": "2020-11-07",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2020_KeG_Championship"
+    },
+    {
+      "id": "LCK Academy Series/2020 Season/October_5",
+      "tournament": "LCK AS 2020 October",
+      "team": "DRX Challenge",
+      "date": "2020-10-17",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2020_Season%2FOctober"
+    },
+    {
+      "id": "LCK Academy Series/2020 Season/September_21",
+      "tournament": "LCK AS 2020 September",
+      "team": "DRX Challenge",
+      "date": "2020-09-06",
+      "place": "17-21",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2020_Season%2FSeptember"
+    },
+    {
+      "id": "LCK Academy Series/2020 Season/August_5",
+      "tournament": "LCK AS 2020 August",
+      "team": "DRX Challenge",
+      "date": "2020-08-08",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2020_Season%2FAugust"
+    }
+  ]
+}

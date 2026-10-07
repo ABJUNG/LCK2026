@@ -1,0 +1,2212 @@
+{
+  "version": "quality-v1",
+  "reviewedAt": "2026-10-07",
+  "cases": [
+    {
+      "setNumber": "1",
+      "sourceGameId": "LCK/2026 Season/Season Playoffs_Finals_1_1",
+      "sourceScope": "provided_stats_timeline_and_user_commentary; no_video_review",
+      "reviewer": "codex_agent",
+      "humanReviewStatus": "not_reviewed",
+      "originalPromptVersion": "spectator-v6",
+      "commentarySource": {
+        "attribution": "나무위키 해당 문서 기여자",
+        "providedAt": "2026-10-07",
+        "sourceGameId": "LCK/2026 Season/Season Playoffs_Finals_1_1",
+        "setNumber": "1",
+        "verification": "user_provided_unverified",
+        "title": "2026 LoL Champions Korea/결승전 · 1세트 경과·평가",
+        "url": "https://namu.wiki/w/2026%20LoL%20Champions%20Korea/%EA%B2%B0%EC%8A%B9%EC%A0%84",
+        "license": "CC BY-NC-SA 2.0 KR"
+      },
+      "evidence": {
+        "sourceGameId": "LCK/2026 Season/Season Playoffs_Finals_1_1",
+        "tournament": "LCK 2026 Season Playoffs",
+        "setNumber": "1",
+        "patchVersion": "26.16",
+        "teamA": "Gen.G",
+        "teamB": "Hanwha Life Esports",
+        "teamSides": {
+          "teamA": "BLUE",
+          "teamB": "RED"
+        },
+        "winnerTeam": "Hanwha Life Esports",
+        "gameLength": "38:45",
+        "bans": {
+          "teamA": [
+            "Camille",
+            "Nocturne",
+            "Pantheon",
+            "Jarvan IV",
+            "Lee Sin"
+          ],
+          "teamB": [
+            "Ezreal",
+            "Cassiopeia",
+            "Olaf",
+            "Nautilus",
+            "Jhin"
+          ]
+        },
+        "detailCoverage": {
+          "stats": "available",
+          "timeline": "available"
+        },
+        "players": {
+          "teamA": [
+            {
+              "name": "Kiin",
+              "role": "Top",
+              "champion": "Rumble",
+              "kills": 2,
+              "deaths": 2,
+              "assists": 7,
+              "damage": 18411,
+              "gold": 13276
+            },
+            {
+              "name": "Canyon",
+              "role": "Jungle",
+              "champion": "Vi",
+              "kills": 2,
+              "deaths": 3,
+              "assists": 6,
+              "damage": 9907,
+              "gold": 14619
+            },
+            {
+              "name": "Chovy",
+              "role": "Mid",
+              "champion": "Ryze",
+              "kills": 2,
+              "deaths": 3,
+              "assists": 3,
+              "damage": 11079,
+              "gold": 14622
+            },
+            {
+              "name": "Ruler",
+              "role": "Bot",
+              "champion": "Lucian",
+              "kills": 6,
+              "deaths": 2,
+              "assists": 6,
+              "damage": 46777,
+              "gold": 20328
+            },
+            {
+              "name": "Duro",
+              "role": "Support",
+              "champion": "Milio",
+              "kills": 1,
+              "deaths": 3,
+              "assists": 11,
+              "damage": 5014,
+              "gold": 9766
+            }
+          ],
+          "teamB": [
+            {
+              "name": "Zeus",
+              "role": "Top",
+              "champion": "Galio",
+              "kills": 2,
+              "deaths": 1,
+              "assists": 6,
+              "damage": 13261,
+              "gold": 14094
+            },
+            {
+              "name": "Kanavi",
+              "role": "Jungle",
+              "champion": "Naafiri",
+              "kills": 5,
+              "deaths": 4,
+              "assists": 6,
+              "damage": 23813,
+              "gold": 16681
+            },
+            {
+              "name": "Zeka",
+              "role": "Mid",
+              "champion": "Orianna",
+              "kills": 4,
+              "deaths": 1,
+              "assists": 6,
+              "damage": 20964,
+              "gold": 16632
+            },
+            {
+              "name": "Gumayusi",
+              "role": "Bot",
+              "champion": "Caitlyn",
+              "kills": 2,
+              "deaths": 4,
+              "assists": 7,
+              "damage": 25741,
+              "gold": 17794
+            },
+            {
+              "name": "Delight",
+              "role": "Support",
+              "champion": "Bard",
+              "kills": 0,
+              "deaths": 3,
+              "assists": 10,
+              "damage": 6510,
+              "gold": 11066
+            }
+          ]
+        },
+        "objects": {
+          "teamA": {
+            "gold": 72611.0,
+            "towers": 3,
+            "barons": 0,
+            "heralds": 1,
+            "grubs": 2,
+            "inhibitors": 0,
+            "dragons": 2,
+            "infernals": 0,
+            "mountains": 1,
+            "oceans": 0,
+            "clouds": 0,
+            "chemtechs": 1,
+            "hextechs": 0,
+            "elders": 0,
+            "soul": null
+          },
+          "teamB": {
+            "gold": 76267.0,
+            "towers": 9,
+            "barons": 1,
+            "heralds": 0,
+            "grubs": 1,
+            "inhibitors": 1,
+            "dragons": 3,
+            "infernals": 0,
+            "mountains": 0,
+            "oceans": 1,
+            "clouds": 0,
+            "chemtechs": 2,
+            "hextechs": 0,
+            "elders": 0,
+            "soul": null
+          }
+        },
+        "timeline": {
+          "status": "available",
+          "events": [
+            {
+              "timestampMs": 508877,
+              "team": "Gen.G",
+              "kind": "HORDE"
+            },
+            {
+              "timestampMs": 514054,
+              "team": "Gen.G",
+              "kind": "HORDE"
+            },
+            {
+              "timestampMs": 535993,
+              "team": "Hanwha Life Esports",
+              "kind": "HORDE"
+            },
+            {
+              "timestampMs": 659064,
+              "team": "Gen.G",
+              "kind": "EARTH_DRAGON"
+            },
+            {
+              "timestampMs": 963593,
+              "team": "Gen.G",
+              "kind": "RIFTHERALD"
+            },
+            {
+              "timestampMs": 1013872,
+              "team": "Hanwha Life Esports",
+              "kind": "WATER_DRAGON"
+            },
+            {
+              "timestampMs": 1040067,
+              "team": "Hanwha Life Esports",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1082256,
+              "team": "Hanwha Life Esports",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1172127,
+              "team": "Hanwha Life Esports",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1221564,
+              "team": "Hanwha Life Esports",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1345059,
+              "team": "Hanwha Life Esports",
+              "kind": "CHEMTECH_DRAGON"
+            },
+            {
+              "timestampMs": 1513064,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1661484,
+              "team": "Hanwha Life Esports",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1744009,
+              "team": "Hanwha Life Esports",
+              "kind": "CHEMTECH_DRAGON"
+            },
+            {
+              "timestampMs": 1766029,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1877288,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1877622,
+              "team": "Hanwha Life Esports",
+              "kind": "BARON_NASHOR"
+            },
+            {
+              "timestampMs": 1977577,
+              "team": "Hanwha Life Esports",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 2036069,
+              "team": "Hanwha Life Esports",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 2039390,
+              "team": "Hanwha Life Esports",
+              "kind": "INHIBITOR_BUILDING"
+            },
+            {
+              "timestampMs": 2085493,
+              "team": "Gen.G",
+              "kind": "CHEMTECH_DRAGON"
+            },
+            {
+              "timestampMs": 2314189,
+              "team": "Hanwha Life Esports",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 2315057,
+              "team": "Hanwha Life Esports",
+              "kind": "TOWER_BUILDING"
+            }
+          ]
+        },
+        "communityReview": {
+          "url": "https://namu.wiki/w/2026%20LoL%20Champions%20Korea/%EA%B2%B0%EC%8A%B9%EC%A0%84",
+          "title": "2026 LoL Champions Korea/결승전 · 1세트 경과·평가",
+          "providedAt": "2026-10-07",
+          "attribution": "나무위키 해당 문서 기여자",
+          "license": "CC BY-NC-SA 2.0 KR",
+          "paragraphs": [
+            "작성자는 한화생명의 탑 갈리오 선택을 럼블 대응으로 평가하며, 갈리오·오리아나의 보호 능력과 나피리 중심 운영이 젠지의 바이 활용을 어렵게 했다고 해석한다.",
+            "작성자의 경과 설명에 따르면 초반 오리아나의 궁극기 실수로 젠지가 킬을 얻었지만, 이후 한화생명이 바텀·탑·미드 외곽 포탑을 차례로 철거하고 바텀 추가 포탑까지 확보하며 우위를 넓혔다.",
+            "작성자는 룰러의 루시안이 중반 교전에서 나피리를 잡아 교환을 만들었고, 젠지가 한화생명의 미드 공성에 반격했으나 역전으로 이어지지는 않았다고 서술한다.",
+            "작성자의 경과 설명에서는 한화생명이 시야 주도권을 바탕으로 바론을 확보했다고 한다. 이후 바론 앞 대치에서 젠지의 루시안·럼블 궁극기가 빠진 뒤 딜라이트의 바드 진입으로 시작된 교전이 한화생명의 승리로 이어졌다고 서술한다.",
+            "작성자는 마지막에 룰러가 구마유시를 잡았지만 카나비에게 쓰러져 한화생명이 세트를 끝냈다고 서술하며, 패배한 세트에서도 룰러의 높은 피해량과 저항을 긍정적으로 평가한다."
+          ],
+          "verification": "user_provided_unverified",
+          "sourceGameId": "LCK/2026 Season/Season Playoffs_Finals_1_1",
+          "setNumber": "1"
+        }
+      },
+      "facts": [
+        {
+          "text": "Hanwha Life Esports 승리 · 경기 시간 38:45",
+          "id": "F1"
+        },
+        {
+          "text": "Gen.G 조합: Kiin(Rumble), Canyon(Vi), Chovy(Ryze), Ruler(Lucian), Duro(Milio)",
+          "id": "F2"
+        },
+        {
+          "text": "Gen.G: 종료 골드 72,611.0 · 포탑 3 · 바론 0 · 유충 2 · 드래곤(장로 포함) 2",
+          "id": "F3"
+        },
+        {
+          "text": "Gen.G 팀 내 최대 챔피언 피해량: Ruler(Lucian) 46,777 · K/D/A 6/2/6",
+          "id": "F4"
+        },
+        {
+          "text": "Hanwha Life Esports 조합: Zeus(Galio), Kanavi(Naafiri), Zeka(Orianna), Gumayusi(Caitlyn), Delight(Bard)",
+          "id": "F5"
+        },
+        {
+          "text": "Hanwha Life Esports: 종료 골드 76,267.0 · 포탑 9 · 바론 1 · 유충 1 · 드래곤(장로 포함) 3",
+          "id": "F6"
+        },
+        {
+          "text": "Hanwha Life Esports 팀 내 최대 챔피언 피해량: Gumayusi(Caitlyn) 25,741 · K/D/A 2/4/7",
+          "id": "F7"
+        },
+        {
+          "text": "8:28 · Gen.G · 유충",
+          "id": "F8"
+        },
+        {
+          "text": "8:34 · Gen.G · 유충",
+          "id": "F9"
+        },
+        {
+          "text": "8:55 · Hanwha Life Esports · 유충",
+          "id": "F10"
+        },
+        {
+          "text": "10:59 · Gen.G · 대지 드래곤",
+          "id": "F11"
+        },
+        {
+          "text": "16:03 · Gen.G · 전령",
+          "id": "F12"
+        },
+        {
+          "text": "16:53 · Hanwha Life Esports · 바다 드래곤",
+          "id": "F13"
+        },
+        {
+          "text": "17:20 · Hanwha Life Esports · 포탑 파괴",
+          "id": "F14"
+        },
+        {
+          "text": "18:02 · Hanwha Life Esports · 포탑 파괴",
+          "id": "F15"
+        },
+        {
+          "text": "19:32 · Hanwha Life Esports · 포탑 파괴",
+          "id": "F16"
+        },
+        {
+          "text": "20:21 · Hanwha Life Esports · 포탑 파괴",
+          "id": "F17"
+        },
+        {
+          "text": "22:25 · Hanwha Life Esports · 화학공학 드래곤",
+          "id": "F18"
+        },
+        {
+          "text": "25:13 · Gen.G · 포탑 파괴",
+          "id": "F19"
+        },
+        {
+          "text": "27:41 · Hanwha Life Esports · 포탑 파괴",
+          "id": "F20"
+        },
+        {
+          "text": "29:04 · Hanwha Life Esports · 화학공학 드래곤",
+          "id": "F21"
+        },
+        {
+          "text": "29:26 · Gen.G · 포탑 파괴",
+          "id": "F22"
+        },
+        {
+          "text": "31:17 · Gen.G · 포탑 파괴",
+          "id": "F23"
+        },
+        {
+          "text": "31:17 · Hanwha Life Esports · 바론",
+          "id": "F24"
+        },
+        {
+          "text": "32:57 · Hanwha Life Esports · 포탑 파괴",
+          "id": "F25"
+        },
+        {
+          "text": "33:56 · Hanwha Life Esports · 포탑 파괴",
+          "id": "F26"
+        },
+        {
+          "text": "33:59 · Hanwha Life Esports · 억제기 파괴",
+          "id": "F27"
+        },
+        {
+          "text": "34:45 · Gen.G · 화학공학 드래곤",
+          "id": "F28"
+        },
+        {
+          "text": "38:34 · Hanwha Life Esports · 포탑 파괴",
+          "id": "F29"
+        },
+        {
+          "text": "38:35 · Hanwha Life Esports · 포탑 파괴",
+          "id": "F30"
+        },
+        {
+          "text": "관전평(독립 검증 전): 작성자는 한화생명의 탑 갈리오 선택을 럼블 대응으로 평가하며, 갈리오·오리아나의 보호 능력과 나피리 중심 운영이 젠지의 바이 활용을 어렵게 했다고 해석한다.",
+          "type": "community_opinion",
+          "id": "N1"
+        },
+        {
+          "text": "관전평(독립 검증 전): 작성자의 경과 설명에 따르면 초반 오리아나의 궁극기 실수로 젠지가 킬을 얻었지만, 이후 한화생명이 바텀·탑·미드 외곽 포탑을 차례로 철거하고 바텀 추가 포탑까지 확보하며 우위를 넓혔다.",
+          "type": "community_opinion",
+          "id": "N2"
+        },
+        {
+          "text": "관전평(독립 검증 전): 작성자는 룰러의 루시안이 중반 교전에서 나피리를 잡아 교환을 만들었고, 젠지가 한화생명의 미드 공성에 반격했으나 역전으로 이어지지는 않았다고 서술한다.",
+          "type": "community_opinion",
+          "id": "N3"
+        },
+        {
+          "text": "관전평(독립 검증 전): 작성자의 경과 설명에서는 한화생명이 시야 주도권을 바탕으로 바론을 확보했다고 한다. 이후 바론 앞 대치에서 젠지의 루시안·럼블 궁극기가 빠진 뒤 딜라이트의 바드 진입으로 시작된 교전이 한화생명의 승리로 이어졌다고 서술한다.",
+          "type": "community_opinion",
+          "id": "N4"
+        },
+        {
+          "text": "관전평(독립 검증 전): 작성자는 마지막에 룰러가 구마유시를 잡았지만 카나비에게 쓰러져 한화생명이 세트를 끝냈다고 서술하며, 패배한 세트에서도 룰러의 높은 피해량과 저항을 긍정적으로 평가한다.",
+          "type": "community_opinion",
+          "id": "N5"
+        }
+      ],
+      "beforeReport": {
+        "turningPoints": [
+          {
+            "text": "초반 교전 이후 한화생명은 외곽 포탑을 차례로 철거하며 운영 우위를 점했고, 시야를 바탕으로 바론을 챙겼습니다.",
+            "factIds": [
+              "F14",
+              "F15",
+              "F16",
+              "F17",
+              "F24",
+              "N2",
+              "N4"
+            ]
+          },
+          {
+            "text": "바론 앞 대치에서 바드의 진입으로 시작된 교전에서 승리한 한화생명이 넥서스를 파괴하며 승리를 확정했습니다.",
+            "factIds": [
+              "F1",
+              "F24",
+              "F29",
+              "F30",
+              "N4"
+            ]
+          }
+        ],
+        "summary": {
+          "text": "한화생명은 시야 장악과 바론 획득을 통해 승기를 잡았으며, 젠지는 루시안의 높은 피해량으로 맞섰으나 승부를 뒤집지는 못했습니다.",
+          "factIds": [
+            "F1",
+            "N4",
+            "N5"
+          ]
+        },
+        "draft": [
+          {
+            "text": "한화생명은 갈리오를 기용해 럼블의 변수를 차단했고, 오리아나와 함께 젠지의 바이 진입을 저지하는 조합을 구성했습니다.",
+            "factIds": [
+              "F2",
+              "F5",
+              "N1"
+            ]
+          }
+        ]
+      },
+      "beforeScreen": {
+        "version": "quality-v1",
+        "issues": [],
+        "semanticVerification": "not_performed"
+      },
+      "afterReport": {
+        "summary": {
+          "text": "한화생명이 시야와 바론을 챙기며 승리했습니다. 룰러의 루시안은 높은 피해량으로 맞섰지만 역전에는 이르지 못했습니다.",
+          "factIds": [
+            "F1",
+            "F4",
+            "N4",
+            "N5"
+          ]
+        },
+        "draft": [
+          {
+            "text": "갈리오로 럼블에 대응하고, 오리아나와 함께 아군을 보호하며 나피리 중심 운영을 돕는 구성입니다.",
+            "factIds": [
+              "F5",
+              "N1"
+            ]
+          }
+        ],
+        "turningPoints": [
+          {
+            "text": "외곽 포탑을 차례로 철거한 뒤, 시야를 바탕으로 바론을 확보했습니다.",
+            "factIds": [
+              "N2",
+              "N4",
+              "F14",
+              "F15",
+              "F16",
+              "F24"
+            ]
+          },
+          {
+            "text": "마지막 바론 앞 교전은 바드의 진입으로 시작됐고, 이후 한화생명이 경기를 끝냈습니다.",
+            "factIds": [
+              "N4",
+              "N5",
+              "F1"
+            ]
+          }
+        ]
+      },
+      "afterScreen": {
+        "version": "quality-v1",
+        "issues": [],
+        "semanticVerification": "not_performed"
+      }
+    },
+    {
+      "setNumber": "2",
+      "sourceGameId": "LCK/2026 Season/Season Playoffs_Finals_1_2",
+      "sourceScope": "provided_stats_timeline_and_user_commentary; no_video_review",
+      "reviewer": "codex_agent",
+      "humanReviewStatus": "not_reviewed",
+      "originalPromptVersion": "spectator-v5",
+      "commentarySource": null,
+      "evidence": {
+        "sourceGameId": "LCK/2026 Season/Season Playoffs_Finals_1_2",
+        "tournament": "LCK 2026 Season Playoffs",
+        "setNumber": "2",
+        "patchVersion": "26.16",
+        "teamA": "Hanwha Life Esports",
+        "teamB": "Gen.G",
+        "teamSides": {
+          "teamA": "BLUE",
+          "teamB": "RED"
+        },
+        "winnerTeam": "Gen.G",
+        "gameLength": "31:04",
+        "bans": {
+          "teamA": [
+            "Camille",
+            "Jayce",
+            "Seraphine",
+            "Cho'Gath",
+            "Xin Zhao"
+          ],
+          "teamB": [
+            "Ezreal",
+            "Cassiopeia",
+            "Lee Sin",
+            "Twisted Fate",
+            "Olaf"
+          ]
+        },
+        "detailCoverage": {
+          "stats": "available",
+          "timeline": "available"
+        },
+        "players": {
+          "teamA": [
+            {
+              "name": "Zeus",
+              "role": "Top",
+              "champion": "Anivia",
+              "kills": 2,
+              "deaths": 6,
+              "assists": 0,
+              "damage": 9627,
+              "gold": 10415
+            },
+            {
+              "name": "Kanavi",
+              "role": "Jungle",
+              "champion": "Jarvan IV",
+              "kills": 0,
+              "deaths": 6,
+              "assists": 4,
+              "damage": 6182,
+              "gold": 10919
+            },
+            {
+              "name": "Zeka",
+              "role": "Mid",
+              "champion": "Akali",
+              "kills": 2,
+              "deaths": 3,
+              "assists": 1,
+              "damage": 13199,
+              "gold": 11047
+            },
+            {
+              "name": "Gumayusi",
+              "role": "Bot",
+              "champion": "Yunara",
+              "kills": 1,
+              "deaths": 4,
+              "assists": 1,
+              "damage": 14736,
+              "gold": 13658
+            },
+            {
+              "name": "Delight",
+              "role": "Support",
+              "champion": "Lulu",
+              "kills": 0,
+              "deaths": 5,
+              "assists": 3,
+              "damage": 3280,
+              "gold": 7584
+            }
+          ],
+          "teamB": [
+            {
+              "name": "Kiin",
+              "role": "Top",
+              "champion": "Varus",
+              "kills": 10,
+              "deaths": 0,
+              "assists": 6,
+              "damage": 25034,
+              "gold": 14217
+            },
+            {
+              "name": "Canyon",
+              "role": "Jungle",
+              "champion": "Nocturne",
+              "kills": 2,
+              "deaths": 1,
+              "assists": 16,
+              "damage": 16265,
+              "gold": 13632
+            },
+            {
+              "name": "Chovy",
+              "role": "Mid",
+              "champion": "Lissandra",
+              "kills": 3,
+              "deaths": 1,
+              "assists": 15,
+              "damage": 27532,
+              "gold": 14681
+            },
+            {
+              "name": "Ruler",
+              "role": "Bot",
+              "champion": "Kalista",
+              "kills": 8,
+              "deaths": 2,
+              "assists": 7,
+              "damage": 24364,
+              "gold": 18150
+            },
+            {
+              "name": "Duro",
+              "role": "Support",
+              "champion": "Renata Glasc",
+              "kills": 1,
+              "deaths": 1,
+              "assists": 17,
+              "damage": 3789,
+              "gold": 8838
+            }
+          ]
+        },
+        "objects": {
+          "teamA": {
+            "gold": 53623.0,
+            "towers": 3,
+            "barons": 0,
+            "heralds": 1,
+            "grubs": 1,
+            "inhibitors": 0,
+            "dragons": 2,
+            "infernals": 0,
+            "mountains": 1,
+            "oceans": 0,
+            "clouds": 0,
+            "chemtechs": 0,
+            "hextechs": 1,
+            "elders": 0,
+            "soul": null
+          },
+          "teamB": {
+            "gold": 69518.0,
+            "towers": 9,
+            "barons": 2,
+            "heralds": 0,
+            "grubs": 2,
+            "inhibitors": 1,
+            "dragons": 3,
+            "infernals": 0,
+            "mountains": 0,
+            "oceans": 0,
+            "clouds": 1,
+            "chemtechs": 0,
+            "hextechs": 2,
+            "elders": 0,
+            "soul": null
+          }
+        },
+        "timeline": {
+          "status": "available",
+          "events": [
+            {
+              "timestampMs": 372554,
+              "team": "Gen.G",
+              "kind": "AIR_DRAGON"
+            },
+            {
+              "timestampMs": 554494,
+              "team": "Hanwha Life Esports",
+              "kind": "HORDE"
+            },
+            {
+              "timestampMs": 562208,
+              "team": "Gen.G",
+              "kind": "HORDE"
+            },
+            {
+              "timestampMs": 566214,
+              "team": "Gen.G",
+              "kind": "HORDE"
+            },
+            {
+              "timestampMs": 715752,
+              "team": "Hanwha Life Esports",
+              "kind": "EARTH_DRAGON"
+            },
+            {
+              "timestampMs": 949424,
+              "team": "Hanwha Life Esports",
+              "kind": "RIFTHERALD"
+            },
+            {
+              "timestampMs": 1043720,
+              "team": "Gen.G",
+              "kind": "HEXTECH_DRAGON"
+            },
+            {
+              "timestampMs": 1159043,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1177250,
+              "team": "Hanwha Life Esports",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1205236,
+              "team": "Hanwha Life Esports",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1217491,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1272652,
+              "team": "Hanwha Life Esports",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1280064,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1345828,
+              "team": "Gen.G",
+              "kind": "BARON_NASHOR"
+            },
+            {
+              "timestampMs": 1412602,
+              "team": "Gen.G",
+              "kind": "HEXTECH_DRAGON"
+            },
+            {
+              "timestampMs": 1644783,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1685886,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1731333,
+              "team": "Hanwha Life Esports",
+              "kind": "HEXTECH_DRAGON"
+            },
+            {
+              "timestampMs": 1789845,
+              "team": "Gen.G",
+              "kind": "BARON_NASHOR"
+            },
+            {
+              "timestampMs": 1820599,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1841781,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1844953,
+              "team": "Gen.G",
+              "kind": "INHIBITOR_BUILDING"
+            },
+            {
+              "timestampMs": 1851298,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1853301,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            }
+          ]
+        }
+      },
+      "facts": [
+        {
+          "text": "Gen.G 승리 · 경기 시간 31:04",
+          "id": "F1"
+        },
+        {
+          "text": "Hanwha Life Esports 조합: Zeus(Anivia), Kanavi(Jarvan IV), Zeka(Akali), Gumayusi(Yunara), Delight(Lulu)",
+          "id": "F2"
+        },
+        {
+          "text": "Hanwha Life Esports: 종료 골드 53,623.0 · 포탑 3 · 바론 0 · 유충 1 · 드래곤(장로 포함) 2",
+          "id": "F3"
+        },
+        {
+          "text": "Hanwha Life Esports 팀 내 최대 챔피언 피해량: Gumayusi(Yunara) 14,736 · K/D/A 1/4/1",
+          "id": "F4"
+        },
+        {
+          "text": "Gen.G 조합: Kiin(Varus), Canyon(Nocturne), Chovy(Lissandra), Ruler(Kalista), Duro(Renata Glasc)",
+          "id": "F5"
+        },
+        {
+          "text": "Gen.G: 종료 골드 69,518.0 · 포탑 9 · 바론 2 · 유충 2 · 드래곤(장로 포함) 3",
+          "id": "F6"
+        },
+        {
+          "text": "Gen.G 팀 내 최대 챔피언 피해량: Chovy(Lissandra) 27,532 · K/D/A 3/1/15",
+          "id": "F7"
+        },
+        {
+          "text": "6:12 · Gen.G · 바람 드래곤",
+          "id": "F8"
+        },
+        {
+          "text": "9:14 · Hanwha Life Esports · 유충",
+          "id": "F9"
+        },
+        {
+          "text": "9:22 · Gen.G · 유충",
+          "id": "F10"
+        },
+        {
+          "text": "9:26 · Gen.G · 유충",
+          "id": "F11"
+        },
+        {
+          "text": "11:55 · Hanwha Life Esports · 대지 드래곤",
+          "id": "F12"
+        },
+        {
+          "text": "15:49 · Hanwha Life Esports · 전령",
+          "id": "F13"
+        },
+        {
+          "text": "17:23 · Gen.G · 마법공학 드래곤",
+          "id": "F14"
+        },
+        {
+          "text": "19:19 · Gen.G · 포탑 파괴",
+          "id": "F15"
+        },
+        {
+          "text": "19:37 · Hanwha Life Esports · 포탑 파괴",
+          "id": "F16"
+        },
+        {
+          "text": "20:05 · Hanwha Life Esports · 포탑 파괴",
+          "id": "F17"
+        },
+        {
+          "text": "20:17 · Gen.G · 포탑 파괴",
+          "id": "F18"
+        },
+        {
+          "text": "21:12 · Hanwha Life Esports · 포탑 파괴",
+          "id": "F19"
+        },
+        {
+          "text": "21:20 · Gen.G · 포탑 파괴",
+          "id": "F20"
+        },
+        {
+          "text": "22:25 · Gen.G · 바론",
+          "id": "F21"
+        },
+        {
+          "text": "23:32 · Gen.G · 마법공학 드래곤",
+          "id": "F22"
+        },
+        {
+          "text": "27:24 · Gen.G · 포탑 파괴",
+          "id": "F23"
+        },
+        {
+          "text": "28:05 · Gen.G · 포탑 파괴",
+          "id": "F24"
+        },
+        {
+          "text": "28:51 · Hanwha Life Esports · 마법공학 드래곤",
+          "id": "F25"
+        },
+        {
+          "text": "29:49 · Gen.G · 바론",
+          "id": "F26"
+        },
+        {
+          "text": "30:20 · Gen.G · 포탑 파괴",
+          "id": "F27"
+        },
+        {
+          "text": "30:41 · Gen.G · 포탑 파괴",
+          "id": "F28"
+        },
+        {
+          "text": "30:44 · Gen.G · 억제기 파괴",
+          "id": "F29"
+        },
+        {
+          "text": "30:51 · Gen.G · 포탑 파괴",
+          "id": "F30"
+        },
+        {
+          "text": "30:53 · Gen.G · 포탑 파괴",
+          "id": "F31"
+        }
+      ],
+      "beforeReport": {
+        "turningPoints": [
+          {
+            "text": "중반 이후 바론을 연속으로 처치하며 골드 격차를 크게 벌린 Gen.G가 주도권을 가져갔다.",
+            "factIds": [
+              "F21",
+              "F26"
+            ]
+          },
+          {
+            "text": "Gen.G는 다수의 포탑과 억제기를 파괴하며 31분경 경기를 마무리했다.",
+            "factIds": [
+              "F1",
+              "F27",
+              "F29"
+            ]
+          }
+        ],
+        "summary": {
+          "text": "Gen.G는 바론과 오브젝트를 꾸준히 획득하며 한화생명을 상대로 승리를 거두었다.",
+          "factIds": [
+            "F1",
+            "F6"
+          ]
+        },
+        "draft": [
+          {
+            "text": "Gen.G는 녹턴과 리산드라로 교전 능력을 높이고 바루스와 칼리스타로 화력을 극대화했다.",
+            "factIds": [
+              "F5",
+              "F7"
+            ]
+          },
+          {
+            "text": "한화생명은 애니비아와 아칼리를 선택해 진형 붕괴와 국지전 수비를 노리는 조합을 구성했다.",
+            "factIds": [
+              "F2",
+              "F4"
+            ]
+          }
+        ]
+      },
+      "beforeScreen": {
+        "version": "quality-v1",
+        "issues": [
+          {
+            "location": "turningPoints.0",
+            "code": "unsupported_gold_trend",
+            "severity": "block",
+            "reason": "시점별 골드 변화가 분석 근거에 없습니다."
+          }
+        ],
+        "semanticVerification": "not_performed"
+      },
+      "afterReport": {
+        "summary": {
+          "text": "젠지가 바론을 연속으로 확보하고, 후반 포탑과 억제기를 철거하며 승리했습니다.",
+          "factIds": [
+            "F1",
+            "F6"
+          ]
+        },
+        "draft": [
+          {
+            "text": "녹턴·리산드라의 진입과 바루스·칼리스타의 공격을 연결하려는 구성입니다.",
+            "factIds": [
+              "F5"
+            ]
+          },
+          {
+            "text": "한화생명은 애니비아·아칼리와 유나라·룰루를 함께 선택했습니다.",
+            "factIds": [
+              "F2"
+            ]
+          }
+        ],
+        "turningPoints": [
+          {
+            "text": "첫 바론 이후 포탑을 철거했고, 두 번째 바론 뒤에는 억제기까지 파괴했습니다.",
+            "factIds": [
+              "F21",
+              "F23",
+              "F24",
+              "F26",
+              "F27",
+              "F29"
+            ]
+          }
+        ]
+      },
+      "afterScreen": {
+        "version": "quality-v1",
+        "issues": [],
+        "semanticVerification": "not_performed"
+      }
+    },
+    {
+      "setNumber": "3",
+      "sourceGameId": "LCK/2026 Season/Season Playoffs_Finals_1_3",
+      "sourceScope": "provided_stats_timeline_and_user_commentary; no_video_review",
+      "reviewer": "codex_agent",
+      "humanReviewStatus": "not_reviewed",
+      "originalPromptVersion": "spectator-v5",
+      "commentarySource": null,
+      "evidence": {
+        "sourceGameId": "LCK/2026 Season/Season Playoffs_Finals_1_3",
+        "tournament": "LCK 2026 Season Playoffs",
+        "setNumber": "3",
+        "patchVersion": "26.16",
+        "teamA": "Hanwha Life Esports",
+        "teamB": "Gen.G",
+        "teamSides": {
+          "teamA": "BLUE",
+          "teamB": "RED"
+        },
+        "winnerTeam": "Gen.G",
+        "gameLength": "26:56",
+        "bans": {
+          "teamA": [
+            "Camille",
+            "Jayce",
+            "Pantheon",
+            "Vayne",
+            "Mordekaiser"
+          ],
+          "teamB": [
+            "Cassiopeia",
+            "Ezreal",
+            "Olaf",
+            "Annie",
+            "K'Sante"
+          ]
+        },
+        "detailCoverage": {
+          "stats": "available",
+          "timeline": "available"
+        },
+        "players": {
+          "teamA": [
+            {
+              "name": "Zeus",
+              "role": "Top",
+              "champion": "Dr. Mundo",
+              "kills": 2,
+              "deaths": 3,
+              "assists": 1,
+              "damage": 15948,
+              "gold": 9630
+            },
+            {
+              "name": "Kanavi",
+              "role": "Jungle",
+              "champion": "Cho'Gath",
+              "kills": 0,
+              "deaths": 5,
+              "assists": 2,
+              "damage": 4509,
+              "gold": 8392
+            },
+            {
+              "name": "Zeka",
+              "role": "Mid",
+              "champion": "Syndra",
+              "kills": 2,
+              "deaths": 2,
+              "assists": 2,
+              "damage": 18194,
+              "gold": 10302
+            },
+            {
+              "name": "Gumayusi",
+              "role": "Bot",
+              "champion": "Ashe",
+              "kills": 0,
+              "deaths": 4,
+              "assists": 4,
+              "damage": 9079,
+              "gold": 10594
+            },
+            {
+              "name": "Delight",
+              "role": "Support",
+              "champion": "Seraphine",
+              "kills": 1,
+              "deaths": 2,
+              "assists": 3,
+              "damage": 5645,
+              "gold": 6483
+            }
+          ],
+          "teamB": [
+            {
+              "name": "Kiin",
+              "role": "Top",
+              "champion": "Sion",
+              "kills": 1,
+              "deaths": 2,
+              "assists": 8,
+              "damage": 16121,
+              "gold": 10738
+            },
+            {
+              "name": "Canyon",
+              "role": "Jungle",
+              "champion": "Lee Sin",
+              "kills": 3,
+              "deaths": 2,
+              "assists": 9,
+              "damage": 11112,
+              "gold": 11504
+            },
+            {
+              "name": "Chovy",
+              "role": "Mid",
+              "champion": "Sylas",
+              "kills": 1,
+              "deaths": 0,
+              "assists": 6,
+              "damage": 14537,
+              "gold": 12918
+            },
+            {
+              "name": "Ruler",
+              "role": "Bot",
+              "champion": "Zeri",
+              "kills": 11,
+              "deaths": 1,
+              "assists": 3,
+              "damage": 35413,
+              "gold": 16542
+            },
+            {
+              "name": "Duro",
+              "role": "Support",
+              "champion": "Yuumi",
+              "kills": 0,
+              "deaths": 0,
+              "assists": 15,
+              "damage": 8716,
+              "gold": 8215
+            }
+          ]
+        },
+        "objects": {
+          "teamA": {
+            "gold": 45401.0,
+            "towers": 1,
+            "barons": 0,
+            "heralds": 1,
+            "grubs": 1,
+            "inhibitors": 0,
+            "dragons": 0,
+            "infernals": 0,
+            "mountains": 0,
+            "oceans": 0,
+            "clouds": 0,
+            "chemtechs": 0,
+            "hextechs": 0,
+            "elders": 0,
+            "soul": null
+          },
+          "teamB": {
+            "gold": 59917.0,
+            "towers": 10,
+            "barons": 1,
+            "heralds": 0,
+            "grubs": 2,
+            "inhibitors": 2,
+            "dragons": 4,
+            "infernals": 0,
+            "mountains": 0,
+            "oceans": 0,
+            "clouds": 1,
+            "chemtechs": 1,
+            "hextechs": 2,
+            "elders": 0,
+            "soul": "Hextech"
+          }
+        },
+        "timeline": {
+          "status": "available",
+          "events": [
+            {
+              "timestampMs": 395157,
+              "team": "Gen.G",
+              "kind": "CHEMTECH_DRAGON"
+            },
+            {
+              "timestampMs": 485237,
+              "team": "Hanwha Life Esports",
+              "kind": "HORDE"
+            },
+            {
+              "timestampMs": 492617,
+              "team": "Gen.G",
+              "kind": "HORDE"
+            },
+            {
+              "timestampMs": 506007,
+              "team": "Gen.G",
+              "kind": "HORDE"
+            },
+            {
+              "timestampMs": 886135,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 891679,
+              "team": "Gen.G",
+              "kind": "AIR_DRAGON"
+            },
+            {
+              "timestampMs": 965202,
+              "team": "Hanwha Life Esports",
+              "kind": "RIFTHERALD"
+            },
+            {
+              "timestampMs": 1071163,
+              "team": "Hanwha Life Esports",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1142760,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1210006,
+              "team": "Gen.G",
+              "kind": "HEXTECH_DRAGON"
+            },
+            {
+              "timestampMs": 1276220,
+              "team": "Gen.G",
+              "kind": "BARON_NASHOR"
+            },
+            {
+              "timestampMs": 1309798,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1346881,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1395393,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1417991,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1418491,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1424636,
+              "team": "Gen.G",
+              "kind": "INHIBITOR_BUILDING"
+            },
+            {
+              "timestampMs": 1426138,
+              "team": "Gen.G",
+              "kind": "INHIBITOR_BUILDING"
+            },
+            {
+              "timestampMs": 1509328,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1529898,
+              "team": "Gen.G",
+              "kind": "HEXTECH_DRAGON"
+            },
+            {
+              "timestampMs": 1530403,
+              "team": "Gen.G",
+              "kind": "soul"
+            },
+            {
+              "timestampMs": 1607746,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1608380,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            }
+          ]
+        }
+      },
+      "facts": [
+        {
+          "text": "Gen.G 승리 · 경기 시간 26:56",
+          "id": "F1"
+        },
+        {
+          "text": "Hanwha Life Esports 조합: Zeus(Dr. Mundo), Kanavi(Cho'Gath), Zeka(Syndra), Gumayusi(Ashe), Delight(Seraphine)",
+          "id": "F2"
+        },
+        {
+          "text": "Hanwha Life Esports: 종료 골드 45,401.0 · 포탑 1 · 바론 0 · 유충 1 · 드래곤(장로 포함) 0",
+          "id": "F3"
+        },
+        {
+          "text": "Hanwha Life Esports 팀 내 최대 챔피언 피해량: Zeka(Syndra) 18,194 · K/D/A 2/2/2",
+          "id": "F4"
+        },
+        {
+          "text": "Gen.G 조합: Kiin(Sion), Canyon(Lee Sin), Chovy(Sylas), Ruler(Zeri), Duro(Yuumi)",
+          "id": "F5"
+        },
+        {
+          "text": "Gen.G: 종료 골드 59,917.0 · 포탑 10 · 바론 1 · 유충 2 · 드래곤(장로 포함) 4",
+          "id": "F6"
+        },
+        {
+          "text": "Gen.G 팀 내 최대 챔피언 피해량: Ruler(Zeri) 35,413 · K/D/A 11/1/3",
+          "id": "F7"
+        },
+        {
+          "text": "6:35 · Gen.G · 화학공학 드래곤",
+          "id": "F8"
+        },
+        {
+          "text": "8:05 · Hanwha Life Esports · 유충",
+          "id": "F9"
+        },
+        {
+          "text": "8:12 · Gen.G · 유충",
+          "id": "F10"
+        },
+        {
+          "text": "8:26 · Gen.G · 유충",
+          "id": "F11"
+        },
+        {
+          "text": "14:46 · Gen.G · 포탑 파괴",
+          "id": "F12"
+        },
+        {
+          "text": "14:51 · Gen.G · 바람 드래곤",
+          "id": "F13"
+        },
+        {
+          "text": "16:05 · Hanwha Life Esports · 전령",
+          "id": "F14"
+        },
+        {
+          "text": "17:51 · Hanwha Life Esports · 포탑 파괴",
+          "id": "F15"
+        },
+        {
+          "text": "19:02 · Gen.G · 포탑 파괴",
+          "id": "F16"
+        },
+        {
+          "text": "20:10 · Gen.G · 마법공학 드래곤",
+          "id": "F17"
+        },
+        {
+          "text": "21:16 · Gen.G · 바론",
+          "id": "F18"
+        },
+        {
+          "text": "21:49 · Gen.G · 포탑 파괴",
+          "id": "F19"
+        },
+        {
+          "text": "22:26 · Gen.G · 포탑 파괴",
+          "id": "F20"
+        },
+        {
+          "text": "23:15 · Gen.G · 포탑 파괴",
+          "id": "F21"
+        },
+        {
+          "text": "23:37 · Gen.G · 포탑 파괴",
+          "id": "F22"
+        },
+        {
+          "text": "23:38 · Gen.G · 포탑 파괴",
+          "id": "F23"
+        },
+        {
+          "text": "23:44 · Gen.G · 억제기 파괴",
+          "id": "F24"
+        },
+        {
+          "text": "23:46 · Gen.G · 억제기 파괴",
+          "id": "F25"
+        },
+        {
+          "text": "25:09 · Gen.G · 포탑 파괴",
+          "id": "F26"
+        },
+        {
+          "text": "25:29 · Gen.G · 마법공학 드래곤",
+          "id": "F27"
+        },
+        {
+          "text": "25:30 · Gen.G · 드래곤 영혼",
+          "id": "F28"
+        },
+        {
+          "text": "26:47 · Gen.G · 포탑 파괴",
+          "id": "F29"
+        },
+        {
+          "text": "26:48 · Gen.G · 포탑 파괴",
+          "id": "F30"
+        }
+      ],
+      "beforeReport": {
+        "turningPoints": [
+          {
+            "text": "Gen.G가 드래곤과 바론을 독식하며 성장 차이를 벌렸고, 이후 주요 포탑과 억제기를 연달아 파괴했습니다.",
+            "factIds": [
+              "F17",
+              "F18",
+              "F24",
+              "F25"
+            ]
+          },
+          {
+            "text": "경기 후반 마법공학 드래곤 영혼을 획득하며 승기를 굳혔고 곧이어 경기를 마무리했습니다.",
+            "factIds": [
+              "F1",
+              "F27",
+              "F28"
+            ]
+          }
+        ],
+        "summary": {
+          "text": "Gen.G가 Ruler의 제리를 앞세워 전 라인에서 우위를 점하며 한화생명e스포츠를 상대로 26분 만에 완승을 거뒀습니다.",
+          "factIds": [
+            "F1",
+            "F6",
+            "F7"
+          ]
+        },
+        "draft": [
+          {
+            "text": "한화생명e스포츠는 애쉬와 세라핀을 기용해 교전 유지력을 높이는 구성을 취했습니다.",
+            "factIds": [
+              "F2"
+            ]
+          },
+          {
+            "text": "Gen.G는 유미와 제리를 조합해 후반 캐리력을 극대화하고 바텀 라인의 파괴력을 노렸습니다.",
+            "factIds": [
+              "F5",
+              "F7"
+            ]
+          }
+        ]
+      },
+      "beforeScreen": {
+        "version": "quality-v1",
+        "issues": [
+          {
+            "location": "summary",
+            "code": "unsupported_lane_lead",
+            "severity": "block",
+            "reason": "종료 스탯·오브젝트 기록으로 라인전 우위를 판단할 수 없습니다."
+          },
+          {
+            "location": "turningPoints.0",
+            "code": "unsupported_gold_trend",
+            "severity": "block",
+            "reason": "시점별 골드 변화가 분석 근거에 없습니다."
+          }
+        ],
+        "semanticVerification": "not_performed"
+      },
+      "afterReport": {
+        "summary": {
+          "text": "젠지가 드래곤과 바론을 확보하며 승리했습니다. 룰러의 제리는 팀 내 최대 피해량을 기록했습니다.",
+          "factIds": [
+            "F1",
+            "F6",
+            "F7"
+          ]
+        },
+        "draft": [
+          {
+            "text": "애쉬·세라핀으로 교전 시작과 아군 지원을 노리는 구성입니다.",
+            "factIds": [
+              "F2"
+            ]
+          },
+          {
+            "text": "유미의 지원을 받는 제리의 지속적인 공격을 기대할 수 있는 구성입니다.",
+            "factIds": [
+              "F5"
+            ]
+          }
+        ],
+        "turningPoints": [
+          {
+            "text": "바론 획득 뒤 포탑과 억제기 파괴가 이어졌습니다.",
+            "factIds": [
+              "F18",
+              "F19",
+              "F20",
+              "F24",
+              "F25"
+            ]
+          },
+          {
+            "text": "마법공학 드래곤 영혼을 획득한 뒤 포탑을 추가로 철거하며 경기를 끝냈습니다.",
+            "factIds": [
+              "F27",
+              "F28",
+              "F29",
+              "F30",
+              "F1"
+            ]
+          }
+        ]
+      },
+      "afterScreen": {
+        "version": "quality-v1",
+        "issues": [],
+        "semanticVerification": "not_performed"
+      }
+    },
+    {
+      "setNumber": "4",
+      "sourceGameId": "LCK/2026 Season/Season Playoffs_Finals_1_4",
+      "sourceScope": "provided_stats_timeline_and_user_commentary; no_video_review",
+      "reviewer": "codex_agent",
+      "humanReviewStatus": "not_reviewed",
+      "originalPromptVersion": "spectator-v5",
+      "commentarySource": null,
+      "evidence": {
+        "sourceGameId": "LCK/2026 Season/Season Playoffs_Finals_1_4",
+        "tournament": "LCK 2026 Season Playoffs",
+        "setNumber": "4",
+        "patchVersion": "26.16",
+        "teamA": "Gen.G",
+        "teamB": "Hanwha Life Esports",
+        "teamSides": {
+          "teamA": "BLUE",
+          "teamB": "RED"
+        },
+        "winnerTeam": "Gen.G",
+        "gameLength": "28:01",
+        "bans": {
+          "teamA": [
+            "Camille",
+            "Jayce",
+            "Yone",
+            "Vayne",
+            "Ahri"
+          ],
+          "teamB": [
+            "Cassiopeia",
+            "Ezreal",
+            "Olaf",
+            "Nautilus",
+            "Miss Fortune"
+          ]
+        },
+        "detailCoverage": {
+          "stats": "available",
+          "timeline": "available"
+        },
+        "players": {
+          "teamA": [
+            {
+              "name": "Kiin",
+              "role": "Top",
+              "champion": "Gwen",
+              "kills": 3,
+              "deaths": 2,
+              "assists": 8,
+              "damage": 19178,
+              "gold": 11547
+            },
+            {
+              "name": "Canyon",
+              "role": "Jungle",
+              "champion": "Trundle",
+              "kills": 1,
+              "deaths": 0,
+              "assists": 9,
+              "damage": 9531,
+              "gold": 11952
+            },
+            {
+              "name": "Chovy",
+              "role": "Mid",
+              "champion": "Viktor",
+              "kills": 4,
+              "deaths": 1,
+              "assists": 5,
+              "damage": 21750,
+              "gold": 12418
+            },
+            {
+              "name": "Ruler",
+              "role": "Bot",
+              "champion": "Corki",
+              "kills": 5,
+              "deaths": 3,
+              "assists": 4,
+              "damage": 18073,
+              "gold": 15656
+            },
+            {
+              "name": "Duro",
+              "role": "Support",
+              "champion": "Alistar",
+              "kills": 1,
+              "deaths": 0,
+              "assists": 10,
+              "damage": 3864,
+              "gold": 7338
+            }
+          ],
+          "teamB": [
+            {
+              "name": "Zeus",
+              "role": "Top",
+              "champion": "Fiora",
+              "kills": 0,
+              "deaths": 4,
+              "assists": 4,
+              "damage": 15073,
+              "gold": 9728
+            },
+            {
+              "name": "Kanavi",
+              "role": "Jungle",
+              "champion": "Skarner",
+              "kills": 0,
+              "deaths": 5,
+              "assists": 3,
+              "damage": 13147,
+              "gold": 9406
+            },
+            {
+              "name": "Zeka",
+              "role": "Mid",
+              "champion": "Locke",
+              "kills": 5,
+              "deaths": 3,
+              "assists": 0,
+              "damage": 12490,
+              "gold": 12802
+            },
+            {
+              "name": "Gumayusi",
+              "role": "Bot",
+              "champion": "Jhin",
+              "kills": 1,
+              "deaths": 1,
+              "assists": 1,
+              "damage": 12343,
+              "gold": 10933
+            },
+            {
+              "name": "Delight",
+              "role": "Support",
+              "champion": "Karma",
+              "kills": 0,
+              "deaths": 1,
+              "assists": 2,
+              "damage": 8884,
+              "gold": 6509
+            }
+          ]
+        },
+        "objects": {
+          "teamA": {
+            "gold": 58911.0,
+            "towers": 9,
+            "barons": 1,
+            "heralds": 0,
+            "grubs": 3,
+            "inhibitors": 2,
+            "dragons": 2,
+            "infernals": 0,
+            "mountains": 0,
+            "oceans": 0,
+            "clouds": 2,
+            "chemtechs": 0,
+            "hextechs": 0,
+            "elders": 0,
+            "soul": null
+          },
+          "teamB": {
+            "gold": 49378.0,
+            "towers": 4,
+            "barons": 0,
+            "heralds": 1,
+            "grubs": 0,
+            "inhibitors": 0,
+            "dragons": 2,
+            "infernals": 0,
+            "mountains": 0,
+            "oceans": 0,
+            "clouds": 0,
+            "chemtechs": 1,
+            "hextechs": 1,
+            "elders": 0,
+            "soul": null
+          }
+        },
+        "timeline": {
+          "status": "available",
+          "events": [
+            {
+              "timestampMs": 426083,
+              "team": "Hanwha Life Esports",
+              "kind": "HEXTECH_DRAGON"
+            },
+            {
+              "timestampMs": 510902,
+              "team": "Gen.G",
+              "kind": "HORDE"
+            },
+            {
+              "timestampMs": 516779,
+              "team": "Gen.G",
+              "kind": "HORDE"
+            },
+            {
+              "timestampMs": 518348,
+              "team": "Gen.G",
+              "kind": "HORDE"
+            },
+            {
+              "timestampMs": 750352,
+              "team": "Hanwha Life Esports",
+              "kind": "CHEMTECH_DRAGON"
+            },
+            {
+              "timestampMs": 936555,
+              "team": "Hanwha Life Esports",
+              "kind": "RIFTHERALD"
+            },
+            {
+              "timestampMs": 979346,
+              "team": "Hanwha Life Esports",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 987597,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1039450,
+              "team": "Hanwha Life Esports",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1049100,
+              "team": "Hanwha Life Esports",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1070177,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1092718,
+              "team": "Gen.G",
+              "kind": "AIR_DRAGON"
+            },
+            {
+              "timestampMs": 1403471,
+              "team": "Gen.G",
+              "kind": "AIR_DRAGON"
+            },
+            {
+              "timestampMs": 1462569,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1524722,
+              "team": "Gen.G",
+              "kind": "BARON_NASHOR"
+            },
+            {
+              "timestampMs": 1560593,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1593253,
+              "team": "Hanwha Life Esports",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1599731,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1607645,
+              "team": "Gen.G",
+              "kind": "INHIBITOR_BUILDING"
+            },
+            {
+              "timestampMs": 1608513,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1623090,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1627063,
+              "team": "Gen.G",
+              "kind": "INHIBITOR_BUILDING"
+            },
+            {
+              "timestampMs": 1648323,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            },
+            {
+              "timestampMs": 1671531,
+              "team": "Gen.G",
+              "kind": "TOWER_BUILDING"
+            }
+          ]
+        }
+      },
+      "facts": [
+        {
+          "text": "Gen.G 승리 · 경기 시간 28:01",
+          "id": "F1"
+        },
+        {
+          "text": "Gen.G 조합: Kiin(Gwen), Canyon(Trundle), Chovy(Viktor), Ruler(Corki), Duro(Alistar)",
+          "id": "F2"
+        },
+        {
+          "text": "Gen.G: 종료 골드 58,911.0 · 포탑 9 · 바론 1 · 유충 3 · 드래곤(장로 포함) 2",
+          "id": "F3"
+        },
+        {
+          "text": "Gen.G 팀 내 최대 챔피언 피해량: Chovy(Viktor) 21,750 · K/D/A 4/1/5",
+          "id": "F4"
+        },
+        {
+          "text": "Hanwha Life Esports 조합: Zeus(Fiora), Kanavi(Skarner), Zeka(Locke), Gumayusi(Jhin), Delight(Karma)",
+          "id": "F5"
+        },
+        {
+          "text": "Hanwha Life Esports: 종료 골드 49,378.0 · 포탑 4 · 바론 0 · 유충 0 · 드래곤(장로 포함) 2",
+          "id": "F6"
+        },
+        {
+          "text": "Hanwha Life Esports 팀 내 최대 챔피언 피해량: Zeus(Fiora) 15,073 · K/D/A 0/4/4",
+          "id": "F7"
+        },
+        {
+          "text": "7:06 · Hanwha Life Esports · 마법공학 드래곤",
+          "id": "F8"
+        },
+        {
+          "text": "8:30 · Gen.G · 유충",
+          "id": "F9"
+        },
+        {
+          "text": "8:36 · Gen.G · 유충",
+          "id": "F10"
+        },
+        {
+          "text": "8:38 · Gen.G · 유충",
+          "id": "F11"
+        },
+        {
+          "text": "12:30 · Hanwha Life Esports · 화학공학 드래곤",
+          "id": "F12"
+        },
+        {
+          "text": "15:36 · Hanwha Life Esports · 전령",
+          "id": "F13"
+        },
+        {
+          "text": "16:19 · Hanwha Life Esports · 포탑 파괴",
+          "id": "F14"
+        },
+        {
+          "text": "16:27 · Gen.G · 포탑 파괴",
+          "id": "F15"
+        },
+        {
+          "text": "17:19 · Hanwha Life Esports · 포탑 파괴",
+          "id": "F16"
+        },
+        {
+          "text": "17:29 · Hanwha Life Esports · 포탑 파괴",
+          "id": "F17"
+        },
+        {
+          "text": "17:50 · Gen.G · 포탑 파괴",
+          "id": "F18"
+        },
+        {
+          "text": "18:12 · Gen.G · 바람 드래곤",
+          "id": "F19"
+        },
+        {
+          "text": "23:23 · Gen.G · 바람 드래곤",
+          "id": "F20"
+        },
+        {
+          "text": "24:22 · Gen.G · 포탑 파괴",
+          "id": "F21"
+        },
+        {
+          "text": "25:24 · Gen.G · 바론",
+          "id": "F22"
+        },
+        {
+          "text": "26:00 · Gen.G · 포탑 파괴",
+          "id": "F23"
+        },
+        {
+          "text": "26:33 · Hanwha Life Esports · 포탑 파괴",
+          "id": "F24"
+        },
+        {
+          "text": "26:39 · Gen.G · 포탑 파괴",
+          "id": "F25"
+        },
+        {
+          "text": "26:47 · Gen.G · 억제기 파괴",
+          "id": "F26"
+        },
+        {
+          "text": "26:48 · Gen.G · 포탑 파괴",
+          "id": "F27"
+        },
+        {
+          "text": "27:03 · Gen.G · 포탑 파괴",
+          "id": "F28"
+        },
+        {
+          "text": "27:07 · Gen.G · 억제기 파괴",
+          "id": "F29"
+        },
+        {
+          "text": "27:28 · Gen.G · 포탑 파괴",
+          "id": "F30"
+        },
+        {
+          "text": "27:51 · Gen.G · 포탑 파괴",
+          "id": "F31"
+        }
+      ],
+      "beforeReport": {
+        "turningPoints": [
+          {
+            "text": "중반까지 팽팽하던 흐름은 Gen.G가 바람 드래곤을 연달아 획득하며 후반 운영의 토대를 마련하면서 기울었습니다.",
+            "factIds": [
+              "F19",
+              "F20"
+            ]
+          },
+          {
+            "text": "Gen.G는 바론 사냥 성공 직후 파상공세를 펼쳐 상대 포탑과 억제기를 연달아 파괴하며 승기를 굳혔습니다.",
+            "factIds": [
+              "F22",
+              "F23",
+              "F25",
+              "F26",
+              "F27",
+              "F28"
+            ]
+          }
+        ],
+        "summary": {
+          "text": "Gen.G가 중후반 교전에서 화력을 앞세워 Hanwha Life Esports를 제압하며 28분 만에 경기를 승리로 마무리했습니다.",
+          "factIds": [
+            "F1",
+            "F3",
+            "F6"
+          ]
+        },
+        "draft": [
+          {
+            "text": "Gen.G는 그웬과 트런들을 필두로 교전 및 오브젝트 관리 능력을 강화하는 조합을 구성했습니다.",
+            "factIds": [
+              "F2",
+              "F9",
+              "F10",
+              "F11"
+            ]
+          },
+          {
+            "text": "Hanwha Life Esports는 피오라와 스카너를 통해 변수를 창출하고자 했으나 주도권을 유지하는 데 어려움을 겪었습니다.",
+            "factIds": [
+              "F5",
+              "F7"
+            ]
+          }
+        ]
+      },
+      "beforeScreen": {
+        "version": "quality-v1",
+        "issues": [
+          {
+            "location": "summary",
+            "code": "unsupported_fight_scene",
+            "severity": "block",
+            "reason": "교전 장면·결과를 설명할 관전평 또는 교전 기록이 없습니다."
+          },
+          {
+            "location": "turningPoints.0",
+            "code": "unsupported_balance",
+            "severity": "block",
+            "reason": "오브젝트 획득 기록만으로 경기의 균형을 판단할 수 없습니다."
+          },
+          {
+            "location": "turningPoints.1",
+            "code": "unsupported_fight_scene",
+            "severity": "block",
+            "reason": "교전 장면·결과를 설명할 관전평 또는 교전 기록이 없습니다."
+          }
+        ],
+        "semanticVerification": "not_performed"
+      },
+      "afterReport": {
+        "summary": {
+          "text": "젠지가 바론 획득 이후 포탑과 억제기를 철거하며 승리했습니다.",
+          "factIds": [
+            "F1",
+            "F22",
+            "F23",
+            "F26",
+            "F29"
+          ]
+        },
+        "draft": [
+          {
+            "text": "그웬·트런들에 빅토르·코르키를 더한 구성으로, 지속적인 공격을 기대할 수 있습니다.",
+            "factIds": [
+              "F2"
+            ]
+          },
+          {
+            "text": "피오라의 측면 압박과 스카너의 진입을 노리는 구성입니다.",
+            "factIds": [
+              "F5"
+            ]
+          }
+        ],
+        "turningPoints": [
+          {
+            "text": "한화생명이 먼저 드래곤을 챙겼고, 젠지는 이후 바람 드래곤을 연속으로 확보했습니다.",
+            "factIds": [
+              "F8",
+              "F12",
+              "F19",
+              "F20"
+            ]
+          },
+          {
+            "text": "바론을 획득한 뒤 포탑과 억제기를 잇달아 철거했습니다.",
+            "factIds": [
+              "F22",
+              "F23",
+              "F25",
+              "F26",
+              "F27",
+              "F28",
+              "F29"
+            ]
+          }
+        ]
+      },
+      "afterScreen": {
+        "version": "quality-v1",
+        "issues": [],
+        "semanticVerification": "not_performed"
+      }
+    }
+  ]
+}

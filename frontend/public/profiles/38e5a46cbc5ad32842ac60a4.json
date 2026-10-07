@@ -1,0 +1,779 @@
+{
+  "schemaVersion": 1,
+  "id": "Score",
+  "fetchedAt": "2026-10-07T09:20:41.533078+00:00",
+  "sourceUrl": "https://lol.fandom.com/wiki/Score",
+  "careerStatus": "fetched",
+  "resultsStatus": "fetched",
+  "awardsStatus": "not_collected",
+  "awards": [],
+  "careers": [
+    {
+      "team": "KT Rolster",
+      "joinedAt": "2024-11-21",
+      "leftAt": null,
+      "current": true,
+      "joinedPrecision": "1",
+      "leftPrecision": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Score"
+    },
+    {
+      "team": "Riot Games Inc.",
+      "joinedAt": "2024-06-14",
+      "leftAt": "2024-08-24",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Score"
+    },
+    {
+      "team": "Gen.G",
+      "joinedAt": "2021-11-24",
+      "leftAt": "2023-11-20",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Score"
+    },
+    {
+      "team": "KT Rolster",
+      "joinedAt": "2014-12-02",
+      "leftAt": "2019-11-18",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Score"
+    },
+    {
+      "team": "KT Rolster Bullets",
+      "joinedAt": "2012-10-10",
+      "leftAt": "2014-12-02",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Score"
+    },
+    {
+      "team": "StarTale",
+      "joinedAt": "2011-10-20",
+      "leftAt": "2012-08-26",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Score"
+    }
+  ],
+  "results": [
+    {
+      "id": "LCK/2026 Season/Season Playoffs_5",
+      "tournament": "LCK 2026 Season Playoffs",
+      "team": "KT Rolster",
+      "date": "2026-09-04",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK/2026 Season/Season Play-In_1",
+      "tournament": "LCK 2026 Season Play-In",
+      "team": "KT Rolster",
+      "date": "2026-08-26",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FSeason_Play-In"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 3-4_1_5",
+      "tournament": "LCK 2026 Rounds 3-4",
+      "team": "KT Rolster",
+      "date": "2026-08-23",
+      "place": "5",
+      "phase": "Legend Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_3-4"
+    },
+    {
+      "id": "2026 LoL KeSPA Cup_8",
+      "tournament": "KeSPA Cup 2026",
+      "team": "KT Rolster",
+      "date": "2026-07-28",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK/2026 Season/Road to MSI_4",
+      "tournament": "LCK 2026 Road to MSI",
+      "team": "KT Rolster",
+      "date": "2026-06-13",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRoad_to_MSI"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 1-2_4",
+      "tournament": "LCK 2026 Rounds 1-2",
+      "team": "KT Rolster",
+      "date": "2026-05-31",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_1-2"
+    },
+    {
+      "id": "Esports World Cup 2026/Online Qualifiers/Korea_7",
+      "tournament": "Esports World Cup 2026 Online Qualifier: Korea",
+      "team": "KT Rolster",
+      "date": "2026-05-18",
+      "place": "NQ",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Esports_World_Cup_2026%2FOnline_Qualifiers%2FKorea"
+    },
+    {
+      "id": "LCK/2026 Season/Cup_9",
+      "tournament": "LCK Cup 2026",
+      "team": "KT Rolster",
+      "date": "2026-02-06",
+      "place": "8-9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FCup"
+    },
+    {
+      "id": "2025 Season World Championship_2",
+      "tournament": "Worlds 2025",
+      "team": "KT Rolster",
+      "date": "2025-11-09",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_Season_World_Championship"
+    },
+    {
+      "id": "LCK/2025 Season/Season Playoffs_3",
+      "tournament": "LCK 2025 Season Playoffs",
+      "team": "KT Rolster",
+      "date": "2025-09-27",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK/2025 Season/Rounds 3-5_1_4",
+      "tournament": "LCK 2025 Rounds 3-5",
+      "team": "KT Rolster",
+      "date": "2025-08-31",
+      "place": "4",
+      "phase": "Legend Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRounds_3-5"
+    },
+    {
+      "id": "LCK/2025 Season/Road to MSI_4",
+      "tournament": "LCK 2025 Road to MSI",
+      "team": "KT Rolster",
+      "date": "2025-06-14",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRoad_to_MSI"
+    },
+    {
+      "id": "LCK/2025 Season/Rounds 1-2_5",
+      "tournament": "LCK 2025 Rounds 1-2",
+      "team": "KT Rolster",
+      "date": "2025-06-04",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRounds_1-2"
+    },
+    {
+      "id": "LCK/2025 Season/Cup_5",
+      "tournament": "LCK Cup 2025",
+      "team": "KT Rolster",
+      "date": "2025-02-12",
+      "place": "5-6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FCup"
+    },
+    {
+      "id": "2023 Season World Championship_6",
+      "tournament": "Worlds 2023",
+      "team": "Gen.G",
+      "date": "2023-11-03",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2023_Season_World_Championship"
+    },
+    {
+      "id": "LCK/2023 Season/Summer Playoffs_1",
+      "tournament": "LCK 2023 Summer Playoffs",
+      "team": "Gen.G",
+      "date": "2023-08-20",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2023_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2023 Season/Summer Season_1_2",
+      "tournament": "LCK 2023 Summer",
+      "team": "Gen.G",
+      "date": "2023-08-06",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2023_Season%2FSummer_Season"
+    },
+    {
+      "id": "2023 Mid-Season Invitational_4",
+      "tournament": "MSI 2023",
+      "team": "Gen.G",
+      "date": "2023-05-19",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2023_Mid-Season_Invitational"
+    },
+    {
+      "id": "LCK/2023 Season/Spring Playoffs_1",
+      "tournament": "LCK 2023 Spring Playoffs",
+      "team": "Gen.G",
+      "date": "2023-04-09",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2023_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK/2023 Season/Spring Season_1_2",
+      "tournament": "LCK 2023 Spring",
+      "team": "Gen.G",
+      "date": "2023-03-19",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2023_Season%2FSpring_Season"
+    },
+    {
+      "id": "2022 Season World Championship_4",
+      "tournament": "Worlds 2022",
+      "team": "Gen.G",
+      "date": "2022-10-30",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2022_Season_World_Championship"
+    },
+    {
+      "id": "LCK/2022 Season/Summer Playoffs_1",
+      "tournament": "LCK 2022 Summer Playoffs",
+      "team": "Gen.G",
+      "date": "2022-08-28",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2022_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2022 Season/Summer Season_1_1",
+      "tournament": "LCK 2022 Summer",
+      "team": "Gen.G",
+      "date": "2022-08-14",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2022_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2022 Season/Spring Playoffs_2",
+      "tournament": "LCK 2022 Spring Playoffs",
+      "team": "Gen.G",
+      "date": "2022-04-02",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2022_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK/2022 Season/Spring Season_1_2",
+      "tournament": "LCK 2022 Spring",
+      "team": "Gen.G",
+      "date": "2022-03-20",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2022_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK/2019 Season/Summer Season_8",
+      "tournament": "LCK 2019 Summer",
+      "team": "KT Rolster",
+      "date": "2019-08-18",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2019_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2019 Season/Summer Promotion_1",
+      "tournament": "LCK 2019 Summer Promotion",
+      "team": "KT Rolster",
+      "date": "2019-04-18",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2019_Season%2FSummer_Promotion"
+    },
+    {
+      "id": "LCK/2019 Season/Spring Season_9",
+      "tournament": "LCK 2019 Spring",
+      "team": "KT Rolster",
+      "date": "2019-03-31",
+      "place": "9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2019_Season%2FSpring_Season"
+    },
+    {
+      "id": "2018 Season World Championship_5",
+      "tournament": "Worlds 2018",
+      "team": "KT Rolster",
+      "date": "2018-10-20",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2018_Season_World_Championship"
+    },
+    {
+      "id": "LCK/2018 Season/Summer Playoffs_1",
+      "tournament": "LCK 2018 Summer Playoffs",
+      "team": "KT Rolster",
+      "date": "2018-09-08",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2018_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "2018 Asian Games_2",
+      "tournament": "Asian Games 2018",
+      "team": "South Korea (National Team)",
+      "date": "2018-08-29",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2018_Asian_Games"
+    },
+    {
+      "id": "LCK/2018 Season/Summer Season_1",
+      "tournament": "LCK 2018 Summer",
+      "team": "KT Rolster",
+      "date": "2018-08-09",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2018_Season%2FSummer_Season"
+    },
+    {
+      "id": "Rift Rivals 2018/LCK-LPL-LMS_7",
+      "tournament": "Rift Rivals 2018 LCK-LPL-LMS",
+      "team": "KT Rolster",
+      "date": "2018-07-08",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Rift_Rivals_2018%2FLCK-LPL-LMS"
+    },
+    {
+      "id": "2018 Asian Games/East Asia Qualifier_1",
+      "tournament": "Asian Games 2018 Q - East",
+      "team": "South Korea (National Team)",
+      "date": "2018-06-10",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2018_Asian_Games%2FEast_Asia_Qualifier"
+    },
+    {
+      "id": "LCK/2018 Season/Spring Playoffs_3",
+      "tournament": "LCK 2018 Spring Playoffs",
+      "team": "KT Rolster",
+      "date": "2018-04-08",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2018_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK/2018 Season/Spring Season_3",
+      "tournament": "LCK 2018 Spring",
+      "team": "KT Rolster",
+      "date": "2018-03-25",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2018_Season%2FSpring_Season"
+    },
+    {
+      "id": "2017 LoL KeSPA Cup_1",
+      "tournament": "KeSPA Cup 2017",
+      "team": "KT Rolster",
+      "date": "2017-12-02",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2017_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK/2017 Season/Regional Finals_2",
+      "tournament": "Korea Regional Finals 2017",
+      "team": "KT Rolster",
+      "date": "2017-09-02",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2017_Season%2FRegional_Finals"
+    },
+    {
+      "id": "LCK/2017 Season/Summer Playoffs_3",
+      "tournament": "LCK 2017 Summer Playoffs",
+      "team": "KT Rolster",
+      "date": "2017-08-19",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2017_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2017 Season/Summer Season_2",
+      "tournament": "LCK 2017 Summer",
+      "team": "KT Rolster",
+      "date": "2017-08-06",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2017_Season%2FSummer_Season"
+    },
+    {
+      "id": "Rift Rivals 2017/LCK-LPL-LMS_5",
+      "tournament": "Rift Rivals 2017 LCK-LPL-LMS",
+      "team": "KT Rolster",
+      "date": "2017-07-09",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Rift_Rivals_2017%2FLCK-LPL-LMS"
+    },
+    {
+      "id": "LCK/2017 Season/Spring Playoffs_2",
+      "tournament": "LCK 2017 Spring Playoffs",
+      "team": "KT Rolster",
+      "date": "2017-04-22",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2017_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK/2017 Season/Spring Season_3",
+      "tournament": "LCK 2017 Spring",
+      "team": "KT Rolster",
+      "date": "2017-04-02",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2017_Season%2FSpring_Season"
+    },
+    {
+      "id": "2016 LoL KeSPA Cup_6",
+      "tournament": "KeSPA Cup 2016",
+      "team": "KT Rolster",
+      "date": "2016-11-19",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2016_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK/2016 Season/Regional Finals_2",
+      "tournament": "Korea Regional Finals 2016",
+      "team": "KT Rolster",
+      "date": "2016-09-03",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2016_Season%2FRegional_Finals"
+    },
+    {
+      "id": "LCK/2016 Season/Summer Playoffs_2",
+      "tournament": "LCK 2016 Summer Playoffs",
+      "team": "KT Rolster",
+      "date": "2016-08-20",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2016_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2016 Season/Summer Season_3",
+      "tournament": "LCK 2016 Summer",
+      "team": "KT Rolster",
+      "date": "2016-08-06",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2016_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2016 Season/Spring Playoffs_3",
+      "tournament": "LCK 2016 Spring Playoffs",
+      "team": "KT Rolster",
+      "date": "2016-04-16",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2016_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK/2016 Season/Spring Season_2",
+      "tournament": "LCK 2016 Spring",
+      "team": "KT Rolster",
+      "date": "2016-04-09",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2016_Season%2FSpring_Season"
+    },
+    {
+      "id": "2015 LoL KeSPA Cup_3",
+      "tournament": "KeSPA Cup 2015",
+      "team": "KT Rolster",
+      "date": "2015-11-14",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2015_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "2015 Season World Championship_8",
+      "tournament": "Worlds 2015",
+      "team": "KT Rolster",
+      "date": "2015-10-18",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2015_Season_World_Championship"
+    },
+    {
+      "id": "2015 Season Korea Regional Finals_1",
+      "tournament": "Korea Regional Finals 2015",
+      "team": "KT Rolster",
+      "date": "2015-09-05",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2015_Season_Korea_Regional_Finals"
+    },
+    {
+      "id": "Champions/2015 Season/Summer Playoffs_2",
+      "tournament": "Champions 2015 Summer Playoffs",
+      "team": "KT Rolster",
+      "date": "2015-08-29",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2015_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "Champions/2015 Season/Summer Season_2",
+      "tournament": "Champions 2015 Summer",
+      "team": "KT Rolster",
+      "date": "2015-08-13",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2015_Season%2FSummer_Season"
+    },
+    {
+      "id": "Champions/2015 Season/Spring Season_5",
+      "tournament": "Champions 2015 Spring",
+      "team": "KT Rolster",
+      "date": "2015-04-11",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2015_Season%2FSpring_Season"
+    },
+    {
+      "id": "Champions/2015 Season/Spring Preseason_1_3",
+      "tournament": "Champions 2015 Spring Preseason",
+      "team": "KT Rolster",
+      "date": "2014-12-20",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2015_Season%2FSpring_Preseason"
+    },
+    {
+      "id": "2014 Season Korea Regional Finals_4",
+      "tournament": "Korea Regional Finals 2014",
+      "team": "KT Rolster Bullets",
+      "date": "2014-08-28",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2014_Season_Korea_Regional_Finals"
+    },
+    {
+      "id": "NLB/2014 Season/Summer Season_9",
+      "tournament": "NLB 2014 Summer",
+      "team": "KT Rolster Bullets",
+      "date": "2014-07-29",
+      "place": "9-12",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/NLB%2F2014_Season%2FSummer_Season"
+    },
+    {
+      "id": "Champions/2014 Season/Summer Season_15",
+      "tournament": "Champions 2014 Summer",
+      "team": "KT Rolster Bullets",
+      "date": "2014-07-05",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2014_Season%2FSummer_Season"
+    },
+    {
+      "id": "NLB/2014 Season/Spring Season_4",
+      "tournament": "NLB 2014 Spring",
+      "team": "KT Rolster Bullets",
+      "date": "2014-05-14",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/NLB%2F2014_Season%2FSpring_Season"
+    },
+    {
+      "id": "SK Telecom LTE-A LoL Masters 2014_6",
+      "tournament": "LoL Masters 2014",
+      "team": "KT Rolster (Club Masters)",
+      "date": "2014-05-01",
+      "place": "4-7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/SK_Telecom_LTE-A_LoL_Masters_2014"
+    },
+    {
+      "id": "Champions/2014 Season/Spring Season_5",
+      "tournament": "Champions 2014 Spring",
+      "team": "KT Rolster Bullets",
+      "date": "2014-04-25",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2014_Season%2FSpring_Season"
+    },
+    {
+      "id": "IEM Season VIII - World Championship_1",
+      "tournament": "IEM Season 8 World Championship",
+      "team": "KT Rolster Bullets",
+      "date": "2014-03-16",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/IEM_Season_VIII_-_World_Championship"
+    },
+    {
+      "id": "Champions/2014 Season/Winter Season_3",
+      "tournament": "Champions 2014 Winter",
+      "team": "KT Rolster Bullets",
+      "date": "2014-01-15",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2014_Season%2FWinter_Season"
+    },
+    {
+      "id": "Season 3 Korea Regional Finals_2",
+      "tournament": "Korea Regional Finals Season 3",
+      "team": "KT Rolster Bullets",
+      "date": "2013-09-07",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Season_3_Korea_Regional_Finals"
+    },
+    {
+      "id": "Champions/2013 Season/Summer_2",
+      "tournament": "Champions 2013 Summer",
+      "team": "KT Rolster Bullets",
+      "date": "2013-08-31",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2013_Season%2FSummer"
+    },
+    {
+      "id": "Asian Indoor-Martial Arts Games 2013_1",
+      "tournament": "Asian Indoor-Martial Arts Games 2013",
+      "team": "South Korea (National Team)",
+      "date": "2013-07-01",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Asian_Indoor-Martial_Arts_Games_2013"
+    },
+    {
+      "id": "NLB/2013 Season/Spring_3",
+      "tournament": "NLB 2013 Spring",
+      "team": "KT Rolster B",
+      "date": "2013-06-14",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/NLB%2F2013_Season%2FSpring"
+    },
+    {
+      "id": "Champions/2013 Season/Spring_7",
+      "tournament": "Champions 2013 Spring",
+      "team": "KT Rolster B",
+      "date": "2013-05-10",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2013_Season%2FSpring"
+    },
+    {
+      "id": "2013 MLG Pro Circuit/Winter/Championship_5",
+      "tournament": "MLG 2013 Winter",
+      "team": "KT Rolster B",
+      "date": "2013-03-17",
+      "place": "1",
+      "phase": "International Exhibition",
+      "sourceUrl": "https://lol.fandom.com/wiki/2013_MLG_Pro_Circuit%2FWinter%2FChampionship"
+    },
+    {
+      "id": "2013 MLG Pro Circuit/Winter/Championship/Korean Qualifier_1",
+      "tournament": "2013 MLG Winter Championship - Korean Qualifier",
+      "team": "KT Rolster B",
+      "date": "2013-03-02",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2013_MLG_Pro_Circuit%2FWinter%2FChampionship%2FKorean_Qualifier"
+    },
+    {
+      "id": "OGN Club Masters_3",
+      "tournament": "OGN Club Masters",
+      "team": "KT Rolster (Club Masters)",
+      "date": "2013-02-22",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/OGN_Club_Masters"
+    },
+    {
+      "id": "Champions/2013 Season/Winter_3",
+      "tournament": "Champions 2013 Winter",
+      "team": "KT Rolster B",
+      "date": "2013-01-25",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2013_Season%2FWinter"
+    },
+    {
+      "id": "Enter the Dragon_7",
+      "tournament": "Enter the Dragon (용쟁호투)",
+      "team": "KT Rolster B",
+      "date": "2012-11-20",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Enter_the_Dragon"
+    },
+    {
+      "id": "Champions/2013 Season/Winter Qualifiers_4",
+      "tournament": "Champions 2013 Winter Qualifiers",
+      "team": "KT Rolster B",
+      "date": "2012-10-29",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2013_Season%2FWinter_Qualifiers"
+    },
+    {
+      "id": "Champions/2012 Season/Summer_5",
+      "tournament": "Champions 2012 Summer",
+      "team": "StarTale",
+      "date": "2012-08-01",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2012_Season%2FSummer"
+    },
+    {
+      "id": "Champions/2012 Season/Spring_15",
+      "tournament": "Champions 2012 Spring",
+      "team": "StarTale",
+      "date": "2012-04-13",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2012_Season%2FSpring"
+    },
+    {
+      "id": "OnGameNet LoL Invitational_5",
+      "tournament": "OGN LoL Invitational 2012",
+      "team": "StarTale",
+      "date": "2012-01-20",
+      "place": "5-6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/OnGameNet_LoL_Invitational"
+    },
+    {
+      "id": "Inven Allstar-Tournament 2011_6",
+      "tournament": "Inven Allstar-Tournament 2011",
+      "team": "StarTale",
+      "date": "2011-12-02",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Inven_Allstar-Tournament_2011"
+    }
+  ]
+}

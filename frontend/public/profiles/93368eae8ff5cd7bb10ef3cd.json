@@ -1,0 +1,473 @@
+{
+  "schemaVersion": 1,
+  "id": "Deokdam",
+  "fetchedAt": "2026-10-07T09:20:41.533078+00:00",
+  "sourceUrl": "https://lol.fandom.com/wiki/Deokdam",
+  "careerStatus": "fetched",
+  "resultsStatus": "fetched",
+  "awardsStatus": "not_collected",
+  "awards": [],
+  "careers": [
+    {
+      "team": "DN SOOPers",
+      "joinedAt": "2025-11-20",
+      "leftAt": null,
+      "current": true,
+      "joinedPrecision": "1",
+      "leftPrecision": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Deokdam"
+    },
+    {
+      "team": "KT Rolster",
+      "joinedAt": "2024-11-20",
+      "leftAt": "2025-11-17",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Deokdam"
+    },
+    {
+      "team": "FunPlus Phoenix",
+      "joinedAt": "2023-12-13",
+      "leftAt": "2024-11-20",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Deokdam"
+    },
+    {
+      "team": "DRX Challengers",
+      "joinedAt": "2023-07-06",
+      "leftAt": "2023-11-20",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Deokdam"
+    },
+    {
+      "team": "DRX",
+      "joinedAt": "2022-12-02",
+      "leftAt": "2023-07-06",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Deokdam"
+    },
+    {
+      "team": "DWG KIA",
+      "joinedAt": "2021-12-01",
+      "leftAt": "2022-11-17",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Deokdam"
+    },
+    {
+      "team": "Nongshim RedForce",
+      "joinedAt": "2020-12-16",
+      "leftAt": "2021-11-17",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Deokdam"
+    },
+    {
+      "team": "XTEN Esports",
+      "joinedAt": "2019-07-22",
+      "leftAt": "2019-11-07",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Deokdam"
+    },
+    {
+      "team": "Team Dynamics",
+      "joinedAt": "2019-05-30",
+      "leftAt": "2020-12-16",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Deokdam"
+    }
+  ],
+  "results": [
+    {
+      "id": "LCK/2026 Season/Rounds 3-4_2_5",
+      "tournament": "LCK 2026 Rounds 3-4",
+      "team": "DN SOOPers",
+      "date": "2026-08-23",
+      "place": "5",
+      "phase": "Rise Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_3-4"
+    },
+    {
+      "id": "2026 LoL KeSPA Cup_1",
+      "tournament": "KeSPA Cup 2026",
+      "team": "DN SOOPers",
+      "date": "2026-08-18",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 1-2_10",
+      "tournament": "LCK 2026 Rounds 1-2",
+      "team": "DN SOOPers",
+      "date": "2026-05-31",
+      "place": "10",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_1-2"
+    },
+    {
+      "id": "Esports World Cup 2026/Online Qualifiers/Korea_8",
+      "tournament": "Esports World Cup 2026 Online Qualifier: Korea",
+      "team": "DN SOOPers",
+      "date": "2026-05-18",
+      "place": "NQ",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Esports_World_Cup_2026%2FOnline_Qualifiers%2FKorea"
+    },
+    {
+      "id": "LCK/2026 Season/Cup_5",
+      "tournament": "LCK Cup 2026",
+      "team": "DN SOOPers",
+      "date": "2026-02-20",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FCup"
+    },
+    {
+      "id": "2025 Season World Championship_2",
+      "tournament": "Worlds 2025",
+      "team": "KT Rolster",
+      "date": "2025-11-09",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_Season_World_Championship"
+    },
+    {
+      "id": "LCK/2025 Season/Season Playoffs_3",
+      "tournament": "LCK 2025 Season Playoffs",
+      "team": "KT Rolster",
+      "date": "2025-09-27",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK/2025 Season/Rounds 3-5_1_4",
+      "tournament": "LCK 2025 Rounds 3-5",
+      "team": "KT Rolster",
+      "date": "2025-08-31",
+      "place": "4",
+      "phase": "Legend Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRounds_3-5"
+    },
+    {
+      "id": "LCK/2025 Season/Road to MSI_4",
+      "tournament": "LCK 2025 Road to MSI",
+      "team": "KT Rolster",
+      "date": "2025-06-14",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRoad_to_MSI"
+    },
+    {
+      "id": "LCK/2025 Season/Rounds 1-2_5",
+      "tournament": "LCK 2025 Rounds 1-2",
+      "team": "KT Rolster",
+      "date": "2025-06-04",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRounds_1-2"
+    },
+    {
+      "id": "LCK CL/2025 Season/Rounds 1-2_1",
+      "tournament": "LCK CL 2025 Rounds 1-2",
+      "team": "KT Rolster Challengers",
+      "date": "2025-05-30",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2025_Season%2FRounds_1-2"
+    },
+    {
+      "id": "LCK/2025 Season/Cup_5",
+      "tournament": "LCK Cup 2025",
+      "team": "KT Rolster",
+      "date": "2025-02-12",
+      "place": "5-6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FCup"
+    },
+    {
+      "id": "LPL/2024 Season/Summer Playoffs_8",
+      "tournament": "LPL 2024 Summer Playoffs",
+      "team": "FunPlus Phoenix",
+      "date": "2024-08-13",
+      "place": "7-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2024_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LPL/2024 Season/Summer Season_1_7",
+      "tournament": "LPL 2024 Summer",
+      "team": "FunPlus Phoenix",
+      "date": "2024-07-31",
+      "place": "7",
+      "phase": "Higher Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2024_Season%2FSummer_Season"
+    },
+    {
+      "id": "LPL/2024 Season/Summer Placements_7",
+      "tournament": "LPL 2024 Summer Placements",
+      "team": "FunPlus Phoenix",
+      "date": "2024-06-29",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2024_Season%2FSummer_Placements"
+    },
+    {
+      "id": "LPL/2024 Season/Spring Playoffs_5",
+      "tournament": "LPL 2024 Spring Playoffs",
+      "team": "FunPlus Phoenix",
+      "date": "2024-04-04",
+      "place": "5-6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2024_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LPL/2024 Season/Spring Season_1_4",
+      "tournament": "LPL 2024 Spring",
+      "team": "FunPlus Phoenix",
+      "date": "2024-03-27",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2024_Season%2FSpring_Season"
+    },
+    {
+      "id": "Demacia Cup 2023_15",
+      "tournament": "Demacia Cup 2023",
+      "team": "FunPlus Phoenix",
+      "date": "2023-12-28",
+      "place": "13-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Demacia_Cup_2023"
+    },
+    {
+      "id": "2023 Asia Star Challengers Invitational_1",
+      "tournament": "Asia Star Challengers Invitational 2023",
+      "team": "DRX Challengers",
+      "date": "2023-09-15",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2023_Asia_Star_Challengers_Invitational"
+    },
+    {
+      "id": "LCK CL/2023 Season/Summer Playoffs_3",
+      "tournament": "LCK CL 2023 Summer Playoffs",
+      "team": "DRX Challengers",
+      "date": "2023-08-21",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2023_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK CL/2023 Season/Summer Season_1_2",
+      "tournament": "LCK CL 2023 Summer",
+      "team": "DRX Challengers",
+      "date": "2023-08-04",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2023_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2023 Season/Spring Season_1_9",
+      "tournament": "LCK 2023 Spring",
+      "team": "DRX",
+      "date": "2023-03-19",
+      "place": "9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2023_Season%2FSpring_Season"
+    },
+    {
+      "id": "2022 Season World Championship_7",
+      "tournament": "Worlds 2022",
+      "team": "DWG KIA",
+      "date": "2022-10-22",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2022_Season_World_Championship"
+    },
+    {
+      "id": "LCK/2022 Season/Regional Finals_1",
+      "tournament": "LCK 2022 Regional Finals",
+      "team": "DWG KIA",
+      "date": "2022-09-01",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2022_Season%2FRegional_Finals"
+    },
+    {
+      "id": "LCK/2022 Season/Summer Playoffs_4",
+      "tournament": "LCK 2022 Summer Playoffs",
+      "team": "DWG KIA",
+      "date": "2022-08-21",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2022_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2022 Season/Summer Season_1_4",
+      "tournament": "LCK 2022 Summer",
+      "team": "DWG KIA",
+      "date": "2022-08-14",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2022_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2022 Season/Spring Playoffs_3",
+      "tournament": "LCK 2022 Spring Playoffs",
+      "team": "DWG KIA",
+      "date": "2022-03-27",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2022_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK/2022 Season/Spring Season_1_3",
+      "tournament": "LCK 2022 Spring",
+      "team": "DWG KIA",
+      "date": "2022-03-20",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2022_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK/2021 Season/Regional Finals_3",
+      "tournament": "LCK 2021 Regional Finals",
+      "team": "Nongshim RedForce",
+      "date": "2021-09-01",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2021_Season%2FRegional_Finals"
+    },
+    {
+      "id": "LCK/2021 Season/Summer Playoffs_4",
+      "tournament": "LCK 2021 Summer Playoffs",
+      "team": "Nongshim RedForce",
+      "date": "2021-08-21",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2021_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2021 Season/Summer Season_1_3",
+      "tournament": "LCK 2021 Summer",
+      "team": "Nongshim RedForce",
+      "date": "2021-08-15",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2021_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2021 Season/Spring Playoffs_6",
+      "tournament": "LCK 2021 Spring Playoffs",
+      "team": "Nongshim RedForce",
+      "date": "2021-03-31",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2021_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK/2021 Season/Spring Season_1_6",
+      "tournament": "LCK 2021 Spring",
+      "team": "Nongshim RedForce",
+      "date": "2021-03-28",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2021_Season%2FSpring_Season"
+    },
+    {
+      "id": "2020 LoL KeSPA Cup_2",
+      "tournament": "KeSPA Cup 2020",
+      "team": "Nongshim RedForce",
+      "date": "2021-01-02",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2020_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK/2020 Season/Summer Season_8",
+      "tournament": "LCK 2020 Summer",
+      "team": "Team Dynamics",
+      "date": "2020-08-23",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2020_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2020 Season/Summer Promotion_1",
+      "tournament": "LCK 2020 Summer Promotion",
+      "team": "Team Dynamics",
+      "date": "2020-04-29",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2020_Season%2FSummer_Promotion"
+    },
+    {
+      "id": "Challengers Korea/2020 Season/Spring Playoffs_1",
+      "tournament": "CK 2020 Spring Playoffs",
+      "team": "Team Dynamics",
+      "date": "2020-04-23",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2020_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "Challengers Korea/2020 Season/Spring Season_2",
+      "tournament": "CK 2020 Spring",
+      "team": "Team Dynamics",
+      "date": "2020-04-17",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2020_Season%2FSpring_Season"
+    },
+    {
+      "id": "2019 LoL KeSPA Cup_11",
+      "tournament": "KeSPA Cup 2019",
+      "team": "Team Dynamics",
+      "date": "2019-12-29",
+      "place": "9-12",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2019_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LLA/2019 Season/Closing Playoffs_4",
+      "tournament": "LLA 2019 Closing Playoffs",
+      "team": "XTEN Esports",
+      "date": "2019-08-18",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LLA%2F2019_Season%2FClosing_Playoffs"
+    },
+    {
+      "id": "Challengers Korea/2019 Season/Summer Season_1",
+      "tournament": "CK 2019 Summer",
+      "team": "Team Dynamics",
+      "date": "2019-08-12",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2019_Season%2FSummer_Season"
+    },
+    {
+      "id": "LLA/2019 Season/Closing Season_1_6",
+      "tournament": "LLA 2019 Closing",
+      "team": "XTEN Esports",
+      "date": "2019-08-04",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LLA%2F2019_Season%2FClosing_Season"
+    }
+  ]
+}

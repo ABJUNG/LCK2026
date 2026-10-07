@@ -1,0 +1,338 @@
+{
+  "schemaVersion": 1,
+  "id": "Calix (Syun Hyun-bin)",
+  "fetchedAt": "2026-10-07T09:20:41.533078+00:00",
+  "sourceUrl": "https://lol.fandom.com/wiki/Calix_%28Syun_Hyun-bin%29",
+  "careerStatus": "fetched",
+  "resultsStatus": "fetched",
+  "awardsStatus": "not_collected",
+  "awards": [],
+  "careers": [
+    {
+      "team": "Nongshim RedForce",
+      "joinedAt": "2025-04-16",
+      "leftAt": null,
+      "current": true,
+      "joinedPrecision": "1",
+      "leftPrecision": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Calix_%28Syun_Hyun-bin%29"
+    },
+    {
+      "team": "Nongshim Esports Academy",
+      "joinedAt": "2025-01-06",
+      "leftAt": "2025-04-16",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Calix_%28Syun_Hyun-bin%29"
+    },
+    {
+      "team": "Nongshim RedForce",
+      "joinedAt": "2024-07-18",
+      "leftAt": "2025-01-06",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Calix_%28Syun_Hyun-bin%29"
+    },
+    {
+      "team": "Nongshim Esports Academy",
+      "joinedAt": "2023-01-04",
+      "leftAt": "2024-07-18",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Calix_%28Syun_Hyun-bin%29"
+    },
+    {
+      "team": "Nongshim RedForce Academy",
+      "joinedAt": "2021-03-17",
+      "leftAt": "2023-01-04",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Calix_%28Syun_Hyun-bin%29"
+    }
+  ],
+  "results": [
+    {
+      "id": "2025 League of Legends Asia Invitational_3",
+      "tournament": "League of Legends Asia Invitational 2025",
+      "team": "Nongshim RedForce",
+      "date": "2025-10-11",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_League_of_Legends_Asia_Invitational"
+    },
+    {
+      "id": "LCK/2025 Season/Season Play-In_3",
+      "tournament": "LCK 2025 Season Play-In",
+      "team": "Nongshim RedForce",
+      "date": "2025-09-07",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FSeason_Play-In"
+    },
+    {
+      "id": "LCK/2025 Season/Rounds 3-5_1_5",
+      "tournament": "LCK 2025 Rounds 3-5",
+      "team": "Nongshim RedForce",
+      "date": "2025-08-31",
+      "place": "5",
+      "phase": "Legend Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRounds_3-5"
+    },
+    {
+      "id": "LCK/2025 Season/Road to MSI_5",
+      "tournament": "LCK 2025 Road to MSI",
+      "team": "Nongshim RedForce",
+      "date": "2025-06-08",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRoad_to_MSI"
+    },
+    {
+      "id": "LCK/2025 Season/Rounds 1-2_4",
+      "tournament": "LCK 2025 Rounds 1-2",
+      "team": "Nongshim RedForce",
+      "date": "2025-06-04",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRounds_1-2"
+    },
+    {
+      "id": "LCK CL/2025 Season/Rounds 1-2_9",
+      "tournament": "LCK CL 2025 Rounds 1-2",
+      "team": "Nongshim Esports Academy",
+      "date": "2025-05-30",
+      "place": "9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2025_Season%2FRounds_1-2"
+    },
+    {
+      "id": "2025 Asia Masters/Swiss 1_4",
+      "tournament": "Asia Masters 2025 Swiss 1",
+      "team": "Nongshim Esports Academy",
+      "date": "2025-03-19",
+      "place": "3-6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_Asia_Masters%2FSwiss_1"
+    },
+    {
+      "id": "LCK CL/2025 Season/Kickoff_9",
+      "tournament": "LCK CL 2025 Kickoff",
+      "team": "Nongshim Esports Academy",
+      "date": "2025-02-10",
+      "place": "8-9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2025_Season%2FKickoff"
+    },
+    {
+      "id": "LCK/2024 Season/Summer Season_1_8",
+      "tournament": "LCK 2024 Summer",
+      "team": "Nongshim RedForce",
+      "date": "2024-08-18",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2024_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK CL/2024 Season/Summer Season_1_5",
+      "tournament": "LCK CL 2024 Summer",
+      "team": "Nongshim Esports Academy",
+      "date": "2024-08-16",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2024_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK CL/2024 Season/Spring Playoffs_3",
+      "tournament": "LCK CL 2024 Spring Playoffs",
+      "team": "Nongshim Esports Academy",
+      "date": "2024-04-11",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2024_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK/2024 Season/Spring Season_1_8",
+      "tournament": "LCK 2024 Spring",
+      "team": "Nongshim RedForce",
+      "date": "2024-03-24",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2024_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK CL/2024 Season/Spring Season_1_4",
+      "tournament": "LCK CL 2024 Spring",
+      "team": "Nongshim Esports Academy",
+      "date": "2024-03-22",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2024_Season%2FSpring_Season"
+    },
+    {
+      "id": "2023 Esports Championships East Asia_1",
+      "tournament": "Esports Championships East Asia 2023",
+      "team": "South Korea (National Team)",
+      "date": "2023-12-17",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2023_Esports_Championships_East_Asia"
+    },
+    {
+      "id": "2023 Asia Star Challengers Invitational_5",
+      "tournament": "Asia Star Challengers Invitational 2023",
+      "team": "Nongshim Esports Academy",
+      "date": "2023-09-09",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2023_Asia_Star_Challengers_Invitational"
+    },
+    {
+      "id": "LCK CL/2023 Season/Summer Season_1_1",
+      "tournament": "LCK CL 2023 Summer",
+      "team": "Nongshim Esports Academy",
+      "date": "2023-08-04",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2023_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK CL/2023 Season/Spring Playoffs_6",
+      "tournament": "LCK CL 2023 Spring Playoffs",
+      "team": "Nongshim Esports Academy",
+      "date": "2023-03-20",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2023_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK CL/2023 Season/Spring Season_1_6",
+      "tournament": "LCK CL 2023 Spring",
+      "team": "Nongshim Esports Academy",
+      "date": "2023-03-17",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2023_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/2nd Championship Playoffs_4",
+      "tournament": "LCK AS 2022 2nd Championship Playoffs",
+      "team": "Nongshim RedForce Academy",
+      "date": "2022-11-19",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2F2nd_Championship_Playoffs"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/2nd Championship_1_1",
+      "tournament": "LCK AS 2022 2nd Championship",
+      "team": "Nongshim RedForce Academy",
+      "date": "2022-11-12",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2F2nd_Championship"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/September_3",
+      "tournament": "LCK AS 2022 September",
+      "team": "Nongshim RedForce Academy",
+      "date": "2022-09-04",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2FSeptember"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/August_4",
+      "tournament": "LCK AS 2022 August",
+      "team": "Nongshim RedForce Academy",
+      "date": "2022-08-07",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2FAugust"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/1st Championship Playoffs_1",
+      "tournament": "LCK AS 2022 1st Championship Playoffs",
+      "team": "Nongshim RedForce Academy",
+      "date": "2022-05-29",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2F1st_Championship_Playoffs"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/1st Championship_1_2",
+      "tournament": "LCK AS 2022 1st Championship",
+      "team": "Nongshim RedForce Academy",
+      "date": "2022-05-21",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2F1st_Championship"
+    },
+    {
+      "id": "Liiv Mobile Academy/Open Scream_1_5",
+      "tournament": "Liiv Mobile Academy Open Scream",
+      "team": "Nongshim RedForce Academy",
+      "date": "2022-05-19",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Liiv_Mobile_Academy%2FOpen_Scream"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/March_2",
+      "tournament": "LCK AS 2022 March",
+      "team": "Nongshim RedForce Academy",
+      "date": "2022-03-27",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2FMarch"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/February_4",
+      "tournament": "LCK AS 2022 February",
+      "team": "Nongshim RedForce Academy",
+      "date": "2022-02-27",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2FFebruary"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/January_6",
+      "tournament": "LCK AS 2022 January",
+      "team": "Nongshim RedForce Academy",
+      "date": "2022-01-29",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2FJanuary"
+    },
+    {
+      "id": "LCK Academy Series/2021 Season/August_12",
+      "tournament": "LCK AS 2021 August",
+      "team": "Nongshim RedForce Academy",
+      "date": "2021-08-28",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2021_Season%2FAugust"
+    },
+    {
+      "id": "LCK Academy Series/2021 Season/July_15",
+      "tournament": "LCK AS 2021 July",
+      "team": "Nongshim RedForce Academy",
+      "date": "2021-07-24",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2021_Season%2FJuly"
+    },
+    {
+      "id": "LCK Academy Series/2021 Season/March_14",
+      "tournament": "LCK AS 2021 March",
+      "team": "Nongshim RedForce Academy",
+      "date": "2021-03-27",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2021_Season%2FMarch"
+    }
+  ]
+}

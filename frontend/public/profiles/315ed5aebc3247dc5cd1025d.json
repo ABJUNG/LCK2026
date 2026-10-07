@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "id": "Highness",
+  "fetchedAt": "2026-10-07T09:20:41.533078+00:00",
+  "sourceUrl": "https://lol.fandom.com/wiki/Highness",
+  "careerStatus": "fetched",
+  "resultsStatus": "fetched",
+  "awardsStatus": "not_collected",
+  "awards": [],
+  "careers": [
+    {
+      "team": "KT Rolster",
+      "joinedAt": "2024-05-27",
+      "leftAt": null,
+      "current": true,
+      "joinedPrecision": "1",
+      "leftPrecision": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Highness"
+    },
+    {
+      "team": "KT Rolster Challengers",
+      "joinedAt": "2021-01-11",
+      "leftAt": "2022-07-10",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Highness"
+    },
+    {
+      "team": "KT Rolster Academy",
+      "joinedAt": "2020-02-03",
+      "leftAt": "2021-01-11",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Highness"
+    }
+  ],
+  "results": [
+    {
+      "id": "LCK CL/2022 Season/Summer Season_1_4",
+      "tournament": "LCK CL 2022 Summer",
+      "team": "KT Rolster Challengers",
+      "date": "2022-08-12",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2022_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK CL/2022 Season/Spring Playoffs_4",
+      "tournament": "LCK CL 2022 Spring Playoffs",
+      "team": "KT Rolster Challengers",
+      "date": "2022-03-29",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2022_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK CL/2022 Season/Spring Season_1_4",
+      "tournament": "LCK CL 2022 Spring",
+      "team": "KT Rolster Challengers",
+      "date": "2022-03-19",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2022_Season%2FSpring_Season"
+    },
+    {
+      "id": "2021 LoL KeSPA Cup_9",
+      "tournament": "KeSPA Cup 2021",
+      "team": "KT Rolster Challengers",
+      "date": "2021-12-10",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2021_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK CL/2021 Season/Summer Playoffs_4",
+      "tournament": "LCK CL 2021 Summer Playoffs",
+      "team": "KT Rolster Challengers",
+      "date": "2021-08-24",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2021_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK CL/2021 Season/Summer Season_1_4",
+      "tournament": "LCK CL 2021 Summer",
+      "team": "KT Rolster Challengers",
+      "date": "2021-08-10",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2021_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK CL/2021 Season/Spring Playoffs_5",
+      "tournament": "LCK CL 2021 Spring Playoffs",
+      "team": "KT Rolster Challengers",
+      "date": "2021-03-30",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2021_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK CL/2021 Season/Spring Season_1_4",
+      "tournament": "LCK CL 2021 Spring",
+      "team": "KT Rolster Challengers",
+      "date": "2021-03-23",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2021_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK Academy Series/2020 Season/November_1",
+      "tournament": "LCK AS 2020 November",
+      "team": "KT Rolster Academy A",
+      "date": "2020-11-22",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2020_Season%2FNovember"
+    },
+    {
+      "id": "LCK Academy Series/2020 Season/October_3",
+      "tournament": "LCK AS 2020 October",
+      "team": "KT Rolster Academy A",
+      "date": "2020-10-18",
+      "place": "3-4<",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2020_Season%2FOctober"
+    },
+    {
+      "id": "LCK Academy Series/2020 Season/September_14",
+      "tournament": "LCK AS 2020 September",
+      "team": "KT Rolster Academy",
+      "date": "2020-09-12",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2020_Season%2FSeptember"
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "schemaVersion": 1,
+  "id": "Vincenzo (Ha Seung-min)",
+  "fetchedAt": "2026-10-07T09:20:41.533078+00:00",
+  "sourceUrl": "https://lol.fandom.com/wiki/Vincenzo_%28Ha_Seung-min%29",
+  "careerStatus": "fetched",
+  "resultsStatus": "fetched",
+  "awardsStatus": "not_collected",
+  "awards": [],
+  "careers": [
+    {
+      "team": "Kiwoom DRX",
+      "joinedAt": "2025-11-18",
+      "leftAt": null,
+      "current": true,
+      "joinedPrecision": "1",
+      "leftPrecision": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Vincenzo_%28Ha_Seung-min%29"
+    },
+    {
+      "team": "T1 Esports Academy",
+      "joinedAt": "2024-11-27",
+      "leftAt": "2025-11-17",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Vincenzo_%28Ha_Seung-min%29"
+    },
+    {
+      "team": "OKSavingsBank BRION Challengers",
+      "joinedAt": "2024-06-23",
+      "leftAt": "2024-08-15",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Vincenzo_%28Ha_Seung-min%29"
+    },
+    {
+      "team": "OKSavingsBank BRION Academy",
+      "joinedAt": "2024-02-20",
+      "leftAt": "2024-11-27",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Vincenzo_%28Ha_Seung-min%29"
+    },
+    {
+      "team": "Liiv SANDBOX Youth",
+      "joinedAt": "2022-12-04",
+      "leftAt": "2023-12-05",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Vincenzo_%28Ha_Seung-min%29"
+    },
+    {
+      "team": "Busan",
+      "joinedAt": "2022-08-18",
+      "leftAt": "2022-08-21",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Vincenzo_%28Ha_Seung-min%29"
+    },
+    {
+      "team": "Liiv SANDBOX Academy",
+      "joinedAt": "2022-04-06",
+      "leftAt": "2022-12-04",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Vincenzo_%28Ha_Seung-min%29"
+    },
+    {
+      "team": "ESA",
+      "joinedAt": "2022-02-16",
+      "leftAt": "2022-04-06",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Vincenzo_%28Ha_Seung-min%29"
+    },
+    {
+      "team": "Nongshim RedForce Academy",
+      "joinedAt": "2021-10-29",
+      "leftAt": "2022-02-16",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Vincenzo_%28Ha_Seung-min%29"
+    }
+  ],
+  "results": [
+    {
+      "id": "LCK CL/2026 Season/Season Playoffs_6",
+      "tournament": "LCK CL 2026 Season Playoffs",
+      "team": "Kiwoom DRX Challengers",
+      "date": "2026-09-07",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2026_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK CL/2026 Season/Season Play-In_2",
+      "tournament": "LCK CL 2026 Season Play-In",
+      "team": "Kiwoom DRX Challengers",
+      "date": "2026-08-25",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2026_Season%2FSeason_Play-In"
+    },
+    {
+      "id": "2025 LoL KeSPA Cup_8",
+      "tournament": "KeSPA Cup 2025",
+      "team": "DRX",
+      "date": "2025-12-08",
+      "place": "7-9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "2025 Asia Masters/Finals_1",
+      "tournament": "Asia Masters 2025 Finals",
+      "team": "T1 Esports Academy",
+      "date": "2025-10-13",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_Asia_Masters%2FFinals"
+    },
+    {
+      "id": "LCK CL/2025 Season/Season Playoffs_3",
+      "tournament": "LCK CL 2025 Season Playoffs",
+      "team": "T1 Esports Academy",
+      "date": "2025-09-29",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2025_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK CL/2025 Season/Rounds 3-5_1_2",
+      "tournament": "LCK CL 2025 Rounds 3-5",
+      "team": "T1 Esports Academy",
+      "date": "2025-08-29",
+      "place": "2",
+      "phase": "Challenge Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2025_Season%2FRounds_3-5"
+    },
+    {
+      "id": "2025 Asia Masters/Swiss 2_5",
+      "tournament": "Asia Masters 2025 Swiss 2",
+      "team": "T1 Esports Academy",
+      "date": "2025-07-15",
+      "place": "3-6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_Asia_Masters%2FSwiss_2"
+    },
+    {
+      "id": "LCK CL/2025 Season/Rounds 1-2_4",
+      "tournament": "LCK CL 2025 Rounds 1-2",
+      "team": "T1 Esports Academy",
+      "date": "2025-05-30",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2025_Season%2FRounds_1-2"
+    },
+    {
+      "id": "2025 Asia Masters/Swiss 1_2",
+      "tournament": "Asia Masters 2025 Swiss 1",
+      "team": "T1 Esports Academy",
+      "date": "2025-03-09",
+      "place": "1-2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_Asia_Masters%2FSwiss_1"
+    },
+    {
+      "id": "LCK CL/2025 Season/Kickoff_2",
+      "tournament": "LCK CL 2025 Kickoff",
+      "team": "T1 Esports Academy",
+      "date": "2025-02-27",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2025_Season%2FKickoff"
+    },
+    {
+      "id": "2024 LoL KeSPA Cup_12",
+      "tournament": "KeSPA Cup 2024",
+      "team": "T1",
+      "date": "2024-12-03",
+      "place": "11-12",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2024_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK Academy Series/2024 Season/2nd Championship Playoffs_1",
+      "tournament": "LCK AS 2024 2nd Championship Playoffs",
+      "team": "OKSavingsBank BRION Academy",
+      "date": "2024-11-24",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2024_Season%2F2nd_Championship_Playoffs"
+    },
+    {
+      "id": "LCK Academy Series/2024 Season/2nd Championship_1_1",
+      "tournament": "LCK AS 2024 2nd Championship",
+      "team": "OKSavingsBank BRION Academy",
+      "date": "2024-11-16",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2024_Season%2F2nd_Championship"
+    },
+    {
+      "id": "LCK Academy Series/2024 Season/September_5",
+      "tournament": "LCK AS 2024 September",
+      "team": "OKSavingsBank BRION Academy",
+      "date": "2024-08-31",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2024_Season%2FSeptember"
+    },
+    {
+      "id": "LCK CL/2024 Season/Summer Season_1_7",
+      "tournament": "LCK CL 2024 Summer",
+      "team": "OKSavingsBank BRION Challengers",
+      "date": "2024-08-16",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2024_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK Academy Series/2024 Season/August_10",
+      "tournament": "LCK AS 2024 August",
+      "team": "OKSavingsBank BRION Academy",
+      "date": "2024-08-10",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2024_Season%2FAugust"
+    },
+    {
+      "id": "LCK Academy Series/2024 Season/1st Championship Playoffs_2",
+      "tournament": "LCK AS 2024 1st Championship Playoffs",
+      "team": "OKSavingsBank BRION Academy",
+      "date": "2024-06-23",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2024_Season%2F1st_Championship_Playoffs"
+    },
+    {
+      "id": "LCK Academy Series/2024 Season/1st Championship_1_3",
+      "tournament": "LCK AS 2024 1st Championship",
+      "team": "OKSavingsBank BRION Academy",
+      "date": "2024-06-15",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2024_Season%2F1st_Championship"
+    },
+    {
+      "id": "LCK Academy Series/2024 Season/March_13",
+      "tournament": "LCK AS 2024 March",
+      "team": "OKSavingsBank BRION Academy",
+      "date": "2024-03-30",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2024_Season%2FMarch"
+    },
+    {
+      "id": "LCK Academy Series/2024 Season/February_13",
+      "tournament": "LCK AS 2024 February",
+      "team": "OKSavingsBank BRION Academy",
+      "date": "2024-03-02",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2024_Season%2FFebruary"
+    },
+    {
+      "id": "LCK Academy Series/2024 Season/January_5",
+      "tournament": "LCK AS 2024 January",
+      "team": "CarpeDiem (South Korean Team)",
+      "date": "2024-02-03",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2024_Season%2FJanuary"
+    },
+    {
+      "id": "LCK CL/2023 Season/Summer Season_1_10",
+      "tournament": "LCK CL 2023 Summer",
+      "team": "Liiv SANDBOX Youth",
+      "date": "2023-08-04",
+      "place": "10",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2023_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK CL/2023 Season/Spring Season_1_7",
+      "tournament": "LCK CL 2023 Spring",
+      "team": "Liiv SANDBOX Youth",
+      "date": "2023-03-17",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2023_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/September_1",
+      "tournament": "LCK AS 2022 September",
+      "team": "Liiv SANDBOX Academy",
+      "date": "2022-09-04",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2FSeptember"
+    },
+    {
+      "id": "2022 KeG Championship_2",
+      "tournament": "KeG Championship 2022",
+      "team": "Busan",
+      "date": "2022-08-21",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2022_KeG_Championship"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/August_6",
+      "tournament": "LCK AS 2022 August",
+      "team": "Liiv SANDBOX Academy",
+      "date": "2022-08-06",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2FAugust"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/June_2",
+      "tournament": "LCK AS 2022 June",
+      "team": "Liiv SANDBOX Academy",
+      "date": "2022-06-25",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2FJune"
+    },
+    {
+      "id": "Liiv Mobile Academy/Open Scream_1_7",
+      "tournament": "Liiv Mobile Academy Open Scream",
+      "team": "Liiv SANDBOX Academy 1Team",
+      "date": "2022-05-19",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Liiv_Mobile_Academy%2FOpen_Scream"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/March_49",
+      "tournament": "LCK AS 2022 March",
+      "team": "ESA",
+      "date": "2022-03-20",
+      "place": "46-49",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2FMarch"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/February_22",
+      "tournament": "LCK AS 2022 February",
+      "team": "ESA",
+      "date": "2022-02-20",
+      "place": "17-25",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2FFebruary"
+    },
+    {
+      "id": "LCK Academy Series/2021 Season/October_12",
+      "tournament": "LCK AS 2021 October",
+      "team": "Nongshim RedForce Academy",
+      "date": "2021-10-23",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2021_Season%2FOctober"
+    }
+  ]
+}

@@ -41,8 +41,8 @@ export const getChampionImageUrl = (championName) => {
       .replace(/(^\w|\s\w)/g, (m) => m.toUpperCase());
   }
 
-  // 최신 패치버전 15.3.1 기준으로 DDragon 이미지 호출
-  return `https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/${champId}.png`;
+  // 초상화 에셋 버전 (2026-09-23 확인). 경기 패치와 별개입니다.
+  return `https://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/${champId}.png`;
 };
 
 // 라인(포지션) 아이콘 변환

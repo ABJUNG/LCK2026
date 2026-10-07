@@ -1,0 +1,401 @@
+{
+  "schemaVersion": 1,
+  "id": "Pungyeon",
+  "fetchedAt": "2026-10-07T09:20:41.533078+00:00",
+  "sourceUrl": "https://lol.fandom.com/wiki/Pungyeon",
+  "careerStatus": "fetched",
+  "resultsStatus": "fetched",
+  "awardsStatus": "not_collected",
+  "awards": [],
+  "careers": [
+    {
+      "team": "HANJIN BRION",
+      "joinedAt": "2026-06-29",
+      "leftAt": null,
+      "current": true,
+      "joinedPrecision": "1",
+      "leftPrecision": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Pungyeon"
+    },
+    {
+      "team": "CTBC Flying Oyster",
+      "joinedAt": "2025-12-21",
+      "leftAt": "2026-05-03",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Pungyeon"
+    },
+    {
+      "team": "DN Freecs Challengers",
+      "joinedAt": "2023-11-20",
+      "leftAt": "2025-11-17",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Pungyeon"
+    },
+    {
+      "team": "GJ Shadow",
+      "joinedAt": "2023-06-22",
+      "leftAt": "2023-11-20",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Pungyeon"
+    },
+    {
+      "team": "Shadow Cool",
+      "joinedAt": "2023-01-27",
+      "leftAt": "2023-06-22",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Pungyeon"
+    },
+    {
+      "team": "Shadow Dawn",
+      "joinedAt": "2022-08-26",
+      "leftAt": "2023-01-27",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Pungyeon"
+    },
+    {
+      "team": "Shadow Deeplol",
+      "joinedAt": "2022-02-16",
+      "leftAt": "2022-06-15",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Pungyeon"
+    },
+    {
+      "team": "Busan",
+      "joinedAt": "2021-10-02",
+      "leftAt": "2021-10-09",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Pungyeon"
+    },
+    {
+      "team": "Liiv SANDBOX Academy",
+      "joinedAt": "2021-07-15",
+      "leftAt": "2022-01-19",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Pungyeon"
+    },
+    {
+      "team": "Lucid (Korean Team)",
+      "joinedAt": "2021-05-13",
+      "leftAt": "2021-05-23",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Pungyeon"
+    },
+    {
+      "team": "15ggplz",
+      "joinedAt": "2021-04-15",
+      "leftAt": "2021-05-13",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Pungyeon"
+    },
+    {
+      "team": "Fredit BRION Academy",
+      "joinedAt": "2021-02-19",
+      "leftAt": "2021-04-15",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Pungyeon"
+    }
+  ],
+  "results": [
+    {
+      "id": "LCP/2026 Season/Split 2_6",
+      "tournament": "LCP 2026 Split 2",
+      "team": "CTBC Flying Oyster",
+      "date": "2026-05-17",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCP%2F2026_Season%2FSplit_2"
+    },
+    {
+      "id": "LCP/2026 Season/Split 1 Playoffs_6",
+      "tournament": "LCP 2026 Split 1 Playoffs",
+      "team": "CTBC Flying Oyster",
+      "date": "2026-02-13",
+      "place": "5-6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCP%2F2026_Season%2FSplit_1_Playoffs"
+    },
+    {
+      "id": "LCP/2026 Season/Split 1_5",
+      "tournament": "LCP 2026 Split 1",
+      "team": "CTBC Flying Oyster",
+      "date": "2026-02-08",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCP%2F2026_Season%2FSplit_1"
+    },
+    {
+      "id": "2025 Asia Masters/Finals_3",
+      "tournament": "Asia Masters 2025 Finals",
+      "team": "DN Freecs Challengers",
+      "date": "2025-10-12",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_Asia_Masters%2FFinals"
+    },
+    {
+      "id": "2025 Asia Masters/Points/Tiebreaker Matches_2",
+      "tournament": "Asia Masters 2025 Tiebreaker",
+      "team": "DN Freecs Challengers",
+      "date": "2025-10-01",
+      "place": "NQ",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_Asia_Masters%2FPoints%2FTiebreaker_Matches"
+    },
+    {
+      "id": "LCK CL/2025 Season/Season Playoffs_5",
+      "tournament": "LCK CL 2025 Season Playoffs",
+      "team": "DN Freecs Challengers",
+      "date": "2025-09-23",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2025_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK CL/2025 Season/Season Play-In_2",
+      "tournament": "LCK CL 2025 Season Play-In",
+      "team": "DN Freecs Challengers",
+      "date": "2025-09-08",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2025_Season%2FSeason_Play-In"
+    },
+    {
+      "id": "LCK CL/2025 Season/Rounds 3-5_2_3",
+      "tournament": "LCK CL 2025 Rounds 3-5",
+      "team": "DN Freecs Challengers",
+      "date": "2025-08-29",
+      "place": "3",
+      "phase": "Trial Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2025_Season%2FRounds_3-5"
+    },
+    {
+      "id": "2025 Asia Masters/Swiss 2_2",
+      "tournament": "Asia Masters 2025 Swiss 2",
+      "team": "DN Freecs Challengers",
+      "date": "2025-06-26",
+      "place": "1-2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_Asia_Masters%2FSwiss_2"
+    },
+    {
+      "id": "LCK/2025 Season/Rounds 1-2_10",
+      "tournament": "LCK 2025 Rounds 1-2",
+      "team": "DN Freecs",
+      "date": "2025-06-04",
+      "place": "10",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRounds_1-2"
+    },
+    {
+      "id": "LCK CL/2025 Season/Rounds 1-2_6",
+      "tournament": "LCK CL 2025 Rounds 1-2",
+      "team": "DN Freecs Challengers",
+      "date": "2025-05-30",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2025_Season%2FRounds_1-2"
+    },
+    {
+      "id": "2025 Asia Masters/Swiss 1_8",
+      "tournament": "Asia Masters 2025 Swiss 1",
+      "team": "DN Freecs Challengers",
+      "date": "2025-03-20",
+      "place": "7-11",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_Asia_Masters%2FSwiss_1"
+    },
+    {
+      "id": "LCK CL/2025 Season/Kickoff_5",
+      "tournament": "LCK CL 2025 Kickoff",
+      "team": "DN Freecs Challengers",
+      "date": "2025-02-17",
+      "place": "5-6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2025_Season%2FKickoff"
+    },
+    {
+      "id": "LCK/2025 Season/Cup_8",
+      "tournament": "LCK Cup 2025",
+      "team": "DN Freecs",
+      "date": "2025-02-07",
+      "place": "8-9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FCup"
+    },
+    {
+      "id": "2024 LoL KeSPA Cup_11",
+      "tournament": "KeSPA Cup 2024",
+      "team": "Kwangdong Freecs",
+      "date": "2024-12-02",
+      "place": "11-12",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2024_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "2024 Asia Star Challengers Invitational_2",
+      "tournament": "Asia Star Challengers Invitational 2024",
+      "team": "Kwangdong Freecs Challengers",
+      "date": "2024-09-22",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2024_Asia_Star_Challengers_Invitational"
+    },
+    {
+      "id": "LCK CL/2024 Season/Summer Playoffs_3",
+      "tournament": "LCK CL 2024 Summer Playoffs",
+      "team": "Kwangdong Freecs Challengers",
+      "date": "2024-09-05",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2024_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK CL/2024 Season/Summer Season_1_6",
+      "tournament": "LCK CL 2024 Summer",
+      "team": "Kwangdong Freecs Challengers",
+      "date": "2024-08-16",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2024_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK CL/2024 Season/Spring Season_1_8",
+      "tournament": "LCK CL 2024 Spring",
+      "team": "Kwangdong Freecs Challengers",
+      "date": "2024-03-22",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2024_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK Academy Series/2023 Season/August_2",
+      "tournament": "LCK AS 2023 August",
+      "team": "GJ Shadow",
+      "date": "2023-08-13",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2023_Season%2FAugust"
+    },
+    {
+      "id": "LCK Academy Series/2023 Season/April_3",
+      "tournament": "LCK AS 2023 April",
+      "team": "Shadow Cool",
+      "date": "2023-04-02",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2023_Season%2FApril"
+    },
+    {
+      "id": "LCK Academy Series/2023 Season/March_2",
+      "tournament": "LCK AS 2023 March",
+      "team": "Shadow Cool",
+      "date": "2023-03-05",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2023_Season%2FMarch"
+    },
+    {
+      "id": "LCK Academy Series/2023 Season/February_27",
+      "tournament": "LCK AS 2023 February",
+      "team": "Shadow LCPMM",
+      "date": "2023-01-29",
+      "place": "27-38",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2023_Season%2FFebruary"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/September_11",
+      "tournament": "LCK AS 2022 September",
+      "team": "Shadow Dawn",
+      "date": "2022-09-03",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2FSeptember"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/March_1",
+      "tournament": "LCK AS 2022 March",
+      "team": "Shadow Deeplol",
+      "date": "2022-03-27",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2FMarch"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/February_8",
+      "tournament": "LCK AS 2022 February",
+      "team": "Shadow Deeplol",
+      "date": "2022-02-26",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2FFebruary"
+    },
+    {
+      "id": "2021 KeG Championship_4",
+      "tournament": "KeG Championship 2021",
+      "team": "Busan",
+      "date": "2021-10-09",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2021_KeG_Championship"
+    },
+    {
+      "id": "LCK Academy Series/2021 Season/July_12",
+      "tournament": "LCK AS 2021 July",
+      "team": "GC Busan SANDBOX",
+      "date": "2021-07-24",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2021_Season%2FJuly"
+    },
+    {
+      "id": "LCK Academy Series/2021 Season/May_34",
+      "tournament": "LCK AS 2021 May",
+      "team": "Lucid (Korean Team)",
+      "date": "2021-05-16",
+      "place": "27-41",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2021_Season%2FMay"
+    },
+    {
+      "id": "LCK Academy Series/2021 Season/April_25",
+      "tournament": "LCK AS 2021 April",
+      "team": "15ggplz",
+      "date": "2021-04-18",
+      "place": "17-27",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2021_Season%2FApril"
+    },
+    {
+      "id": "LCK Academy Series/2021 Season/February_10",
+      "tournament": "LCK AS 2021 February",
+      "team": "Fredit BRION Academy",
+      "date": "2021-02-27",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2021_Season%2FFebruary"
+    }
+  ]
+}

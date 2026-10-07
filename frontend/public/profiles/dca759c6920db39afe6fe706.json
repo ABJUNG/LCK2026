@@ -1,0 +1,383 @@
+{
+  "schemaVersion": 1,
+  "id": "Namgung",
+  "fetchedAt": "2026-10-07T09:20:41.533078+00:00",
+  "sourceUrl": "https://lol.fandom.com/wiki/Namgung",
+  "careerStatus": "fetched",
+  "resultsStatus": "fetched",
+  "awardsStatus": "not_collected",
+  "awards": [],
+  "careers": [
+    {
+      "team": "HANJIN BRION",
+      "joinedAt": "2025-11-22",
+      "leftAt": null,
+      "current": true,
+      "joinedPrecision": "1",
+      "leftPrecision": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Namgung"
+    },
+    {
+      "team": "Gen.G Global Academy",
+      "joinedAt": "2024-11-28",
+      "leftAt": "2025-11-17",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Namgung"
+    },
+    {
+      "team": "Gen.G Global Academy",
+      "joinedAt": "2023-11-26",
+      "leftAt": "2024-11-18",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Namgung"
+    },
+    {
+      "team": "Gen.G Scholars",
+      "joinedAt": "2023-03-21",
+      "leftAt": "2023-11-26",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Namgung"
+    },
+    {
+      "team": "서폿원맨팀",
+      "joinedAt": "2023-02-17",
+      "leftAt": "2023-03-21",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Namgung"
+    },
+    {
+      "team": "Memo (Korean Team)",
+      "joinedAt": "2023-01-26",
+      "leftAt": "2023-02-17",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Namgung"
+    },
+    {
+      "team": "TGA.A",
+      "joinedAt": "2022-07-26",
+      "leftAt": "2022-09-04",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Namgung"
+    },
+    {
+      "team": "Zeroxx",
+      "joinedAt": "2022-03-16",
+      "leftAt": "2022-03-27",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Namgung"
+    },
+    {
+      "team": "Afreeca Freecs Academy",
+      "joinedAt": "2021-05-13",
+      "leftAt": "2021-07-15",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Namgung"
+    }
+  ],
+  "results": [
+    {
+      "id": "LCK/2026 Season/Season Play-In_3",
+      "tournament": "LCK 2026 Season Play-In",
+      "team": "HANJIN BRION",
+      "date": "2026-08-28",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FSeason_Play-In"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 3-4_2_1",
+      "tournament": "LCK 2026 Rounds 3-4",
+      "team": "HANJIN BRION",
+      "date": "2026-08-23",
+      "place": "1",
+      "phase": "Rise Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_3-4"
+    },
+    {
+      "id": "2026 LoL KeSPA Cup_7",
+      "tournament": "KeSPA Cup 2026",
+      "team": "HANJIN BRION",
+      "date": "2026-08-04",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK/2026 Season/Road to MSI_6",
+      "tournament": "LCK 2026 Road to MSI",
+      "team": "HANJIN BRION",
+      "date": "2026-06-06",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRoad_to_MSI"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 1-2_6",
+      "tournament": "LCK 2026 Rounds 1-2",
+      "team": "HANJIN BRION",
+      "date": "2026-05-31",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_1-2"
+    },
+    {
+      "id": "Esports World Cup 2026/Online Qualifiers/Korea_5",
+      "tournament": "Esports World Cup 2026 Online Qualifier: Korea",
+      "team": "HANJIN BRION",
+      "date": "2026-05-19",
+      "place": "NQ",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Esports_World_Cup_2026%2FOnline_Qualifiers%2FKorea"
+    },
+    {
+      "id": "LCK/2026 Season/Cup_8",
+      "tournament": "LCK Cup 2026",
+      "team": "BRION",
+      "date": "2026-02-06",
+      "place": "8-9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FCup"
+    },
+    {
+      "id": "2025 LoL KeSPA Cup_14",
+      "tournament": "KeSPA Cup 2025",
+      "team": "OKSavingsBank BRION",
+      "date": "2025-12-08",
+      "place": "13-14",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "2025 Asia Masters/Finals_8",
+      "tournament": "Asia Masters 2025 Finals",
+      "team": "Gen.G Global Academy",
+      "date": "2025-10-08",
+      "place": "7-9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_Asia_Masters%2FFinals"
+    },
+    {
+      "id": "LCK CL/2025 Season/Season Playoffs_6",
+      "tournament": "LCK CL 2025 Season Playoffs",
+      "team": "Gen.G Global Academy",
+      "date": "2025-09-16",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2025_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK CL/2025 Season/Season Play-In_1",
+      "tournament": "LCK CL 2025 Season Play-In",
+      "team": "Gen.G Global Academy",
+      "date": "2025-09-02",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2025_Season%2FSeason_Play-In"
+    },
+    {
+      "id": "LCK CL/2025 Season/Rounds 3-5_1_5",
+      "tournament": "LCK CL 2025 Rounds 3-5",
+      "team": "Gen.G Global Academy",
+      "date": "2025-08-29",
+      "place": "5",
+      "phase": "Challenge Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2025_Season%2FRounds_3-5"
+    },
+    {
+      "id": "2025 Asia Masters/Swiss 2_10",
+      "tournament": "Asia Masters 2025 Swiss 2",
+      "team": "Gen.G Global Academy",
+      "date": "2025-07-11",
+      "place": "7-11",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_Asia_Masters%2FSwiss_2"
+    },
+    {
+      "id": "LCK CL/2025 Season/Rounds 1-2_5",
+      "tournament": "LCK CL 2025 Rounds 1-2",
+      "team": "Gen.G Global Academy",
+      "date": "2025-05-30",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2025_Season%2FRounds_1-2"
+    },
+    {
+      "id": "2025 Asia Masters/Swiss 1_21",
+      "tournament": "Asia Masters 2025 Swiss 1",
+      "team": "Gen.G Global Academy",
+      "date": "2025-03-22",
+      "place": "17-21",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_Asia_Masters%2FSwiss_1"
+    },
+    {
+      "id": "LCK CL/2025 Season/Kickoff_7",
+      "tournament": "LCK CL 2025 Kickoff",
+      "team": "Gen.G Global Academy",
+      "date": "2025-02-14",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2025_Season%2FKickoff"
+    },
+    {
+      "id": "LCK CL/2024 Season/Summer Season_1_10",
+      "tournament": "LCK CL 2024 Summer",
+      "team": "Gen.G Global Academy",
+      "date": "2024-08-16",
+      "place": "9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2024_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK CL/2024 Season/Spring Season_1_10",
+      "tournament": "LCK CL 2024 Spring",
+      "team": "Gen.G Global Academy",
+      "date": "2024-03-22",
+      "place": "10",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2024_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK Academy Series/2023 Season/2nd Championship Playoffs_4",
+      "tournament": "LCK AS 2023 2nd Championship Playoffs",
+      "team": "Gen.G Scholars",
+      "date": "2023-11-25",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2023_Season%2F2nd_Championship_Playoffs"
+    },
+    {
+      "id": "LCK Academy Series/2023 Season/2nd Championship_1_1",
+      "tournament": "LCK AS 2023 2nd Championship",
+      "team": "Gen.G Scholars",
+      "date": "2023-11-18",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2023_Season%2F2nd_Championship"
+    },
+    {
+      "id": "2023 KeG Championship_1",
+      "tournament": "KeG Championship 2023",
+      "team": "Busan",
+      "date": "2023-08-20",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2023_KeG_Championship"
+    },
+    {
+      "id": "LCK Academy Series/2023 Season/August_14",
+      "tournament": "LCK AS 2023 August",
+      "team": "Gen.G Scholars",
+      "date": "2023-08-12",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2023_Season%2FAugust"
+    },
+    {
+      "id": "LCK Academy Series/2023 Season/July_1",
+      "tournament": "LCK AS 2023 July",
+      "team": "Gen.G Scholars",
+      "date": "2023-07-23",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2023_Season%2FJuly"
+    },
+    {
+      "id": "LCK Academy Series/2023 Season/June_13",
+      "tournament": "LCK AS 2023 June",
+      "team": "Gen.G Scholars",
+      "date": "2023-07-01",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2023_Season%2FJune"
+    },
+    {
+      "id": "LCK Academy Series/2023 Season/1st Championship_1_6",
+      "tournament": "LCK AS 2023 1st Championship",
+      "team": "Gen.G Scholars",
+      "date": "2023-05-27",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2023_Season%2F1st_Championship"
+    },
+    {
+      "id": "LCK Academy Series/2023 Season/April_4",
+      "tournament": "LCK AS 2023 April",
+      "team": "Gen.G Scholars",
+      "date": "2023-04-02",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2023_Season%2FApril"
+    },
+    {
+      "id": "LCK Academy Series/2023 Season/March_1",
+      "tournament": "LCK AS 2023 March",
+      "team": "서폿원맨팀",
+      "date": "2023-03-05",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2023_Season%2FMarch"
+    },
+    {
+      "id": "LCK Academy Series/2023 Season/February_15",
+      "tournament": "LCK AS 2023 February",
+      "team": "Memo (Korean Team)",
+      "date": "2023-02-05",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2023_Season%2FFebruary"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/September_23",
+      "tournament": "LCK AS 2022 September",
+      "team": "TGA.A",
+      "date": "2022-08-28",
+      "place": "17-25",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2FSeptember"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/August_21",
+      "tournament": "LCK AS 2022 August",
+      "team": "TGA.A",
+      "date": "2022-07-31",
+      "place": "17-23",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2FAugust"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/March_23",
+      "tournament": "LCK AS 2022 March",
+      "team": "Zeroxx",
+      "date": "2022-03-20",
+      "place": "17-26",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2FMarch"
+    },
+    {
+      "id": "LCK Academy Series/2021 Season/May_20",
+      "tournament": "LCK AS 2021 May",
+      "team": "Afreeca Freecs Youth",
+      "date": "2021-05-16",
+      "place": "17-26",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2021_Season%2FMay"
+    }
+  ]
+}

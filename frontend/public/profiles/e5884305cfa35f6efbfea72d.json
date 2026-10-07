@@ -1,0 +1,473 @@
+{
+  "schemaVersion": 1,
+  "id": "Lyn",
+  "fetchedAt": "2026-10-07T09:20:41.533078+00:00",
+  "sourceUrl": "https://lol.fandom.com/wiki/Lyn",
+  "careerStatus": "fetched",
+  "resultsStatus": "fetched",
+  "awardsStatus": "not_collected",
+  "awards": [],
+  "careers": [
+    {
+      "team": "Gen.G",
+      "joinedAt": "2025-11-28",
+      "leftAt": null,
+      "current": true,
+      "joinedPrecision": "1",
+      "leftPrecision": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Lyn"
+    },
+    {
+      "team": "Gen.G",
+      "joinedAt": "2024-11-30",
+      "leftAt": "2025-11-17",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Lyn"
+    },
+    {
+      "team": "JD Gaming",
+      "joinedAt": "2023-11-30",
+      "leftAt": "2024-11-30",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Lyn"
+    },
+    {
+      "team": "Liiv SANDBOX",
+      "joinedAt": "2022-12-05",
+      "leftAt": "2023-11-20",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Lyn"
+    },
+    {
+      "team": "FunPlus Phoenix",
+      "joinedAt": "2022-03-08",
+      "leftAt": "2022-11-22",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Lyn"
+    },
+    {
+      "team": "Gen.G",
+      "joinedAt": "2020-11-17",
+      "leftAt": "2021-11-17",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Lyn"
+    },
+    {
+      "team": "Gen.G Academy",
+      "joinedAt": "2020-03-31",
+      "leftAt": "2020-11-17",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Lyn"
+    },
+    {
+      "team": "VSG (Korean Team)",
+      "joinedAt": "2019-01-14",
+      "leftAt": "2019-09-30",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Lyn"
+    },
+    {
+      "team": "GC Busan Rising Star",
+      "joinedAt": "2018-12-13",
+      "leftAt": "2019-01-14",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Lyn"
+    },
+    {
+      "team": "Stardust (Korean Team)",
+      "joinedAt": "2016-01-17",
+      "leftAt": "2016-05-25",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Lyn"
+    },
+    {
+      "team": "Hungry (Korean Team)",
+      "joinedAt": "2015-03-09",
+      "leftAt": "2015-04-16",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Lyn"
+    }
+  ],
+  "results": [
+    {
+      "id": "LCK/2026 Season/Season Playoffs_1",
+      "tournament": "LCK 2026 Season Playoffs",
+      "team": "Gen.G",
+      "date": "2026-09-13",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 3-4_1_1",
+      "tournament": "LCK 2026 Rounds 3-4",
+      "team": "Gen.G",
+      "date": "2026-08-23",
+      "place": "1",
+      "phase": "Legend Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_3-4"
+    },
+    {
+      "id": "2026 LoL KeSPA Cup_5",
+      "tournament": "KeSPA Cup 2026",
+      "team": "Gen.G",
+      "date": "2026-08-10",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "Esports World Cup 2026_3",
+      "tournament": "Esports World Cup 2026",
+      "team": "Gen.G",
+      "date": "2026-07-19",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Esports_World_Cup_2026"
+    },
+    {
+      "id": "LCK/2026 Season/Road to MSI_3",
+      "tournament": "LCK 2026 Road to MSI",
+      "team": "Gen.G",
+      "date": "2026-06-14",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRoad_to_MSI"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 1-2_3",
+      "tournament": "LCK 2026 Rounds 1-2",
+      "team": "Gen.G",
+      "date": "2026-05-31",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_1-2"
+    },
+    {
+      "id": "2026 First Stand_3",
+      "tournament": "First Stand 2026",
+      "team": "Gen.G",
+      "date": "2026-03-21",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_First_Stand"
+    },
+    {
+      "id": "LCK/2026 Season/Cup_1",
+      "tournament": "LCK Cup 2026",
+      "team": "Gen.G",
+      "date": "2026-03-01",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FCup"
+    },
+    {
+      "id": "2025 LoL KeSPA Cup_13",
+      "tournament": "KeSPA Cup 2025",
+      "team": "Gen.G",
+      "date": "2025-12-08",
+      "place": "13-14",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "2025 Season World Championship_3",
+      "tournament": "Worlds 2025",
+      "team": "Gen.G",
+      "date": "2025-11-01",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_Season_World_Championship"
+    },
+    {
+      "id": "LCK/2025 Season/Season Playoffs_1",
+      "tournament": "LCK 2025 Season Playoffs",
+      "team": "Gen.G",
+      "date": "2025-09-28",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK/2025 Season/Rounds 3-5_1_1",
+      "tournament": "LCK 2025 Rounds 3-5",
+      "team": "Gen.G",
+      "date": "2025-08-31",
+      "place": "1",
+      "phase": "Legend Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRounds_3-5"
+    },
+    {
+      "id": "Esports World Cup 2025_1",
+      "tournament": "Esports World Cup 2025",
+      "team": "Gen.G",
+      "date": "2025-07-20",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Esports_World_Cup_2025"
+    },
+    {
+      "id": "LCK/2025 Season/Road to MSI_1",
+      "tournament": "LCK 2025 Road to MSI",
+      "team": "Gen.G",
+      "date": "2025-06-13",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRoad_to_MSI"
+    },
+    {
+      "id": "LCK/2025 Season/Rounds 1-2_1",
+      "tournament": "LCK 2025 Rounds 1-2",
+      "team": "Gen.G",
+      "date": "2025-06-04",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRounds_1-2"
+    },
+    {
+      "id": "LCK/2025 Season/Cup_2",
+      "tournament": "LCK Cup 2025",
+      "team": "Gen.G",
+      "date": "2025-02-23",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FCup"
+    },
+    {
+      "id": "LPL/2024 Season/Summer Playoffs_7",
+      "tournament": "LPL 2024 Summer Playoffs",
+      "team": "JD Gaming",
+      "date": "2024-08-12",
+      "place": "7-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2024_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LPL/2024 Season/Summer Season_1_5",
+      "tournament": "LPL 2024 Summer",
+      "team": "JD Gaming",
+      "date": "2024-07-31",
+      "place": "5",
+      "phase": "Higher Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2024_Season%2FSummer_Season"
+    },
+    {
+      "id": "LPL/2024 Season/Spring Playoffs_3",
+      "tournament": "LPL 2024 Spring Playoffs",
+      "team": "JD Gaming",
+      "date": "2024-04-14",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2024_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LPL/2024 Season/Spring Season_1_3",
+      "tournament": "LPL 2024 Spring",
+      "team": "JD Gaming",
+      "date": "2024-03-27",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2024_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK/2023 Season/Summer Season_1_7",
+      "tournament": "LCK 2023 Summer",
+      "team": "Liiv SANDBOX",
+      "date": "2023-08-06",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2023_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2023 Season/Spring Playoffs_6",
+      "tournament": "LCK 2023 Spring Playoffs",
+      "team": "Liiv SANDBOX",
+      "date": "2023-03-22",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2023_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK/2023 Season/Spring Season_1_6",
+      "tournament": "LCK 2023 Spring",
+      "team": "Liiv SANDBOX",
+      "date": "2023-03-19",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2023_Season%2FSpring_Season"
+    },
+    {
+      "id": "LPL/2022 Season/Summer Playoffs_7",
+      "tournament": "LPL 2022 Summer Playoffs",
+      "team": "FunPlus Phoenix",
+      "date": "2022-08-18",
+      "place": "7-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2022_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LPL/2022 Season/Summer Season_1_9",
+      "tournament": "LPL 2022 Summer",
+      "team": "FunPlus Phoenix",
+      "date": "2022-08-14",
+      "place": "9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2022_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2021 Season/Summer Season_1_2",
+      "tournament": "LCK 2021 Summer",
+      "team": "Gen.G",
+      "date": "2021-08-15",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2021_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2021 Season/Spring Season_1_2",
+      "tournament": "LCK 2021 Spring",
+      "team": "Gen.G",
+      "date": "2021-03-28",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2021_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK Academy Series/2020 Season/October_30",
+      "tournament": "LCK AS 2020 October",
+      "team": "Gen.G Online",
+      "date": "2020-10-11",
+      "place": "22-30",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2020_Season%2FOctober"
+    },
+    {
+      "id": "Ambition League_1",
+      "tournament": "Ambition League",
+      "team": "Gen.G Academy",
+      "date": "2020-09-26",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Ambition_League"
+    },
+    {
+      "id": "LCK Academy Series/2020 Season/September_23",
+      "tournament": "LCK AS 2020 September",
+      "team": "Gen.G Online",
+      "date": "2020-09-06",
+      "place": "22-31",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2020_Season%2FSeptember"
+    },
+    {
+      "id": "LCK Academy Series/2020 Season/August_12",
+      "tournament": "LCK AS 2020 August",
+      "team": "Gen.G Academy",
+      "date": "2020-08-08",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2020_Season%2FAugust"
+    },
+    {
+      "id": "LCK Academy Series/2020 Season/August_23",
+      "tournament": "LCK AS 2020 August",
+      "team": "Gen.G Academy 2",
+      "date": "2020-08-02",
+      "place": "17-23",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2020_Season%2FAugust"
+    },
+    {
+      "id": "Logitech G Rookie Invitational 2020_1",
+      "tournament": "Logitech G Rookie Invitational 2020",
+      "team": "Gen.G Academy",
+      "date": "2020-06-14",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Logitech_G_Rookie_Invitational_2020"
+    },
+    {
+      "id": "Challengers Korea/2019 Season/Summer Season_2",
+      "tournament": "CK 2019 Summer",
+      "team": "VSG (Korean Team)",
+      "date": "2019-08-12",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2019_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2019 Season/Summer Promotion_4",
+      "tournament": "LCK 2019 Summer Promotion",
+      "team": "VSG (Korean Team)",
+      "date": "2019-04-19",
+      "place": "NQ",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2019_Season%2FSummer_Promotion"
+    },
+    {
+      "id": "Challengers Korea/2019 Season/Spring Season_3",
+      "tournament": "CK 2019 Spring",
+      "team": "VSG (Korean Team)",
+      "date": "2019-04-01",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2019_Season%2FSpring_Season"
+    },
+    {
+      "id": "2018 LoL KeSPA Cup_5",
+      "tournament": "KeSPA Cup 2018",
+      "team": "GC Busan Rising Star",
+      "date": "2018-12-26",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2018_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "Challengers Korea/2016 Season/Spring Playoffs_4",
+      "tournament": "CK 2016 Spring Playoffs",
+      "team": "Stardust (Korean Team)",
+      "date": "2016-04-16",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2016_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "Challengers Korea/2016 Season/Spring Season_3",
+      "tournament": "CK 2016 Spring",
+      "team": "Stardust (Korean Team)",
+      "date": "2016-03-29",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2016_Season%2FSpring_Season"
+    },
+    {
+      "id": "Challengers Korea/2015 Season/Spring/Series 2_5",
+      "tournament": "CK 2015 Spring Series 2",
+      "team": "Hungry (Korean Team)",
+      "date": "2015-04-16",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2015_Season%2FSpring%2FSeries_2"
+    }
+  ]
+}

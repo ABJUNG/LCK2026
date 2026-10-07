@@ -1,0 +1,437 @@
+{
+  "schemaVersion": 1,
+  "id": "Naehyun",
+  "fetchedAt": "2026-10-07T09:20:41.533078+00:00",
+  "sourceUrl": "https://lol.fandom.com/wiki/Naehyun",
+  "careerStatus": "fetched",
+  "resultsStatus": "fetched",
+  "awardsStatus": "not_collected",
+  "awards": [],
+  "careers": [
+    {
+      "team": "Kiwoom DRX",
+      "joinedAt": "2025-11-18",
+      "leftAt": null,
+      "current": true,
+      "joinedPrecision": "1",
+      "leftPrecision": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Naehyun"
+    },
+    {
+      "team": "Aegis (French Team)",
+      "joinedAt": "2024-05-10",
+      "leftAt": "2024-10-09",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Naehyun"
+    },
+    {
+      "team": "Crest Gaming Act",
+      "joinedAt": "2020-12-27",
+      "leftAt": "2022-01-12",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Naehyun"
+    },
+    {
+      "team": "Griffin (Korean Team)",
+      "joinedAt": "2019-12-05",
+      "leftAt": "2020-11-17",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Naehyun"
+    },
+    {
+      "team": "DragonX",
+      "joinedAt": "2019-10-09",
+      "leftAt": "2019-11-17",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Naehyun"
+    },
+    {
+      "team": "Kingzone DragonX",
+      "joinedAt": "2019-01-06",
+      "leftAt": "2019-10-09",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Naehyun"
+    },
+    {
+      "team": "ES Sharks",
+      "joinedAt": "2018-07-23",
+      "leftAt": "2019-01-06",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Naehyun"
+    },
+    {
+      "team": "Beşiktaş Esports",
+      "joinedAt": "2018-01-14",
+      "leftAt": "2018-04-06",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Naehyun"
+    },
+    {
+      "team": "YouthCrew Esports",
+      "joinedAt": "2017-12-20",
+      "leftAt": "2018-01-02",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Naehyun"
+    },
+    {
+      "team": "Crew e-Sports Club",
+      "joinedAt": "2017-05-19",
+      "leftAt": null,
+      "current": true,
+      "joinedPrecision": "1",
+      "leftPrecision": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Naehyun"
+    },
+    {
+      "team": "Origen",
+      "joinedAt": "2017-01-02",
+      "leftAt": "2017-04-27",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Naehyun"
+    },
+    {
+      "team": "Team KungFu",
+      "joinedAt": "2016-05-23",
+      "leftAt": "2016-08-03",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Naehyun"
+    },
+    {
+      "team": "Only (Korean Team)",
+      "joinedAt": "2015-03-09",
+      "leftAt": "2015-04-16",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Naehyun"
+    },
+    {
+      "team": "Mook Secret",
+      "joinedAt": "2014-06-01",
+      "leftAt": "2014-08-31",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Naehyun"
+    }
+  ],
+  "results": [
+    {
+      "id": "LCK/2026 Season/Rounds 3-4_2_4",
+      "tournament": "LCK 2026 Rounds 3-4",
+      "team": "Kiwoom DRX",
+      "date": "2026-08-23",
+      "place": "4",
+      "phase": "Rise Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_3-4"
+    },
+    {
+      "id": "2026 LoL KeSPA Cup_6",
+      "tournament": "KeSPA Cup 2026",
+      "team": "Kiwoom DRX",
+      "date": "2026-08-10",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 1-2_8",
+      "tournament": "LCK 2026 Rounds 1-2",
+      "team": "Kiwoom DRX",
+      "date": "2026-05-31",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_1-2"
+    },
+    {
+      "id": "Esports World Cup 2026/Online Qualifiers/Korea_9",
+      "tournament": "Esports World Cup 2026 Online Qualifier: Korea",
+      "team": "Kiwoom DRX",
+      "date": "2026-05-04",
+      "place": "NQ",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Esports_World_Cup_2026%2FOnline_Qualifiers%2FKorea"
+    },
+    {
+      "id": "LCK/2026 Season/Cup_6",
+      "tournament": "LCK Cup 2026",
+      "team": "DRX",
+      "date": "2026-02-19",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FCup"
+    },
+    {
+      "id": "2025 LoL KeSPA Cup_8",
+      "tournament": "KeSPA Cup 2025",
+      "team": "DRX",
+      "date": "2025-12-08",
+      "place": "7-9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "Legend Cup/Season 3/Korea_4",
+      "tournament": "Legend Cup Season 3 Korea",
+      "team": "Kakao Assassin Crew",
+      "date": "2025-05-07",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Legend_Cup%2FSeason_3%2FKorea"
+    },
+    {
+      "id": "LFL/2024 Season/Summer Season_10",
+      "tournament": "LFL 2024 Summer",
+      "team": "Aegis (French Team)",
+      "date": "2024-07-18",
+      "place": "10",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LFL%2F2024_Season%2FSummer_Season"
+    },
+    {
+      "id": "LJL/2021 Season/Summer Playoffs_5",
+      "tournament": "LJL 2021 Summer Playoffs",
+      "team": "Crest Gaming Act",
+      "date": "2021-08-08",
+      "place": "5-6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LJL%2F2021_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LJL/2021 Season/Summer Season_1_6",
+      "tournament": "LJL 2021 Summer",
+      "team": "Crest Gaming Act",
+      "date": "2021-08-04",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LJL%2F2021_Season%2FSummer_Season"
+    },
+    {
+      "id": "LJL/2021 Season/Spring Playoffs_5",
+      "tournament": "LJL 2021 Spring Playoffs",
+      "team": "Crest Gaming Act",
+      "date": "2021-03-14",
+      "place": "5-6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LJL%2F2021_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LJL/2021 Season/Spring Season_1_5",
+      "tournament": "LJL 2021 Spring",
+      "team": "Crest Gaming Act",
+      "date": "2021-03-11",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LJL%2F2021_Season%2FSpring_Season"
+    },
+    {
+      "id": "Challengers Korea/2020 Season/Summer Season_5",
+      "tournament": "CK 2020 Summer",
+      "team": "Griffin (Korean Team)",
+      "date": "2020-08-20",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2020_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2020 Season/Spring Season_10",
+      "tournament": "LCK 2020 Spring",
+      "team": "Griffin (Korean Team)",
+      "date": "2020-04-16",
+      "place": "10",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2020_Season%2FSpring_Season"
+    },
+    {
+      "id": "2019 LoL KeSPA Cup_5",
+      "tournament": "KeSPA Cup 2019",
+      "team": "Griffin (Korean Team)",
+      "date": "2019-12-30",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2019_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK/2019 Season/Regional Finals_2",
+      "tournament": "LCK 2019 Regional Finals",
+      "team": "Kingzone DragonX",
+      "date": "2019-09-07",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2019_Season%2FRegional_Finals"
+    },
+    {
+      "id": "LCK/2019 Season/Summer Season_7",
+      "tournament": "LCK 2019 Summer",
+      "team": "Kingzone DragonX",
+      "date": "2019-08-18",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2019_Season%2FSummer_Season"
+    },
+    {
+      "id": "Rift Rivals 2019/LCK-LPL-LMS-VCS_3",
+      "tournament": "Rift Rivals 2019 LCK-LPL-LMS-VCS",
+      "team": "Kingzone DragonX",
+      "date": "2019-07-07",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Rift_Rivals_2019%2FLCK-LPL-LMS-VCS"
+    },
+    {
+      "id": "LCK/2019 Season/Spring Season_3",
+      "tournament": "LCK 2019 Spring",
+      "team": "Kingzone DragonX",
+      "date": "2019-03-31",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2019_Season%2FSpring_Season"
+    },
+    {
+      "id": "Challengers Korea/2018 Season/Summer Playoffs_3",
+      "tournament": "CK 2018 Summer Playoffs",
+      "team": "ES Sharks",
+      "date": "2018-08-31",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2018_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "Challengers Korea/2018 Season/Summer Season_1_5",
+      "tournament": "CK 2018 Summer",
+      "team": "ES Sharks",
+      "date": "2018-08-27",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2018_Season%2FSummer_Season"
+    },
+    {
+      "id": "TCL/2018 Season/Summer Qualifiers_2",
+      "tournament": "TCL 2018 Summer Qualifiers",
+      "team": "Beşiktaş Esports",
+      "date": "2018-04-01",
+      "place": "NQ",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/TCL%2F2018_Season%2FSummer_Qualifiers"
+    },
+    {
+      "id": "TCS/2018 Season/Winter Playoffs_2",
+      "tournament": "TCS 2018 Winter Playoffs",
+      "team": "Beşiktaş Esports",
+      "date": "2018-03-21",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/TCS%2F2018_Season%2FWinter_Playoffs"
+    },
+    {
+      "id": "TCS/2018 Season/Winter Season_1_1",
+      "tournament": "TCS 2018 Winter",
+      "team": "Beşiktaş Esports",
+      "date": "2018-03-06",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/TCS%2F2018_Season%2FWinter_Season"
+    },
+    {
+      "id": "TCL/2017 Season/Summer Playoffs_3",
+      "tournament": "TCL 2017 Summer Playoffs",
+      "team": "Crew e-Sports Club",
+      "date": "2017-08-12",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/TCL%2F2017_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "TCL/2017 Season/Summer Season_1_4",
+      "tournament": "TCL 2017 Summer",
+      "team": "Crew e-Sports Club",
+      "date": "2017-07-31",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/TCL%2F2017_Season%2FSummer_Season"
+    },
+    {
+      "id": "Rift Rivals 2017/LCL-TCL_2",
+      "tournament": "Rift Rivals 2017 LCL-TCL",
+      "team": "Crew e-Sports Club",
+      "date": "2017-07-09",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Rift_Rivals_2017%2FLCL-TCL"
+    },
+    {
+      "id": "EU LCS/2017 Season/Summer Promotion_4",
+      "tournament": "EU LCS 2017 Summer Promotion",
+      "team": "Origen",
+      "date": "2017-04-14",
+      "place": "NQ",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/EU_LCS%2F2017_Season%2FSummer_Promotion"
+    },
+    {
+      "id": "EU LCS/2017 Season/Spring Season_2_5",
+      "tournament": "EU LCS 2017 Spring",
+      "team": "Origen",
+      "date": "2017-04-02",
+      "place": "5",
+      "phase": "Group B",
+      "sourceUrl": "https://lol.fandom.com/wiki/EU_LCS%2F2017_Season%2FSpring_Season"
+    },
+    {
+      "id": "LSPL/2016 Season/Summer Season_1_14",
+      "tournament": "LSPL 2016 Summer",
+      "team": "Team KungFu",
+      "date": "2016-08-03",
+      "place": "14",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LSPL%2F2016_Season%2FSummer_Season"
+    },
+    {
+      "id": "Challengers Korea/2015 Season/Spring/Series 2_16",
+      "tournament": "CK 2015 Spring Series 2",
+      "team": "Only (Korean Team)",
+      "date": "2015-04-16",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2015_Season%2FSpring%2FSeries_2"
+    },
+    {
+      "id": "NLB/2014 Season/Summer Season_13",
+      "tournament": "NLB 2014 Summer",
+      "team": "Mook Secret",
+      "date": "2014-07-29",
+      "place": "13-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/NLB%2F2014_Season%2FSummer_Season"
+    },
+    {
+      "id": "Champions/2014 Season/Summer Qualifiers_9",
+      "tournament": "Champions 2014 Summer Qualifiers",
+      "team": "Mook Secret",
+      "date": "2014-06-06",
+      "place": "NQ",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2014_Season%2FSummer_Qualifiers"
+    }
+  ]
+}

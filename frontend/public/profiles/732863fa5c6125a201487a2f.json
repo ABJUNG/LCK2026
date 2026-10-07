@@ -1,0 +1,365 @@
+{
+  "schemaVersion": 1,
+  "id": "Career",
+  "fetchedAt": "2026-10-07T09:20:41.533078+00:00",
+  "sourceUrl": "https://lol.fandom.com/wiki/Career",
+  "careerStatus": "fetched",
+  "resultsStatus": "fetched",
+  "awardsStatus": "not_collected",
+  "awards": [],
+  "careers": [
+    {
+      "team": "Dplus Kia",
+      "joinedAt": "2025-11-21",
+      "leftAt": null,
+      "current": true,
+      "joinedPrecision": "1",
+      "leftPrecision": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Career"
+    },
+    {
+      "team": "BNK FEARX Youth",
+      "joinedAt": "2024-11-25",
+      "leftAt": "2025-11-17",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Career"
+    },
+    {
+      "team": "DRX Challengers",
+      "joinedAt": "2023-05-22",
+      "leftAt": "2024-05-22",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Career"
+    },
+    {
+      "team": "DRX Academy",
+      "joinedAt": "2022-05-13",
+      "leftAt": "2023-05-22",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Career"
+    },
+    {
+      "team": "박치기공룡",
+      "joinedAt": "2022-03-16",
+      "leftAt": "2022-05-13",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Career"
+    },
+    {
+      "team": "EFS",
+      "joinedAt": "2021-12-07",
+      "leftAt": "2022-01-19",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Career"
+    },
+    {
+      "team": "묵직한한방",
+      "joinedAt": "2021-07-15",
+      "leftAt": "2021-08-17",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Career"
+    }
+  ],
+  "results": [
+    {
+      "id": "LCK/2026 Season/Season Playoffs_4",
+      "tournament": "LCK 2026 Season Playoffs",
+      "team": "Dplus Kia",
+      "date": "2026-09-06",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 3-4_1_4",
+      "tournament": "LCK 2026 Rounds 3-4",
+      "team": "Dplus Kia",
+      "date": "2026-08-23",
+      "place": "4",
+      "phase": "Legend Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_3-4"
+    },
+    {
+      "id": "Esports World Cup 2026_1",
+      "tournament": "Esports World Cup 2026",
+      "team": "Dplus Kia",
+      "date": "2026-07-19",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Esports_World_Cup_2026"
+    },
+    {
+      "id": "LCK/2026 Season/Road to MSI_5",
+      "tournament": "LCK 2026 Road to MSI",
+      "team": "Dplus Kia",
+      "date": "2026-06-07",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRoad_to_MSI"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 1-2_5",
+      "tournament": "LCK 2026 Rounds 1-2",
+      "team": "Dplus Kia",
+      "date": "2026-05-31",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_1-2"
+    },
+    {
+      "id": "Esports World Cup 2026/Online Qualifiers/Korea_3",
+      "tournament": "Esports World Cup 2026 Online Qualifier: Korea",
+      "team": "Dplus Kia",
+      "date": "2026-05-26",
+      "place": "NQ",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Esports_World_Cup_2026%2FOnline_Qualifiers%2FKorea"
+    },
+    {
+      "id": "LCK/2026 Season/Cup_3",
+      "tournament": "LCK Cup 2026",
+      "team": "Dplus Kia",
+      "date": "2026-02-28",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FCup"
+    },
+    {
+      "id": "2025 LoL KeSPA Cup_3",
+      "tournament": "KeSPA Cup 2025",
+      "team": "Dplus Kia",
+      "date": "2025-12-13",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "2025 Esports Championships Asia_1",
+      "tournament": "Esports Championships Asia 2025",
+      "team": "South Korea (National Team)",
+      "date": "2025-11-22",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_Esports_Championships_Asia"
+    },
+    {
+      "id": "2025 Asia Masters/Finals_4",
+      "tournament": "Asia Masters 2025 Finals",
+      "team": "BNK FEARX Youth",
+      "date": "2025-10-11",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_Asia_Masters%2FFinals"
+    },
+    {
+      "id": "LCK CL/2025 Season/Season Playoffs_1",
+      "tournament": "LCK CL 2025 Season Playoffs",
+      "team": "BNK FEARX Youth",
+      "date": "2025-09-30",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2025_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK CL/2025 Season/Rounds 3-5_1_4",
+      "tournament": "LCK CL 2025 Rounds 3-5",
+      "team": "BNK FEARX Youth",
+      "date": "2025-08-29",
+      "place": "4",
+      "phase": "Challenge Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2025_Season%2FRounds_3-5"
+    },
+    {
+      "id": "2025 Asia Masters/Swiss 2_7",
+      "tournament": "Asia Masters 2025 Swiss 2",
+      "team": "BNK FEARX Youth",
+      "date": "2025-07-17",
+      "place": "7-11",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_Asia_Masters%2FSwiss_2"
+    },
+    {
+      "id": "LCK CL/2025 Season/Rounds 1-2_3",
+      "tournament": "LCK CL 2025 Rounds 1-2",
+      "team": "BNK FEARX Youth",
+      "date": "2025-05-30",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2025_Season%2FRounds_1-2"
+    },
+    {
+      "id": "2025 Asia Masters/Swiss 1_5",
+      "tournament": "Asia Masters 2025 Swiss 1",
+      "team": "BNK FEARX Youth",
+      "date": "2025-03-19",
+      "place": "3-6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_Asia_Masters%2FSwiss_1"
+    },
+    {
+      "id": "LCK CL/2025 Season/Kickoff_4",
+      "tournament": "LCK CL 2025 Kickoff",
+      "team": "BNK FEARX Youth",
+      "date": "2025-02-24",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2025_Season%2FKickoff"
+    },
+    {
+      "id": "2024 LoL KeSPA Cup_9",
+      "tournament": "KeSPA Cup 2024",
+      "team": "BNK FEARX",
+      "date": "2024-12-02",
+      "place": "9-10",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2024_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK CL/2024 Season/Spring Season_1_7",
+      "tournament": "LCK CL 2024 Spring",
+      "team": "DRX Challengers",
+      "date": "2024-03-22",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2024_Season%2FSpring_Season"
+    },
+    {
+      "id": "2023 Asia Star Challengers Invitational_1",
+      "tournament": "Asia Star Challengers Invitational 2023",
+      "team": "DRX Challengers",
+      "date": "2023-09-15",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2023_Asia_Star_Challengers_Invitational"
+    },
+    {
+      "id": "LCK CL/2023 Season/Summer Season_1_2",
+      "tournament": "LCK CL 2023 Summer",
+      "team": "DRX Challengers",
+      "date": "2023-08-04",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2023_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK Academy Series/2023 Season/April_1",
+      "tournament": "LCK AS 2023 April",
+      "team": "DRX Academy",
+      "date": "2023-04-02",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2023_Season%2FApril"
+    },
+    {
+      "id": "LCK Academy Series/2023 Season/March_6",
+      "tournament": "LCK AS 2023 March",
+      "team": "DRX Academy",
+      "date": "2023-03-04",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2023_Season%2FMarch"
+    },
+    {
+      "id": "LCK Academy Series/2023 Season/February_1",
+      "tournament": "LCK AS 2023 February",
+      "team": "DRX Academy",
+      "date": "2023-02-05",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2023_Season%2FFebruary"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/2nd Championship Playoffs_1",
+      "tournament": "LCK AS 2022 2nd Championship Playoffs",
+      "team": "DRX Academy",
+      "date": "2022-11-20",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2F2nd_Championship_Playoffs"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/2nd Championship_1_4",
+      "tournament": "LCK AS 2022 2nd Championship",
+      "team": "DRX Academy",
+      "date": "2022-11-12",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2F2nd_Championship"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/September_4",
+      "tournament": "LCK AS 2022 September",
+      "team": "DRX Academy",
+      "date": "2022-09-04",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2FSeptember"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/August_12",
+      "tournament": "LCK AS 2022 August",
+      "team": "DRX Academy",
+      "date": "2022-08-06",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2FAugust"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/June_15",
+      "tournament": "LCK AS 2022 June",
+      "team": "DRX Academy",
+      "date": "2022-06-19",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2FJune"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/1st Championship_1_5",
+      "tournament": "LCK AS 2022 1st Championship",
+      "team": "DRX Academy",
+      "date": "2022-05-21",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2F1st_Championship"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/March_36",
+      "tournament": "LCK AS 2022 March",
+      "team": "박치기공룡",
+      "date": "2022-03-20",
+      "place": "27-45",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2FMarch"
+    },
+    {
+      "id": "2021 LoL KeSPA Cup_11",
+      "tournament": "KeSPA Cup 2021",
+      "team": "DKJH",
+      "date": "2021-12-10",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2021_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK Academy Series/2021 Season/July_8",
+      "tournament": "LCK AS 2021 July",
+      "team": "묵직한한방",
+      "date": "2021-07-24",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2021_Season%2FJuly"
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "schemaVersion": 1,
+  "id": "PerfecT (Lee Seung-min)",
+  "fetchedAt": "2026-10-07T09:20:41.533078+00:00",
+  "sourceUrl": "https://lol.fandom.com/wiki/PerfecT_%28Lee_Seung-min%29",
+  "careerStatus": "fetched",
+  "resultsStatus": "fetched",
+  "awardsStatus": "not_collected",
+  "awards": [],
+  "careers": [
+    {
+      "team": "KT Rolster",
+      "joinedAt": "2023-12-01",
+      "leftAt": null,
+      "current": true,
+      "joinedPrecision": "1",
+      "leftPrecision": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/PerfecT_%28Lee_Seung-min%29"
+    },
+    {
+      "team": "KT Rolster Challengers",
+      "joinedAt": "2023-02-13",
+      "leftAt": "2023-12-01",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/PerfecT_%28Lee_Seung-min%29"
+    },
+    {
+      "team": "KT Rolster",
+      "joinedAt": "2022-08-07",
+      "leftAt": "2023-02-13",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/PerfecT_%28Lee_Seung-min%29"
+    },
+    {
+      "team": "KT Rolster Challengers",
+      "joinedAt": "2021-12-07",
+      "leftAt": "2022-08-07",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/PerfecT_%28Lee_Seung-min%29"
+    },
+    {
+      "team": "Sejong",
+      "joinedAt": "2021-10-02",
+      "leftAt": "2021-10-09",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/PerfecT_%28Lee_Seung-min%29"
+    },
+    {
+      "team": "KT Rolster Academy",
+      "joinedAt": "2020-10-07",
+      "leftAt": "2021-12-07",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/PerfecT_%28Lee_Seung-min%29"
+    }
+  ],
+  "results": [
+    {
+      "id": "LCK/2026 Season/Season Playoffs_5",
+      "tournament": "LCK 2026 Season Playoffs",
+      "team": "KT Rolster",
+      "date": "2026-09-04",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK/2026 Season/Season Play-In_1",
+      "tournament": "LCK 2026 Season Play-In",
+      "team": "KT Rolster",
+      "date": "2026-08-26",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FSeason_Play-In"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 3-4_1_5",
+      "tournament": "LCK 2026 Rounds 3-4",
+      "team": "KT Rolster",
+      "date": "2026-08-23",
+      "place": "5",
+      "phase": "Legend Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_3-4"
+    },
+    {
+      "id": "2026 LoL KeSPA Cup_8",
+      "tournament": "KeSPA Cup 2026",
+      "team": "KT Rolster",
+      "date": "2026-07-28",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK/2026 Season/Road to MSI_4",
+      "tournament": "LCK 2026 Road to MSI",
+      "team": "KT Rolster",
+      "date": "2026-06-13",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRoad_to_MSI"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 1-2_4",
+      "tournament": "LCK 2026 Rounds 1-2",
+      "team": "KT Rolster",
+      "date": "2026-05-31",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_1-2"
+    },
+    {
+      "id": "Esports World Cup 2026/Online Qualifiers/Korea_7",
+      "tournament": "Esports World Cup 2026 Online Qualifier: Korea",
+      "team": "KT Rolster",
+      "date": "2026-05-18",
+      "place": "NQ",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Esports_World_Cup_2026%2FOnline_Qualifiers%2FKorea"
+    },
+    {
+      "id": "LCK/2026 Season/Cup_9",
+      "tournament": "LCK Cup 2026",
+      "team": "KT Rolster",
+      "date": "2026-02-06",
+      "place": "8-9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FCup"
+    },
+    {
+      "id": "2025 Season World Championship_2",
+      "tournament": "Worlds 2025",
+      "team": "KT Rolster",
+      "date": "2025-11-09",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_Season_World_Championship"
+    },
+    {
+      "id": "LCK/2025 Season/Season Playoffs_3",
+      "tournament": "LCK 2025 Season Playoffs",
+      "team": "KT Rolster",
+      "date": "2025-09-27",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK/2025 Season/Rounds 3-5_1_4",
+      "tournament": "LCK 2025 Rounds 3-5",
+      "team": "KT Rolster",
+      "date": "2025-08-31",
+      "place": "4",
+      "phase": "Legend Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRounds_3-5"
+    },
+    {
+      "id": "LCK/2025 Season/Road to MSI_4",
+      "tournament": "LCK 2025 Road to MSI",
+      "team": "KT Rolster",
+      "date": "2025-06-14",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRoad_to_MSI"
+    },
+    {
+      "id": "LCK/2025 Season/Rounds 1-2_5",
+      "tournament": "LCK 2025 Rounds 1-2",
+      "team": "KT Rolster",
+      "date": "2025-06-04",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRounds_1-2"
+    },
+    {
+      "id": "LCK CL/2025 Season/Rounds 1-2_1",
+      "tournament": "LCK CL 2025 Rounds 1-2",
+      "team": "KT Rolster Challengers",
+      "date": "2025-05-30",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2025_Season%2FRounds_1-2"
+    },
+    {
+      "id": "LCK/2025 Season/Cup_5",
+      "tournament": "LCK Cup 2025",
+      "team": "KT Rolster",
+      "date": "2025-02-12",
+      "place": "5-6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FCup"
+    },
+    {
+      "id": "LCK/2024 Season/Regional Finals_3",
+      "tournament": "LCK 2024 Regional Finals",
+      "team": "KT Rolster",
+      "date": "2024-09-14",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2024_Season%2FRegional_Finals"
+    },
+    {
+      "id": "LCK/2024 Season/Summer Playoffs_5",
+      "tournament": "LCK 2024 Summer Playoffs",
+      "team": "KT Rolster",
+      "date": "2024-08-24",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2024_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2024 Season/Summer Season_1_5",
+      "tournament": "LCK 2024 Summer",
+      "team": "KT Rolster",
+      "date": "2024-08-18",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2024_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK CL/2024 Season/Summer Season_1_1",
+      "tournament": "LCK CL 2024 Summer",
+      "team": "KT Rolster Challengers",
+      "date": "2024-08-16",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2024_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2024 Season/Spring Playoffs_5",
+      "tournament": "LCK 2024 Spring Playoffs",
+      "team": "KT Rolster",
+      "date": "2024-03-31",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2024_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK/2024 Season/Spring Season_1_4",
+      "tournament": "LCK 2024 Spring",
+      "team": "KT Rolster",
+      "date": "2024-03-24",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2024_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK CL/2023 Season/Summer Playoffs_5",
+      "tournament": "LCK CL 2023 Summer Playoffs",
+      "team": "KT Rolster Challengers",
+      "date": "2023-08-07",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2023_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2023 Season/Summer Season_1_1",
+      "tournament": "LCK 2023 Summer",
+      "team": "KT Rolster",
+      "date": "2023-08-06",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2023_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK CL/2023 Season/Summer Season_1_4",
+      "tournament": "LCK CL 2023 Summer",
+      "team": "KT Rolster Challengers",
+      "date": "2023-08-04",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2023_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK CL/2023 Season/Spring Playoffs_3",
+      "tournament": "LCK CL 2023 Spring Playoffs",
+      "team": "KT Rolster Challengers",
+      "date": "2023-04-06",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2023_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK CL/2023 Season/Spring Season_1_2",
+      "tournament": "LCK CL 2023 Spring",
+      "team": "KT Rolster Challengers",
+      "date": "2023-03-17",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2023_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK Academy Series/2021 Season/October_4",
+      "tournament": "LCK AS 2021 October",
+      "team": "KT Rolster Academy",
+      "date": "2021-10-24",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2021_Season%2FOctober"
+    },
+    {
+      "id": "2021 KeG Championship_16",
+      "tournament": "KeG Championship 2021",
+      "team": "Sejong",
+      "date": "2021-10-02",
+      "place": "9-17",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2021_KeG_Championship"
+    },
+    {
+      "id": "LCK Academy Series/2020 Season/October_3",
+      "tournament": "LCK AS 2020 October",
+      "team": "KT Rolster Academy A",
+      "date": "2020-10-18",
+      "place": "3-4<",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2020_Season%2FOctober"
+    }
+  ]
+}

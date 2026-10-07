@@ -1,0 +1,680 @@
+{
+  "schemaVersion": 1,
+  "id": "Easyhoon",
+  "fetchedAt": "2026-10-07T09:20:41.533078+00:00",
+  "sourceUrl": "https://lol.fandom.com/wiki/Easyhoon",
+  "careerStatus": "fetched",
+  "resultsStatus": "fetched",
+  "awardsStatus": "not_collected",
+  "awards": [],
+  "careers": [
+    {
+      "team": "T1",
+      "joinedAt": "2026-04-22",
+      "leftAt": null,
+      "current": true,
+      "joinedPrecision": "1",
+      "leftPrecision": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Easyhoon"
+    },
+    {
+      "team": "Bilibili Gaming",
+      "joinedAt": "2024-07-12",
+      "leftAt": "2026-01-13",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Easyhoon"
+    },
+    {
+      "team": "T1",
+      "joinedAt": "2024-03-25",
+      "leftAt": "2024-07-12",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Easyhoon"
+    },
+    {
+      "team": "Riot Games Inc.",
+      "joinedAt": "2023-06-04",
+      "leftAt": "2024-06-14",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Easyhoon"
+    },
+    {
+      "team": "Weibo Gaming",
+      "joinedAt": "2022-01-06",
+      "leftAt": "2023-04-10",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Easyhoon"
+    },
+    {
+      "team": "Suning",
+      "joinedAt": "2018-12-14",
+      "leftAt": "2019-12-17",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Easyhoon"
+    },
+    {
+      "team": "Vici Gaming",
+      "joinedAt": "2015-12-01",
+      "leftAt": "2018-09-20",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Easyhoon"
+    },
+    {
+      "team": "SK Telecom T1",
+      "joinedAt": "2014-12-02",
+      "leftAt": "2015-11-25",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Easyhoon"
+    },
+    {
+      "team": "SK Telecom T1 S",
+      "joinedAt": "2013-10-12",
+      "leftAt": "2014-12-02",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Easyhoon"
+    },
+    {
+      "team": "Samsung Blue",
+      "joinedAt": "2013-09-06",
+      "leftAt": "2013-09-10",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Easyhoon"
+    },
+    {
+      "team": "MVP Blue",
+      "joinedAt": "2013-02-07",
+      "leftAt": "2013-09-06",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Easyhoon"
+    },
+    {
+      "team": "GSG",
+      "joinedAt": "2012-10-22",
+      "leftAt": "2013-02-07",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Easyhoon"
+    }
+  ],
+  "results": [
+    {
+      "id": "LCK/2026 Season/Season Playoffs_3",
+      "tournament": "LCK 2026 Season Playoffs",
+      "team": "T1",
+      "date": "2026-09-12",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 3-4_1_3",
+      "tournament": "LCK 2026 Rounds 3-4",
+      "team": "T1",
+      "date": "2026-08-23",
+      "place": "3",
+      "phase": "Legend Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_3-4"
+    },
+    {
+      "id": "2026 LoL KeSPA Cup_3",
+      "tournament": "KeSPA Cup 2026",
+      "team": "T1",
+      "date": "2026-08-17",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "Esports World Cup 2026_4",
+      "tournament": "Esports World Cup 2026",
+      "team": "T1",
+      "date": "2026-07-19",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Esports_World_Cup_2026"
+    },
+    {
+      "id": "2026 Mid-Season Invitational_6",
+      "tournament": "MSI 2026",
+      "team": "T1",
+      "date": "2026-07-08",
+      "place": "5-6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_Mid-Season_Invitational"
+    },
+    {
+      "id": "LCK/2026 Season/Road to MSI_2",
+      "tournament": "LCK 2026 Road to MSI",
+      "team": "T1",
+      "date": "2026-06-14",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRoad_to_MSI"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 1-2_2",
+      "tournament": "LCK 2026 Rounds 1-2",
+      "team": "T1",
+      "date": "2026-05-31",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_1-2"
+    },
+    {
+      "id": "Esports World Cup 2026/Online Qualifiers/Korea_1",
+      "tournament": "Esports World Cup 2026 Online Qualifier: Korea",
+      "team": "T1",
+      "date": "2026-05-25",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Esports_World_Cup_2026%2FOnline_Qualifiers%2FKorea"
+    },
+    {
+      "id": "2025 Season World Championship_10",
+      "tournament": "Worlds 2025",
+      "team": "Bilibili Gaming",
+      "date": "2025-10-25",
+      "place": "9-11",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_Season_World_Championship"
+    },
+    {
+      "id": "LPL/2025 Season/Grand Finals_1",
+      "tournament": "LPL 2025 Grand Finals",
+      "team": "Bilibili Gaming",
+      "date": "2025-09-21",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2025_Season%2FGrand_Finals"
+    },
+    {
+      "id": "LPL/2025 Season/Split 3_1_3",
+      "tournament": "LPL 2025 Split 3",
+      "team": "Bilibili Gaming",
+      "date": "2025-08-28",
+      "place": "3",
+      "phase": "Group Ascend",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2025_Season%2FSplit_3"
+    },
+    {
+      "id": "Esports World Cup 2025_6",
+      "tournament": "Esports World Cup 2025",
+      "team": "Bilibili Gaming",
+      "date": "2025-07-17",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Esports_World_Cup_2025"
+    },
+    {
+      "id": "2025 Mid-Season Invitational_4",
+      "tournament": "MSI 2025",
+      "team": "Bilibili Gaming",
+      "date": "2025-07-10",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_Mid-Season_Invitational"
+    },
+    {
+      "id": "LPL/2025 Season/Split 2 Playoffs_2",
+      "tournament": "LPL 2025 Split 2 Playoffs",
+      "team": "Bilibili Gaming",
+      "date": "2025-06-14",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2025_Season%2FSplit_2_Playoffs"
+    },
+    {
+      "id": "LPL/2025 Season/Split 2_1_4",
+      "tournament": "LPL 2025 Split 2",
+      "team": "Bilibili Gaming",
+      "date": "2025-05-22",
+      "place": "4",
+      "phase": "Group Ascend",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2025_Season%2FSplit_2"
+    },
+    {
+      "id": "LPL/2025 Season/Split 1 Playoffs_4",
+      "tournament": "LPL 2025 Split 1 Playoffs",
+      "team": "Bilibili Gaming",
+      "date": "2025-02-26",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2025_Season%2FSplit_1_Playoffs"
+    },
+    {
+      "id": "LPL/2025 Season/Split 1_3_2",
+      "tournament": "LPL 2025 Split 1",
+      "team": "Bilibili Gaming",
+      "date": "2025-02-16",
+      "place": "2",
+      "phase": "Group C",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2025_Season%2FSplit_1"
+    },
+    {
+      "id": "2024 Season World Championship_2",
+      "tournament": "Worlds 2024",
+      "team": "Bilibili Gaming",
+      "date": "2024-11-02",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2024_Season_World_Championship"
+    },
+    {
+      "id": "LPL/2023 Season/Spring Playoffs_5",
+      "tournament": "LPL 2023 Spring Playoffs",
+      "team": "Weibo Gaming",
+      "date": "2023-04-03",
+      "place": "5-6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2023_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LPL/2023 Season/Spring Season_1_4",
+      "tournament": "LPL 2023 Spring",
+      "team": "Weibo Gaming",
+      "date": "2023-03-26",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2023_Season%2FSpring_Season"
+    },
+    {
+      "id": "LPL/2022 Season/Summer Season_1_6",
+      "tournament": "LPL 2022 Summer",
+      "team": "Weibo Gaming",
+      "date": "2022-08-14",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2022_Season%2FSummer_Season"
+    },
+    {
+      "id": "LPL/2022 Season/Spring Playoffs_6",
+      "tournament": "LPL 2022 Spring Playoffs",
+      "team": "Weibo Gaming",
+      "date": "2022-03-31",
+      "place": "5-6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2022_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LPL/2022 Season/Spring Season_1_6",
+      "tournament": "LPL 2022 Spring",
+      "team": "Weibo Gaming",
+      "date": "2022-03-25",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2022_Season%2FSpring_Season"
+    },
+    {
+      "id": "LPL/2018 Season/Summer Season_1_7",
+      "tournament": "LPL 2018 Summer",
+      "team": "Vici Gaming",
+      "date": "2018-09-02",
+      "place": "7",
+      "phase": "East",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2018_Season%2FSummer_Season"
+    },
+    {
+      "id": "LPL/2018 Season/Spring Season_2_7",
+      "tournament": "LPL 2018 Spring",
+      "team": "Vici Gaming",
+      "date": "2018-04-08",
+      "place": "7",
+      "phase": "West",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2018_Season%2FSpring_Season"
+    },
+    {
+      "id": "Demacia Championship/2017 Season_10",
+      "tournament": "Demacia Championship 2017",
+      "team": "Vici Gaming",
+      "date": "2018-01-07",
+      "place": "9-15",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Demacia_Championship%2F2017_Season"
+    },
+    {
+      "id": "LSPL/2017 Season/Summer Playoffs_1",
+      "tournament": "LSPL 2017 Summer Playoffs",
+      "team": "Vici Gaming",
+      "date": "2017-08-24",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LSPL%2F2017_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LSPL/2017 Season/Summer Season_1_1",
+      "tournament": "LSPL 2017 Summer",
+      "team": "Vici Gaming",
+      "date": "2017-08-16",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LSPL%2F2017_Season%2FSummer_Season"
+    },
+    {
+      "id": "Demacia Cup/2017 Season_4",
+      "tournament": "Demacia Cup 2017",
+      "team": "Vici Gaming",
+      "date": "2017-06-04",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Demacia_Cup%2F2017_Season"
+    },
+    {
+      "id": "LPL/2017 Season/Summer Promotion_5",
+      "tournament": "LPL 2017 Summer Promotion",
+      "team": "Vici Gaming",
+      "date": "2017-04-21",
+      "place": "NQ",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2017_Season%2FSummer_Promotion"
+    },
+    {
+      "id": "LPL/2017 Season/Spring Season_2_5",
+      "tournament": "LPL 2017 Spring",
+      "team": "Vici Gaming",
+      "date": "2017-04-16",
+      "place": "5",
+      "phase": "Group B",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2017_Season%2FSpring_Season"
+    },
+    {
+      "id": "LPL/2016 Season/Regional Finals_4",
+      "tournament": "China Regional Finals 2016",
+      "team": "Vici Gaming",
+      "date": "2016-08-27",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2016_Season%2FRegional_Finals"
+    },
+    {
+      "id": "LPL/2016 Season/Summer Playoffs_6",
+      "tournament": "LPL 2016 Summer Playoffs",
+      "team": "Vici Gaming",
+      "date": "2016-08-12",
+      "place": "5-6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2016_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LPL/2016 Season/Summer Season_2_4",
+      "tournament": "LPL 2016 Summer",
+      "team": "Vici Gaming",
+      "date": "2016-08-07",
+      "place": "4",
+      "phase": "Group B",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2016_Season%2FSummer_Season"
+    },
+    {
+      "id": "LPL/2016 Season/Spring Playoffs_6",
+      "tournament": "LPL 2016 Spring Playoffs",
+      "team": "Vici Gaming",
+      "date": "2016-04-15",
+      "place": "5-6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2016_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LPL/2016 Season/Spring Season_2_3",
+      "tournament": "LPL 2016 Spring",
+      "team": "Vici Gaming",
+      "date": "2016-04-10",
+      "place": "3",
+      "phase": "Group B",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2016_Season%2FSpring_Season"
+    },
+    {
+      "id": "World Cyber Arena 2015_7",
+      "tournament": "World Cyber Arena 2015",
+      "team": "Vici Gaming",
+      "date": "2015-12-17",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/World_Cyber_Arena_2015"
+    },
+    {
+      "id": "2015 Season World Championship_1",
+      "tournament": "Worlds 2015",
+      "team": "SK Telecom T1",
+      "date": "2015-10-31",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2015_Season_World_Championship"
+    },
+    {
+      "id": "Champions/2015 Season/Summer Season_1",
+      "tournament": "Champions 2015 Summer",
+      "team": "SK Telecom T1",
+      "date": "2015-08-13",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2015_Season%2FSummer_Season"
+    },
+    {
+      "id": "2015 Mid-Season Invitational_2",
+      "tournament": "MSI 2015",
+      "team": "SK Telecom T1",
+      "date": "2015-05-10",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2015_Mid-Season_Invitational"
+    },
+    {
+      "id": "Champions/2015 Season/Spring Playoffs_1",
+      "tournament": "Champions 2015 Spring Playoffs",
+      "team": "SK Telecom T1",
+      "date": "2015-05-02",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2015_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "Champions/2015 Season/Spring Season_2",
+      "tournament": "Champions 2015 Spring",
+      "team": "SK Telecom T1",
+      "date": "2015-04-11",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2015_Season%2FSpring_Season"
+    },
+    {
+      "id": "Champions/2015 Season/Spring Preseason_1_1",
+      "tournament": "Champions 2015 Spring Preseason",
+      "team": "SK Telecom T1",
+      "date": "2014-12-20",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2015_Season%2FSpring_Preseason"
+    },
+    {
+      "id": "Champions/2014 Season/Summer Season_4",
+      "tournament": "Champions 2014 Summer",
+      "team": "SK Telecom T1 S",
+      "date": "2014-08-06",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2014_Season%2FSummer_Season"
+    },
+    {
+      "id": "SK Telecom LTE-A LoL Masters 2014_2",
+      "tournament": "LoL Masters 2014",
+      "team": "SK Telecom T1 (Club Masters)",
+      "date": "2014-06-08",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/SK_Telecom_LTE-A_LoL_Masters_2014"
+    },
+    {
+      "id": "Champions/2014 Season/Summer Qualifiers_6",
+      "tournament": "Champions 2014 Summer Qualifiers",
+      "team": "SK Telecom T1 S",
+      "date": "2014-06-06",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2014_Season%2FSummer_Qualifiers"
+    },
+    {
+      "id": "NLB/2014 Season/Spring Season_7",
+      "tournament": "NLB 2014 Spring",
+      "team": "SK Telecom T1 S",
+      "date": "2014-04-22",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/NLB%2F2014_Season%2FSpring_Season"
+    },
+    {
+      "id": "Champions/2014 Season/Spring Season_14",
+      "tournament": "Champions 2014 Spring",
+      "team": "SK Telecom T1 S",
+      "date": "2014-04-09",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2014_Season%2FSpring_Season"
+    },
+    {
+      "id": "Champions/2014 Season/Spring Qualifiers_1",
+      "tournament": "Champions 2014 Spring Qualifiers",
+      "team": "SK Telecom T1 S",
+      "date": "2014-02-26",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2014_Season%2FSpring_Qualifiers"
+    },
+    {
+      "id": "NLB/2014 Season/Winter Season_9",
+      "tournament": "NLB 2014 Winter",
+      "team": "SK Telecom T1 S",
+      "date": "2013-12-24",
+      "place": "9-12",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/NLB%2F2014_Season%2FWinter_Season"
+    },
+    {
+      "id": "Champions/2014 Season/Winter Season_9",
+      "tournament": "Champions 2014 Winter",
+      "team": "SK Telecom T1 S",
+      "date": "2013-12-18",
+      "place": "9-15",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2014_Season%2FWinter_Season"
+    },
+    {
+      "id": "Champions/2014 Season/Winter Qualifiers_1",
+      "tournament": "Champions 2014 Winter Qualifiers",
+      "team": "SK Telecom T1 1",
+      "date": "2013-10-26",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2014_Season%2FWinter_Qualifiers"
+    },
+    {
+      "id": "NLB/2013 Season/Summer_11",
+      "tournament": "NLB 2013 Summer",
+      "team": "MVP Blue",
+      "date": "2013-08-24",
+      "place": "9-12",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/NLB%2F2013_Season%2FSummer"
+    },
+    {
+      "id": "Champions/2013 Season/Summer_12",
+      "tournament": "Champions 2013 Summer",
+      "team": "MVP Blue",
+      "date": "2013-07-24",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2013_Season%2FSummer"
+    },
+    {
+      "id": "AMD-INVEN GamExperience_3",
+      "tournament": "AMD-INVEN GamExperience",
+      "team": "MVP Blue",
+      "date": "2013-06-29",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/AMD-INVEN_GamExperience"
+    },
+    {
+      "id": "Champions/2013 Season/Summer Qualifiers_6",
+      "tournament": "Champions 2013 Summer Qualifiers",
+      "team": "MVP Blue",
+      "date": "2013-06-21",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2013_Season%2FSummer_Qualifiers"
+    },
+    {
+      "id": "NLB/2013 Season/Spring_10",
+      "tournament": "NLB 2013 Spring",
+      "team": "MVP Blue",
+      "date": "2013-06-14",
+      "place": "9-12",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/NLB%2F2013_Season%2FSpring"
+    },
+    {
+      "id": "Champions/2013 Season/Spring_10",
+      "tournament": "Champions 2013 Spring",
+      "team": "MVP Blue",
+      "date": "2013-05-01",
+      "place": "9-12",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2013_Season%2FSpring"
+    },
+    {
+      "id": "OGN Club Masters_1",
+      "tournament": "OGN Club Masters",
+      "team": "MVP (Club Masters)",
+      "date": "2013-02-23",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/OGN_Club_Masters"
+    },
+    {
+      "id": "NLB/2013 Season/Winter_1",
+      "tournament": "NLB 2013 Winter",
+      "team": "GSG",
+      "date": "2013-02-01",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/NLB%2F2013_Season%2FWinter"
+    },
+    {
+      "id": "Champions/2013 Season/Winter_11",
+      "tournament": "Champions 2013 Winter",
+      "team": "GSG",
+      "date": "2012-12-21",
+      "place": "9-12",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2013_Season%2FWinter"
+    },
+    {
+      "id": "Champions/2013 Season/Winter Qualifiers_6",
+      "tournament": "Champions 2013 Winter Qualifiers",
+      "team": "GSG",
+      "date": "2012-10-29",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2013_Season%2FWinter_Qualifiers"
+    }
+  ]
+}

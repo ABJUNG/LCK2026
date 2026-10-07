@@ -1,0 +1,662 @@
+[
+  {
+    "documentId": "LCK-20260816-1707-Week12-Gen.G-T1-SET1",
+    "sourceGameId": "LCK/2026 Season/Rounds 3-4_Week 12_9_1",
+    "teamA": "Gen.G",
+    "teamB": "T1",
+    "setNumber": "1",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260816-1815-Week12-Gen.G-T1-SET2",
+    "sourceGameId": "LCK/2026 Season/Rounds 3-4_Week 12_9_2",
+    "teamA": "Gen.G",
+    "teamB": "T1",
+    "setNumber": "2",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260816-1944-Week12-HANJIN BRION-Kiwoom DRX-SET1",
+    "sourceGameId": "LCK/2026 Season/Rounds 3-4_Week 12_10_1",
+    "teamA": "HANJIN BRION",
+    "teamB": "Kiwoom DRX",
+    "setNumber": "1",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260816-2045-Week12-Kiwoom DRX-HANJIN BRION-SET2",
+    "sourceGameId": "LCK/2026 Season/Rounds 3-4_Week 12_10_2",
+    "teamA": "Kiwoom DRX",
+    "teamB": "HANJIN BRION",
+    "setNumber": "2",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260816-2138-Week12-Kiwoom DRX-HANJIN BRION-SET3",
+    "sourceGameId": "LCK/2026 Season/Rounds 3-4_Week 12_10_3",
+    "teamA": "Kiwoom DRX",
+    "teamB": "HANJIN BRION",
+    "setNumber": "3",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260826-1708-RegularSeason-HANJIN BRION-KT Rolster-SET1",
+    "sourceGameId": "LCK/2026 Season/Season Play-In_Round 1_1_1",
+    "teamA": "HANJIN BRION",
+    "teamB": "KT Rolster",
+    "setNumber": "1",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260826-1810-RegularSeason-KT Rolster-HANJIN BRION-SET2",
+    "sourceGameId": "LCK/2026 Season/Season Play-In_Round 1_1_2",
+    "teamA": "KT Rolster",
+    "teamB": "HANJIN BRION",
+    "setNumber": "2",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260826-1904-RegularSeason-KT Rolster-HANJIN BRION-SET3",
+    "sourceGameId": "LCK/2026 Season/Season Play-In_Round 1_1_3",
+    "teamA": "KT Rolster",
+    "teamB": "HANJIN BRION",
+    "setNumber": "3",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260826-2001-RegularSeason-HANJIN BRION-KT Rolster-SET4",
+    "sourceGameId": "LCK/2026 Season/Season Play-In_Round 1_1_4",
+    "teamA": "HANJIN BRION",
+    "teamB": "KT Rolster",
+    "setNumber": "4",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260826-2100-RegularSeason-HANJIN BRION-KT Rolster-SET5",
+    "sourceGameId": "LCK/2026 Season/Season Play-In_Round 1_1_5",
+    "teamA": "HANJIN BRION",
+    "teamB": "KT Rolster",
+    "setNumber": "5",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260827-1707-RegularSeason-BNK FEARX-Nongshim RedForce-SET1",
+    "sourceGameId": "LCK/2026 Season/Season Play-In_Round 1_2_1",
+    "teamA": "BNK FEARX",
+    "teamB": "Nongshim RedForce",
+    "setNumber": "1",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260827-1757-RegularSeason-Nongshim RedForce-BNK FEARX-SET2",
+    "sourceGameId": "LCK/2026 Season/Season Play-In_Round 1_2_2",
+    "teamA": "Nongshim RedForce",
+    "teamB": "BNK FEARX",
+    "setNumber": "2",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260827-1850-RegularSeason-BNK FEARX-Nongshim RedForce-SET3",
+    "sourceGameId": "LCK/2026 Season/Season Play-In_Round 1_2_3",
+    "teamA": "BNK FEARX",
+    "teamB": "Nongshim RedForce",
+    "setNumber": "3",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260827-1948-RegularSeason-BNK FEARX-Nongshim RedForce-SET4",
+    "sourceGameId": "LCK/2026 Season/Season Play-In_Round 1_2_4",
+    "teamA": "BNK FEARX",
+    "teamB": "Nongshim RedForce",
+    "setNumber": "4",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260828-1706-RegularSeason-BNK FEARX-HANJIN BRION-SET1",
+    "sourceGameId": "LCK/2026 Season/Season Play-In_Round 2_1_1",
+    "teamA": "BNK FEARX",
+    "teamB": "HANJIN BRION",
+    "setNumber": "1",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260828-1804-RegularSeason-BNK FEARX-HANJIN BRION-SET2",
+    "sourceGameId": "LCK/2026 Season/Season Play-In_Round 2_1_2",
+    "teamA": "BNK FEARX",
+    "teamB": "HANJIN BRION",
+    "setNumber": "2",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260828-1854-RegularSeason-HANJIN BRION-BNK FEARX-SET3",
+    "sourceGameId": "LCK/2026 Season/Season Play-In_Round 2_1_3",
+    "teamA": "HANJIN BRION",
+    "teamB": "BNK FEARX",
+    "setNumber": "3",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260828-1947-RegularSeason-HANJIN BRION-BNK FEARX-SET4",
+    "sourceGameId": "LCK/2026 Season/Season Play-In_Round 2_1_4",
+    "teamA": "HANJIN BRION",
+    "teamB": "BNK FEARX",
+    "setNumber": "4",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260828-2040-RegularSeason-BNK FEARX-HANJIN BRION-SET5",
+    "sourceGameId": "LCK/2026 Season/Season Play-In_Round 2_1_5",
+    "teamA": "BNK FEARX",
+    "teamB": "HANJIN BRION",
+    "setNumber": "5",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260829-1707-Playoffs-BNK FEARX-T1-SET1",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 1_1_1",
+    "teamA": "BNK FEARX",
+    "teamB": "T1",
+    "setNumber": "1",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260829-1804-Playoffs-BNK FEARX-T1-SET2",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 1_1_2",
+    "teamA": "BNK FEARX",
+    "teamB": "T1",
+    "setNumber": "2",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260829-1859-Playoffs-T1-BNK FEARX-SET3",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 1_1_3",
+    "teamA": "T1",
+    "teamB": "BNK FEARX",
+    "setNumber": "3",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260829-1953-Playoffs-BNK FEARX-T1-SET4",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 1_1_4",
+    "teamA": "BNK FEARX",
+    "teamB": "T1",
+    "setNumber": "4",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260829-2101-Playoffs-T1-BNK FEARX-SET5",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 1_1_5",
+    "teamA": "T1",
+    "teamB": "BNK FEARX",
+    "setNumber": "5",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260830-1710-Playoffs-KT Rolster-Dplus Kia-SET1",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 1_2_1",
+    "teamA": "KT Rolster",
+    "teamB": "Dplus Kia",
+    "setNumber": "1",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260830-1812-Playoffs-KT Rolster-Dplus Kia-SET2",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 1_2_2",
+    "teamA": "KT Rolster",
+    "teamB": "Dplus Kia",
+    "setNumber": "2",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260830-1916-Playoffs-KT Rolster-Dplus Kia-SET3",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 1_2_3",
+    "teamA": "KT Rolster",
+    "teamB": "Dplus Kia",
+    "setNumber": "3",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260901-1711-Playoffs-Gen.G-KT Rolster-SET1",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 2_1_1",
+    "teamA": "Gen.G",
+    "teamB": "KT Rolster",
+    "setNumber": "1",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260901-1813-Playoffs-Gen.G-KT Rolster-SET2",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 2_1_2",
+    "teamA": "Gen.G",
+    "teamB": "KT Rolster",
+    "setNumber": "2",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260901-1908-Playoffs-Gen.G-KT Rolster-SET3",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 2_1_3",
+    "teamA": "Gen.G",
+    "teamB": "KT Rolster",
+    "setNumber": "3",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260902-1711-Playoffs-T1-Hanwha Life Esports-SET1",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 2_2_1",
+    "teamA": "T1",
+    "teamB": "Hanwha Life Esports",
+    "setNumber": "1",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260902-1805-Playoffs-T1-Hanwha Life Esports-SET2",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 2_2_2",
+    "teamA": "T1",
+    "teamB": "Hanwha Life Esports",
+    "setNumber": "2",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260902-1856-Playoffs-Hanwha Life Esports-T1-SET3",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 2_2_3",
+    "teamA": "Hanwha Life Esports",
+    "teamB": "T1",
+    "setNumber": "3",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260902-1946-Playoffs-T1-Hanwha Life Esports-SET4",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 2_2_4",
+    "teamA": "T1",
+    "teamB": "Hanwha Life Esports",
+    "setNumber": "4",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260902-2038-Playoffs-T1-Hanwha Life Esports-SET5",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 2_2_5",
+    "teamA": "T1",
+    "teamB": "Hanwha Life Esports",
+    "setNumber": "5",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260903-1708-Playoffs-BNK FEARX-Dplus Kia-SET1",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 1_3_1",
+    "teamA": "BNK FEARX",
+    "teamB": "Dplus Kia",
+    "setNumber": "1",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260903-1814-Playoffs-BNK FEARX-Dplus Kia-SET2",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 1_3_2",
+    "teamA": "BNK FEARX",
+    "teamB": "Dplus Kia",
+    "setNumber": "2",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260903-1917-Playoffs-Dplus Kia-BNK FEARX-SET3",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 1_3_3",
+    "teamA": "Dplus Kia",
+    "teamB": "BNK FEARX",
+    "setNumber": "3",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260903-2011-Playoffs-BNK FEARX-Dplus Kia-SET4",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 1_3_4",
+    "teamA": "BNK FEARX",
+    "teamB": "Dplus Kia",
+    "setNumber": "4",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260903-2059-Playoffs-Dplus Kia-BNK FEARX-SET5",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 1_3_5",
+    "teamA": "Dplus Kia",
+    "teamB": "BNK FEARX",
+    "setNumber": "5",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260904-1707-Playoffs-KT Rolster-Dplus Kia-SET1",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 2_3_1",
+    "teamA": "KT Rolster",
+    "teamB": "Dplus Kia",
+    "setNumber": "1",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260904-1802-Playoffs-Dplus Kia-KT Rolster-SET2",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 2_3_2",
+    "teamA": "Dplus Kia",
+    "teamB": "KT Rolster",
+    "setNumber": "2",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260904-1907-Playoffs-KT Rolster-Dplus Kia-SET3",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 2_3_3",
+    "teamA": "KT Rolster",
+    "teamB": "Dplus Kia",
+    "setNumber": "3",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260904-1958-Playoffs-Dplus Kia-KT Rolster-SET4",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 2_3_4",
+    "teamA": "Dplus Kia",
+    "teamB": "KT Rolster",
+    "setNumber": "4",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260905-1708-Playoffs-Hanwha Life Esports-Gen.G-SET1",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 4_1_1",
+    "teamA": "Hanwha Life Esports",
+    "teamB": "Gen.G",
+    "setNumber": "1",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260905-1811-Playoffs-Gen.G-Hanwha Life Esports-SET2",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 4_1_2",
+    "teamA": "Gen.G",
+    "teamB": "Hanwha Life Esports",
+    "setNumber": "2",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260905-1919-Playoffs-Hanwha Life Esports-Gen.G-SET3",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 4_1_3",
+    "teamA": "Hanwha Life Esports",
+    "teamB": "Gen.G",
+    "setNumber": "3",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260905-2013-Playoffs-Gen.G-Hanwha Life Esports-SET4",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 4_1_4",
+    "teamA": "Gen.G",
+    "teamB": "Hanwha Life Esports",
+    "setNumber": "4",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260906-1709-Playoffs-Dplus Kia-T1-SET1",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 3_1_1",
+    "teamA": "Dplus Kia",
+    "teamB": "T1",
+    "setNumber": "1",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260906-1815-Playoffs-Dplus Kia-T1-SET2",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 3_1_2",
+    "teamA": "Dplus Kia",
+    "teamB": "T1",
+    "setNumber": "2",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260906-1908-Playoffs-Dplus Kia-T1-SET3",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 3_1_3",
+    "teamA": "Dplus Kia",
+    "teamB": "T1",
+    "setNumber": "3",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260906-2011-Playoffs-Dplus Kia-T1-SET4",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 3_1_4",
+    "teamA": "Dplus Kia",
+    "teamB": "T1",
+    "setNumber": "4",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260912-1421-Playoffs-Hanwha Life Esports-T1-SET1",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 4_2_1",
+    "teamA": "Hanwha Life Esports",
+    "teamB": "T1",
+    "setNumber": "1",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260912-1533-Playoffs-T1-Hanwha Life Esports-SET2",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 4_2_2",
+    "teamA": "T1",
+    "teamB": "Hanwha Life Esports",
+    "setNumber": "2",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260912-1627-Playoffs-Hanwha Life Esports-T1-SET3",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 4_2_3",
+    "teamA": "Hanwha Life Esports",
+    "teamB": "T1",
+    "setNumber": "3",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260912-1721-Playoffs-T1-Hanwha Life Esports-SET4",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Round 4_2_4",
+    "teamA": "T1",
+    "teamB": "Hanwha Life Esports",
+    "setNumber": "4",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260913-1430-Playoffs-Gen.G-Hanwha Life Esports-SET1",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Finals_1_1",
+    "teamA": "Gen.G",
+    "teamB": "Hanwha Life Esports",
+    "setNumber": "1",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260913-1534-Playoffs-Hanwha Life Esports-Gen.G-SET2",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Finals_1_2",
+    "teamA": "Hanwha Life Esports",
+    "teamB": "Gen.G",
+    "setNumber": "2",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260913-1629-Playoffs-Hanwha Life Esports-Gen.G-SET3",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Finals_1_3",
+    "teamA": "Hanwha Life Esports",
+    "teamB": "Gen.G",
+    "setNumber": "3",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  },
+  {
+    "documentId": "LCK-20260913-1719-Playoffs-Gen.G-Hanwha Life Esports-SET4",
+    "sourceGameId": "LCK/2026 Season/Season Playoffs_Finals_1_4",
+    "teamA": "Gen.G",
+    "teamB": "Hanwha Life Esports",
+    "setNumber": "4",
+    "teamSides": {
+      "teamA": "BLUE",
+      "teamB": "RED"
+    }
+  }
+]

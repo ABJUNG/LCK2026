@@ -1,0 +1,788 @@
+{
+  "schemaVersion": 1,
+  "id": "Ryu",
+  "fetchedAt": "2026-10-07T09:20:41.533078+00:00",
+  "sourceUrl": "https://lol.fandom.com/wiki/Ryu",
+  "careerStatus": "fetched",
+  "resultsStatus": "fetched",
+  "awardsStatus": "not_collected",
+  "awards": [],
+  "careers": [
+    {
+      "team": "Gen.G",
+      "joinedAt": "2025-11-17",
+      "leftAt": null,
+      "current": true,
+      "joinedPrecision": "1",
+      "leftPrecision": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Ryu"
+    },
+    {
+      "team": "BNK FEARX",
+      "joinedAt": "2023-12-15",
+      "leftAt": "2025-11-17",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Ryu"
+    },
+    {
+      "team": "Liiv SANDBOX",
+      "joinedAt": "2022-10-17",
+      "leftAt": "2023-12-15",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Ryu"
+    },
+    {
+      "team": "Liiv SANDBOX Challengers",
+      "joinedAt": "2022-07-10",
+      "leftAt": "2022-10-17",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Ryu"
+    },
+    {
+      "team": "100 Thieves",
+      "joinedAt": "2019-06-14",
+      "leftAt": "2019-11-18",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Ryu"
+    },
+    {
+      "team": "100 Thieves Academy",
+      "joinedAt": "2019-05-16",
+      "leftAt": "2019-06-14",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Ryu"
+    },
+    {
+      "team": "100 Thieves",
+      "joinedAt": "2019-01-05",
+      "leftAt": "2019-05-16",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Ryu"
+    },
+    {
+      "team": "100 Thieves",
+      "joinedAt": "2018-11-21",
+      "leftAt": "2019-01-05",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Ryu"
+    },
+    {
+      "team": "100 Thieves",
+      "joinedAt": "2017-11-22",
+      "leftAt": "2018-11-21",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Ryu"
+    },
+    {
+      "team": "Phoenix1",
+      "joinedAt": "2016-12-07",
+      "leftAt": "2017-11-22",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Ryu"
+    },
+    {
+      "team": "H2k-Gaming",
+      "joinedAt": "2015-01-10",
+      "leftAt": "2016-12-01",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Ryu"
+    },
+    {
+      "team": "Team ROCCAT",
+      "joinedAt": "2014-12-19",
+      "leftAt": "2014-12-21",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Ryu"
+    },
+    {
+      "team": "Millenium",
+      "joinedAt": "2014-10-24",
+      "leftAt": "2014-12-14",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Ryu"
+    },
+    {
+      "team": "KT Rolster Bullets",
+      "joinedAt": "2012-10-10",
+      "leftAt": "2014-08-01",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Ryu"
+    },
+    {
+      "team": "StarTale",
+      "joinedAt": "2011-10-20",
+      "leftAt": "2012-08-26",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Ryu"
+    }
+  ],
+  "results": [
+    {
+      "id": "LCK/2026 Season/Season Playoffs_1",
+      "tournament": "LCK 2026 Season Playoffs",
+      "team": "Gen.G",
+      "date": "2026-09-13",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 3-4_1_1",
+      "tournament": "LCK 2026 Rounds 3-4",
+      "team": "Gen.G",
+      "date": "2026-08-23",
+      "place": "1",
+      "phase": "Legend Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_3-4"
+    },
+    {
+      "id": "2026 LoL KeSPA Cup_5",
+      "tournament": "KeSPA Cup 2026",
+      "team": "Gen.G",
+      "date": "2026-08-10",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "Esports World Cup 2026_3",
+      "tournament": "Esports World Cup 2026",
+      "team": "Gen.G",
+      "date": "2026-07-19",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Esports_World_Cup_2026"
+    },
+    {
+      "id": "LCK/2026 Season/Road to MSI_3",
+      "tournament": "LCK 2026 Road to MSI",
+      "team": "Gen.G",
+      "date": "2026-06-14",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRoad_to_MSI"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 1-2_3",
+      "tournament": "LCK 2026 Rounds 1-2",
+      "team": "Gen.G",
+      "date": "2026-05-31",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_1-2"
+    },
+    {
+      "id": "2026 First Stand_3",
+      "tournament": "First Stand 2026",
+      "team": "Gen.G",
+      "date": "2026-03-21",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_First_Stand"
+    },
+    {
+      "id": "LCK/2026 Season/Cup_1",
+      "tournament": "LCK Cup 2026",
+      "team": "Gen.G",
+      "date": "2026-03-01",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FCup"
+    },
+    {
+      "id": "2025 LoL KeSPA Cup_13",
+      "tournament": "KeSPA Cup 2025",
+      "team": "Gen.G",
+      "date": "2025-12-08",
+      "place": "13-14",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "2025 League of Legends Asia Invitational_1",
+      "tournament": "League of Legends Asia Invitational 2025",
+      "team": "BNK FEARX",
+      "date": "2025-10-12",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_League_of_Legends_Asia_Invitational"
+    },
+    {
+      "id": "LCK/2025 Season/Season Playoffs_6",
+      "tournament": "LCK 2025 Season Playoffs",
+      "team": "BNK FEARX",
+      "date": "2025-09-17",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK/2025 Season/Season Play-In_1",
+      "tournament": "LCK 2025 Season Play-In",
+      "team": "BNK FEARX",
+      "date": "2025-09-05",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FSeason_Play-In"
+    },
+    {
+      "id": "LCK/2025 Season/Rounds 3-5_2_2",
+      "tournament": "LCK 2025 Rounds 3-5",
+      "team": "BNK FEARX",
+      "date": "2025-08-31",
+      "place": "2",
+      "phase": "Rise Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRounds_3-5"
+    },
+    {
+      "id": "LCK/2025 Season/Rounds 1-2_7",
+      "tournament": "LCK 2025 Rounds 1-2",
+      "team": "BNK FEARX",
+      "date": "2025-06-04",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRounds_1-2"
+    },
+    {
+      "id": "LCK/2025 Season/Cup_10",
+      "tournament": "LCK Cup 2025",
+      "team": "BNK FEARX",
+      "date": "2025-02-02",
+      "place": "10",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FCup"
+    },
+    {
+      "id": "2024 LoL KeSPA Cup_9",
+      "tournament": "KeSPA Cup 2024",
+      "team": "BNK FEARX",
+      "date": "2024-12-02",
+      "place": "9-10",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2024_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK/2024 Season/Regional Finals_4",
+      "tournament": "LCK 2024 Regional Finals",
+      "team": "BNK FEARX",
+      "date": "2024-09-13",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2024_Season%2FRegional_Finals"
+    },
+    {
+      "id": "LCK/2024 Season/Summer Playoffs_6",
+      "tournament": "LCK 2024 Summer Playoffs",
+      "team": "BNK FEARX",
+      "date": "2024-08-23",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2024_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2024 Season/Summer Season_1_6",
+      "tournament": "LCK 2024 Summer",
+      "team": "BNK FEARX",
+      "date": "2024-08-18",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2024_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2024 Season/Spring Season_1_7",
+      "tournament": "LCK 2024 Spring",
+      "team": "FearX",
+      "date": "2024-03-24",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2024_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK/2023 Season/Summer Season_1_7",
+      "tournament": "LCK 2023 Summer",
+      "team": "Liiv SANDBOX",
+      "date": "2023-08-06",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2023_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2023 Season/Spring Playoffs_6",
+      "tournament": "LCK 2023 Spring Playoffs",
+      "team": "Liiv SANDBOX",
+      "date": "2023-03-22",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2023_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK/2023 Season/Spring Season_1_6",
+      "tournament": "LCK 2023 Spring",
+      "team": "Liiv SANDBOX",
+      "date": "2023-03-19",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2023_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCS/2019 Season/Summer Season_1_8",
+      "tournament": "LCS 2019 Summer",
+      "team": "100 Thieves",
+      "date": "2019-08-04",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCS%2F2019_Season%2FSummer_Season"
+    },
+    {
+      "id": "NA Academy League/2019 Season/Summer Season_1_3",
+      "tournament": "NA Academy 2019 Summer",
+      "team": "100 Thieves Academy",
+      "date": "2019-07-28",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/NA_Academy_League%2F2019_Season%2FSummer_Season"
+    },
+    {
+      "id": "2018 Season World Championship_12",
+      "tournament": "Worlds 2018",
+      "team": "100 Thieves",
+      "date": "2018-10-17",
+      "place": "9-12",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2018_Season_World_Championship"
+    },
+    {
+      "id": "NA LCS/2018 Season/Summer Playoffs_4",
+      "tournament": "NA LCS 2018 Summer Playoffs",
+      "team": "100 Thieves",
+      "date": "2018-09-08",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/NA_LCS%2F2018_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "NA LCS/2018 Season/Summer Season_1_3",
+      "tournament": "NA LCS 2018 Summer",
+      "team": "100 Thieves",
+      "date": "2018-08-20",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/NA_LCS%2F2018_Season%2FSummer_Season"
+    },
+    {
+      "id": "Rift Rivals 2018/NA-EU_6",
+      "tournament": "Rift Rivals 2018 NA-EU",
+      "team": "100 Thieves",
+      "date": "2018-07-08",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Rift_Rivals_2018%2FNA-EU"
+    },
+    {
+      "id": "NA LCS/2018 Season/Spring Playoffs_2",
+      "tournament": "NA LCS 2018 Spring Playoffs",
+      "team": "100 Thieves",
+      "date": "2018-04-08",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/NA_LCS%2F2018_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "NA LCS/2018 Season/Spring Season_1_1",
+      "tournament": "NA LCS 2018 Spring",
+      "team": "100 Thieves",
+      "date": "2018-03-18",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/NA_LCS%2F2018_Season%2FSpring_Season"
+    },
+    {
+      "id": "NA LCS/2018 Season/Spring Promotion_2",
+      "tournament": "NA LCS 2018 Spring Promotion",
+      "team": "Phoenix1",
+      "date": "2017-08-13",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/NA_LCS%2F2018_Season%2FSpring_Promotion"
+    },
+    {
+      "id": "NA LCS/2017 Season/Summer Season_1_10",
+      "tournament": "NA LCS 2017 Summer",
+      "team": "Phoenix1",
+      "date": "2017-08-06",
+      "place": "10",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/NA_LCS%2F2017_Season%2FSummer_Season"
+    },
+    {
+      "id": "Rift Rivals 2017/NA-EU_2",
+      "tournament": "Rift Rivals 2017 NA-EU",
+      "team": "Phoenix1",
+      "date": "2017-07-07",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Rift_Rivals_2017%2FNA-EU"
+    },
+    {
+      "id": "NA LCS/2017 Season/Spring Playoffs_3",
+      "tournament": "NA LCS 2017 Spring Playoffs",
+      "team": "Phoenix1",
+      "date": "2017-04-23",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/NA_LCS%2F2017_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "NA LCS/2017 Season/Spring Season_1_3",
+      "tournament": "NA LCS 2017 Spring",
+      "team": "Phoenix1",
+      "date": "2017-03-26",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/NA_LCS%2F2017_Season%2FSpring_Season"
+    },
+    {
+      "id": "2016 Season World Championship_4",
+      "tournament": "Worlds 2016",
+      "team": "H2k-Gaming",
+      "date": "2016-10-22",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2016_Season_World_Championship"
+    },
+    {
+      "id": "EU LCS/2016 Season/Summer Playoffs_3",
+      "tournament": "EU LCS 2016 Summer Playoffs",
+      "team": "H2k-Gaming",
+      "date": "2016-08-28",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/EU_LCS%2F2016_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "EU LCS/2016 Season/Summer Season_1_4",
+      "tournament": "EU LCS 2016 Summer",
+      "team": "H2k-Gaming",
+      "date": "2016-07-31",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/EU_LCS%2F2016_Season%2FSummer_Season"
+    },
+    {
+      "id": "EU LCS/2016 Season/Spring Playoffs_4",
+      "tournament": "EU LCS 2016 Spring Playoffs",
+      "team": "H2k-Gaming",
+      "date": "2016-04-17",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/EU_LCS%2F2016_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "EU LCS/2016 Season/Spring Season_1_2",
+      "tournament": "EU LCS 2016 Spring",
+      "team": "H2k-Gaming",
+      "date": "2016-03-18",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/EU_LCS%2F2016_Season%2FSpring_Season"
+    },
+    {
+      "id": "IEM Season X - Cologne_4",
+      "tournament": "IEM Season 10 Cologne",
+      "team": "H2k-Gaming",
+      "date": "2015-12-20",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/IEM_Season_X_-_Cologne"
+    },
+    {
+      "id": "2015 Season World Championship_9",
+      "tournament": "Worlds 2015",
+      "team": "H2k-Gaming",
+      "date": "2015-10-09",
+      "place": "9-11",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2015_Season_World_Championship"
+    },
+    {
+      "id": "EU LCS/2015 Season/Summer Playoffs_3",
+      "tournament": "EU LCS 2015 Summer Playoffs",
+      "team": "H2k-Gaming",
+      "date": "2015-08-23",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/EU_LCS%2F2015_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "EU LCS/2015 Season/Summer Season_1_3",
+      "tournament": "EU LCS 2015 Summer",
+      "team": "H2k-Gaming",
+      "date": "2015-07-24",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/EU_LCS%2F2015_Season%2FSummer_Season"
+    },
+    {
+      "id": "EU LCS/2015 Season/Spring Playoffs_3",
+      "tournament": "EU LCS 2015 Spring Playoffs",
+      "team": "H2k-Gaming",
+      "date": "2015-04-19",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/EU_LCS%2F2015_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "EU LCS/2015 Season/Spring Season_1_3",
+      "tournament": "EU LCS 2015 Spring",
+      "team": "H2k-Gaming",
+      "date": "2015-03-27",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/EU_LCS%2F2015_Season%2FSpring_Season"
+    },
+    {
+      "id": "IEM Season IX - Cologne_3",
+      "tournament": "IEM Season 9 Cologne",
+      "team": "Team ROCCAT",
+      "date": "2014-12-21",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/IEM_Season_IX_-_Cologne"
+    },
+    {
+      "id": "EU LCS/2015 Season/Spring Expansion_13",
+      "tournament": "EU LCS 2015 Spring Expansion",
+      "team": "Millenium",
+      "date": "2014-12-21",
+      "place": "NQ",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/EU_LCS%2F2015_Season%2FSpring_Expansion"
+    },
+    {
+      "id": "Black Monster Cup/Europe/2014/Winter_3",
+      "tournament": "BMC Europe 2014 Winter",
+      "team": "Millenium",
+      "date": "2014-12-10",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Black_Monster_Cup%2FEurope%2F2014%2FWinter"
+    },
+    {
+      "id": "Champions/2014 Season/Summer Season_15",
+      "tournament": "Champions 2014 Summer",
+      "team": "KT Rolster Bullets",
+      "date": "2014-07-05",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2014_Season%2FSummer_Season"
+    },
+    {
+      "id": "NLB/2014 Season/Spring Season_4",
+      "tournament": "NLB 2014 Spring",
+      "team": "KT Rolster Bullets",
+      "date": "2014-05-14",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/NLB%2F2014_Season%2FSpring_Season"
+    },
+    {
+      "id": "SK Telecom LTE-A LoL Masters 2014_6",
+      "tournament": "LoL Masters 2014",
+      "team": "KT Rolster (Club Masters)",
+      "date": "2014-05-01",
+      "place": "4-7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/SK_Telecom_LTE-A_LoL_Masters_2014"
+    },
+    {
+      "id": "Champions/2014 Season/Spring Season_5",
+      "tournament": "Champions 2014 Spring",
+      "team": "KT Rolster Bullets",
+      "date": "2014-04-25",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2014_Season%2FSpring_Season"
+    },
+    {
+      "id": "IEM Season VIII - World Championship_1",
+      "tournament": "IEM Season 8 World Championship",
+      "team": "KT Rolster Bullets",
+      "date": "2014-03-16",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/IEM_Season_VIII_-_World_Championship"
+    },
+    {
+      "id": "Champions/2014 Season/Winter Season_3",
+      "tournament": "Champions 2014 Winter",
+      "team": "KT Rolster Bullets",
+      "date": "2014-01-15",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2014_Season%2FWinter_Season"
+    },
+    {
+      "id": "Season 3 Korea Regional Finals_2",
+      "tournament": "Korea Regional Finals Season 3",
+      "team": "KT Rolster Bullets",
+      "date": "2013-09-07",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Season_3_Korea_Regional_Finals"
+    },
+    {
+      "id": "Champions/2013 Season/Summer_2",
+      "tournament": "Champions 2013 Summer",
+      "team": "KT Rolster Bullets",
+      "date": "2013-08-31",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2013_Season%2FSummer"
+    },
+    {
+      "id": "Asian Indoor-Martial Arts Games 2013_1",
+      "tournament": "Asian Indoor-Martial Arts Games 2013",
+      "team": "South Korea (National Team)",
+      "date": "2013-07-01",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Asian_Indoor-Martial_Arts_Games_2013"
+    },
+    {
+      "id": "NLB/2013 Season/Spring_3",
+      "tournament": "NLB 2013 Spring",
+      "team": "KT Rolster B",
+      "date": "2013-06-14",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/NLB%2F2013_Season%2FSpring"
+    },
+    {
+      "id": "Champions/2013 Season/Spring_7",
+      "tournament": "Champions 2013 Spring",
+      "team": "KT Rolster B",
+      "date": "2013-05-10",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2013_Season%2FSpring"
+    },
+    {
+      "id": "2013 MLG Pro Circuit/Winter/Championship_5",
+      "tournament": "MLG 2013 Winter",
+      "team": "KT Rolster B",
+      "date": "2013-03-17",
+      "place": "1",
+      "phase": "International Exhibition",
+      "sourceUrl": "https://lol.fandom.com/wiki/2013_MLG_Pro_Circuit%2FWinter%2FChampionship"
+    },
+    {
+      "id": "2013 MLG Pro Circuit/Winter/Championship/Korean Qualifier_1",
+      "tournament": "2013 MLG Winter Championship - Korean Qualifier",
+      "team": "KT Rolster B",
+      "date": "2013-03-02",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2013_MLG_Pro_Circuit%2FWinter%2FChampionship%2FKorean_Qualifier"
+    },
+    {
+      "id": "OGN Club Masters_3",
+      "tournament": "OGN Club Masters",
+      "team": "KT Rolster (Club Masters)",
+      "date": "2013-02-22",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/OGN_Club_Masters"
+    },
+    {
+      "id": "Champions/2013 Season/Winter_3",
+      "tournament": "Champions 2013 Winter",
+      "team": "KT Rolster B",
+      "date": "2013-01-25",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2013_Season%2FWinter"
+    },
+    {
+      "id": "Enter the Dragon_7",
+      "tournament": "Enter the Dragon (용쟁호투)",
+      "team": "KT Rolster B",
+      "date": "2012-11-20",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Enter_the_Dragon"
+    },
+    {
+      "id": "Champions/2013 Season/Winter Qualifiers_4",
+      "tournament": "Champions 2013 Winter Qualifiers",
+      "team": "KT Rolster B",
+      "date": "2012-10-29",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2013_Season%2FWinter_Qualifiers"
+    },
+    {
+      "id": "Champions/2012 Season/Summer_5",
+      "tournament": "Champions 2012 Summer",
+      "team": "StarTale",
+      "date": "2012-08-01",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2012_Season%2FSummer"
+    },
+    {
+      "id": "Champions/2012 Season/Spring_15",
+      "tournament": "Champions 2012 Spring",
+      "team": "StarTale",
+      "date": "2012-04-13",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2012_Season%2FSpring"
+    },
+    {
+      "id": "OnGameNet LoL Invitational_5",
+      "tournament": "OGN LoL Invitational 2012",
+      "team": "StarTale",
+      "date": "2012-01-20",
+      "place": "5-6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/OnGameNet_LoL_Invitational"
+    },
+    {
+      "id": "Inven Allstar-Tournament 2011_6",
+      "tournament": "Inven Allstar-Tournament 2011",
+      "team": "StarTale",
+      "date": "2011-12-02",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Inven_Allstar-Tournament_2011"
+    }
+  ]
+}

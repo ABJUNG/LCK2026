@@ -1,0 +1,437 @@
+{
+  "schemaVersion": 1,
+  "id": "Nova (Park Chan-ho)",
+  "fetchedAt": "2026-10-07T09:20:41.533078+00:00",
+  "sourceUrl": "https://lol.fandom.com/wiki/Nova_%28Park_Chan-ho%29",
+  "careerStatus": "fetched",
+  "resultsStatus": "fetched",
+  "awardsStatus": "not_collected",
+  "awards": [],
+  "careers": [
+    {
+      "team": "Gen.G",
+      "joinedAt": "2025-12-23",
+      "leftAt": null,
+      "current": true,
+      "joinedPrecision": "1",
+      "leftPrecision": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Nova_%28Park_Chan-ho%29"
+    },
+    {
+      "team": "Gen.G Global Academy",
+      "joinedAt": "2022-12-15",
+      "leftAt": "2023-11-20",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Nova_%28Park_Chan-ho%29"
+    },
+    {
+      "team": "Liiv SANDBOX",
+      "joinedAt": "2022-03-11",
+      "leftAt": "2022-03-16",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Nova_%28Park_Chan-ho%29"
+    },
+    {
+      "team": "Liiv SANDBOX Challengers",
+      "joinedAt": "2020-12-18",
+      "leftAt": "2022-11-21",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Nova_%28Park_Chan-ho%29"
+    },
+    {
+      "team": "Liiv SANDBOX Academy",
+      "joinedAt": "2020-07-22",
+      "leftAt": "2020-12-18",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Nova_%28Park_Chan-ho%29"
+    },
+    {
+      "team": "SUDAEGI GAMING",
+      "joinedAt": "2020-05-17",
+      "leftAt": "2020-05-23",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Nova_%28Park_Chan-ho%29"
+    },
+    {
+      "team": "Seorabeol Gaming",
+      "joinedAt": "2019-12-05",
+      "leftAt": "2020-04-30",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Nova_%28Park_Chan-ho%29"
+    },
+    {
+      "team": "Jin Air Green Wings",
+      "joinedAt": "2018-05-08",
+      "leftAt": "2019-10-30",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Nova_%28Park_Chan-ho%29"
+    },
+    {
+      "team": "APK Prince",
+      "joinedAt": "2017-01-16",
+      "leftAt": "2018-04-30",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Nova_%28Park_Chan-ho%29"
+    }
+  ],
+  "results": [
+    {
+      "id": "LCK/2026 Season/Season Playoffs_1",
+      "tournament": "LCK 2026 Season Playoffs",
+      "team": "Gen.G",
+      "date": "2026-09-13",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 3-4_1_1",
+      "tournament": "LCK 2026 Rounds 3-4",
+      "team": "Gen.G",
+      "date": "2026-08-23",
+      "place": "1",
+      "phase": "Legend Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_3-4"
+    },
+    {
+      "id": "2026 LoL KeSPA Cup_5",
+      "tournament": "KeSPA Cup 2026",
+      "team": "Gen.G",
+      "date": "2026-08-10",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "Esports World Cup 2026_3",
+      "tournament": "Esports World Cup 2026",
+      "team": "Gen.G",
+      "date": "2026-07-19",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Esports_World_Cup_2026"
+    },
+    {
+      "id": "LCK/2026 Season/Road to MSI_3",
+      "tournament": "LCK 2026 Road to MSI",
+      "team": "Gen.G",
+      "date": "2026-06-14",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRoad_to_MSI"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 1-2_3",
+      "tournament": "LCK 2026 Rounds 1-2",
+      "team": "Gen.G",
+      "date": "2026-05-31",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_1-2"
+    },
+    {
+      "id": "2026 First Stand_3",
+      "tournament": "First Stand 2026",
+      "team": "Gen.G",
+      "date": "2026-03-21",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_First_Stand"
+    },
+    {
+      "id": "LCK/2026 Season/Cup_1",
+      "tournament": "LCK Cup 2026",
+      "team": "Gen.G",
+      "date": "2026-03-01",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FCup"
+    },
+    {
+      "id": "LCK CL/2023 Season/Summer Playoffs_6",
+      "tournament": "LCK CL 2023 Summer Playoffs",
+      "team": "Gen.G Global Academy",
+      "date": "2023-08-07",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2023_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK CL/2023 Season/Summer Season_1_7",
+      "tournament": "LCK CL 2023 Summer",
+      "team": "Gen.G Global Academy",
+      "date": "2023-08-04",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2023_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK CL/2023 Season/Spring Season_1_8",
+      "tournament": "LCK CL 2023 Spring",
+      "team": "Gen.G Global Academy",
+      "date": "2023-03-17",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2023_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK CL/2022 Season/Summer Season_1_7",
+      "tournament": "LCK CL 2022 Summer",
+      "team": "Liiv SANDBOX Challengers",
+      "date": "2022-08-12",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2022_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2022 Season/Spring Season_1_9",
+      "tournament": "LCK 2022 Spring",
+      "team": "Liiv SANDBOX",
+      "date": "2022-03-20",
+      "place": "9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2022_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK CL/2022 Season/Spring Season_1_8",
+      "tournament": "LCK CL 2022 Spring",
+      "team": "Liiv SANDBOX Challengers",
+      "date": "2022-03-19",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2022_Season%2FSpring_Season"
+    },
+    {
+      "id": "2021 LoL KeSPA Cup_6",
+      "tournament": "KeSPA Cup 2021",
+      "team": "Liiv SANDBOX Challengers",
+      "date": "2021-12-10",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2021_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK CL/2021 Season/Summer Playoffs_5",
+      "tournament": "LCK CL 2021 Summer Playoffs",
+      "team": "Liiv SANDBOX Challengers",
+      "date": "2021-08-17",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2021_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK CL/2021 Season/Summer Season_1_5",
+      "tournament": "LCK CL 2021 Summer",
+      "team": "Liiv SANDBOX Challengers",
+      "date": "2021-08-10",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2021_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK CL/2021 Season/Spring Playoffs_6",
+      "tournament": "LCK CL 2021 Spring Playoffs",
+      "team": "Liiv SANDBOX Challengers",
+      "date": "2021-03-29",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2021_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK CL/2021 Season/Spring Season_1_6",
+      "tournament": "LCK CL 2021 Spring",
+      "team": "Liiv SANDBOX Challengers",
+      "date": "2021-03-23",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2021_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK Academy Series/2020 Season/Championship_3",
+      "tournament": "LCK AS 2020 Championship",
+      "team": "Liiv SANDBOX Academy",
+      "date": "2020-12-20",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2020_Season%2FChampionship"
+    },
+    {
+      "id": "LCK Academy Series/2020 Season/November_7",
+      "tournament": "LCK AS 2020 November",
+      "team": "SANDBOX Gaming Academy",
+      "date": "2020-11-21",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2020_Season%2FNovember"
+    },
+    {
+      "id": "LCK Academy Series/2020 Season/October_10",
+      "tournament": "LCK AS 2020 October",
+      "team": "SANDBOX Gaming Academy",
+      "date": "2020-10-17",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2020_Season%2FOctober"
+    },
+    {
+      "id": "Ambition League_4",
+      "tournament": "Ambition League",
+      "team": "SANDBOX Gaming Academy",
+      "date": "2020-09-26",
+      "place": "4-5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Ambition_League"
+    },
+    {
+      "id": "LCK Academy Series/2020 Season/September_4",
+      "tournament": "LCK AS 2020 September",
+      "team": "SANDBOX Gaming Academy",
+      "date": "2020-09-13",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2020_Season%2FSeptember"
+    },
+    {
+      "id": "LCK Academy Series/2020 Season/August_8",
+      "tournament": "LCK AS 2020 August",
+      "team": "SANDBOX Gaming Academy",
+      "date": "2020-08-08",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2020_Season%2FAugust"
+    },
+    {
+      "id": "Challengers Korea/2020 Season/Summer Promotion/Qualifiers_13",
+      "tournament": "CK 2020 Summer Promotion Qualifiers",
+      "team": "SUDAEGI GAMING",
+      "date": "2020-05-23",
+      "place": "NQ",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2020_Season%2FSummer_Promotion%2FQualifiers"
+    },
+    {
+      "id": "LCK/2020 Season/Summer Promotion_3",
+      "tournament": "LCK 2020 Summer Promotion",
+      "team": "Seorabeol Gaming",
+      "date": "2020-04-30",
+      "place": "NQ",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2020_Season%2FSummer_Promotion"
+    },
+    {
+      "id": "Challengers Korea/2020 Season/Spring Season_1",
+      "tournament": "CK 2020 Spring",
+      "team": "Seorabeol Gaming",
+      "date": "2020-04-17",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2020_Season%2FSpring_Season"
+    },
+    {
+      "id": "Challengers Korea/2020 Season/Spring Promotion/Qualifiers_7",
+      "tournament": "CK 2020 Spring Promotion Qualifiers",
+      "team": "Seorabeol Gaming",
+      "date": "2019-12-15",
+      "place": "NQ",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2020_Season%2FSpring_Promotion%2FQualifiers"
+    },
+    {
+      "id": "LCK/2020 Season/Spring Promotion_3",
+      "tournament": "LCK 2020 Spring Promotion",
+      "team": "Jin Air Green Wings",
+      "date": "2019-09-11",
+      "place": "NQ",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2020_Season%2FSpring_Promotion"
+    },
+    {
+      "id": "LCK/2019 Season/Summer Season_10",
+      "tournament": "LCK 2019 Summer",
+      "team": "Jin Air Green Wings",
+      "date": "2019-08-18",
+      "place": "10",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2019_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2019 Season/Summer Promotion_2",
+      "tournament": "LCK 2019 Summer Promotion",
+      "team": "Jin Air Green Wings",
+      "date": "2019-04-21",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2019_Season%2FSummer_Promotion"
+    },
+    {
+      "id": "LCK/2019 Season/Spring Season_10",
+      "tournament": "LCK 2019 Spring",
+      "team": "Jin Air Green Wings",
+      "date": "2019-03-31",
+      "place": "10",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2019_Season%2FSpring_Season"
+    },
+    {
+      "id": "2018 LoL KeSPA Cup_10",
+      "tournament": "KeSPA Cup 2018",
+      "team": "Jin Air Green Wings",
+      "date": "2018-12-24",
+      "place": "9-12",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2018_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK/2018 Season/Summer Season_8",
+      "tournament": "LCK 2018 Summer",
+      "team": "Jin Air Green Wings",
+      "date": "2018-08-09",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2018_Season%2FSummer_Season"
+    },
+    {
+      "id": "Challengers Korea/2017 Season/Summer Playoffs_3",
+      "tournament": "CK 2017 Summer Playoffs",
+      "team": "APK Prince",
+      "date": "2017-08-21",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2017_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "Challengers Korea/2017 Season/Summer Season_1_4",
+      "tournament": "CK 2017 Summer",
+      "team": "APK Prince",
+      "date": "2017-08-14",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2017_Season%2FSummer_Season"
+    },
+    {
+      "id": "Challengers Korea/2017 Season/Spring Season_1_5",
+      "tournament": "CK 2017 Spring",
+      "team": "APK Prince",
+      "date": "2017-04-10",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2017_Season%2FSpring_Season"
+    }
+  ]
+}

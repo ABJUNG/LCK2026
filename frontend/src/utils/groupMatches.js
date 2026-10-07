@@ -5,10 +5,16 @@ const setOrder = (a, b) => Number(a.setNumber) - Number(b.setNumber) || timestam
 function alignTeams(match, teamA) {
   if (match.teamA === teamA) return { ...match };
   const aligned = { ...match, teamA: match.teamB, teamB: match.teamA };
-  for (const field of ['players', 'bans', 'score']) {
+  for (const field of ['players', 'bans', 'score', 'objects', 'teamSides']) {
     if (match[field]) aligned[field] = { ...match[field], teamA: match[field].teamB, teamB: match[field].teamA };
   }
   return aligned;
+}
+
+// Series scores retain a fixed team order; set results follow the verified map side.
+export function orientBySide(match) {
+  return match.teamSides?.teamA === 'RED' && match.teamSides?.teamB === 'BLUE'
+    ? alignTeams(match, match.teamB) : match;
 }
 
 export function groupMatches(matches) {

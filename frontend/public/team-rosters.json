@@ -1,0 +1,1636 @@
+{
+  "schemaVersion": 1,
+  "fetchedAt": "2026-10-07T09:10:28.165777+00:00",
+  "scope": "current-source-roster",
+  "source": "Leaguepedia",
+  "license": "CC BY-SA 3.0",
+  "teams": [
+    {
+      "name": "T1",
+      "sourceUrl": "https://lol.fandom.com/wiki/T1",
+      "members": [
+        {
+          "id": "Doran (Choi Hyeon-jun)",
+          "nickname": "Doran",
+          "name": "최현준",
+          "country": "South Korea",
+          "roles": [
+            "Top"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2024-11-19",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2024-11-19 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Doran_%28Choi_Hyeon-jun%29",
+          "profileKey": "73b6bb25f732b9784ec6999e"
+        },
+        {
+          "id": "Oner",
+          "nickname": "Oner",
+          "name": "문현준",
+          "country": "South Korea",
+          "roles": [
+            "Jungle"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2020-12-01",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2021-07-15 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Oner",
+          "profileKey": "1bba52c3bd63b4c26ef921e0"
+        },
+        {
+          "id": "Faker",
+          "nickname": "Faker",
+          "name": "이상혁",
+          "country": "South Korea",
+          "roles": [
+            "Mid",
+            "Part-Owner"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2019-12-08",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2023-08-01 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Faker",
+          "profileKey": "a9073fde3cbebd2c0efff633"
+        },
+        {
+          "id": "Peyz",
+          "nickname": "Peyz",
+          "name": "김수환",
+          "country": "South Korea",
+          "roles": [
+            "Bot"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-11-19",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2025-11-19 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Peyz",
+          "profileKey": "9820bfd30f22833382f6ba19"
+        },
+        {
+          "id": "Keria",
+          "nickname": "Keria",
+          "name": "류민석",
+          "country": "South Korea",
+          "roles": [
+            "Support"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2020-11-17",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2020-11-17 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Keria",
+          "profileKey": "c375f5f7e21420dd7df6aceb"
+        },
+        {
+          "id": "Easyhoon",
+          "nickname": "Easyhoon",
+          "name": "이지훈",
+          "country": "South Korea",
+          "roles": [
+            "Coach"
+          ],
+          "group": "staff",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2026-04-22",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2026-04-22 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Easyhoon",
+          "profileKey": "f2a94aa4e2d774917d0f55f3"
+        },
+        {
+          "id": "KkOma",
+          "nickname": "kkOma",
+          "name": "김정균",
+          "country": "South Korea",
+          "roles": [
+            "Head Coach"
+          ],
+          "group": "staff",
+          "status": "inactive",
+          "roleModifier": "",
+          "joinedAt": "2023-11-20",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2026-03-22 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/KkOma",
+          "profileKey": "8620838149f25881d2e70952"
+        },
+        {
+          "id": "Mata",
+          "nickname": "Mata",
+          "name": "조세형",
+          "country": "South Korea",
+          "roles": [
+            "Coach"
+          ],
+          "group": "staff",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2024-11-21",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2024-11-21 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Mata",
+          "profileKey": "cfc765debde66f35784f55f9"
+        },
+        {
+          "id": "Tom (Im Jae-hyeon)",
+          "nickname": "Tom",
+          "name": "임재현",
+          "country": "South Korea",
+          "roles": [
+            "Interim Head Coach"
+          ],
+          "group": "staff",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2022-11-28",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2026-03-22 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Tom_%28Im_Jae-hyeon%29",
+          "profileKey": "4e93c6657ad07e0ea5ee785a"
+        }
+      ]
+    },
+    {
+      "name": "Gen.G",
+      "sourceUrl": "https://lol.fandom.com/wiki/Gen.G",
+      "members": [
+        {
+          "id": "Kiin",
+          "nickname": "Kiin",
+          "name": "김기인",
+          "country": "South Korea",
+          "roles": [
+            "Top"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2024-11-20",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2024-11-20 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Kiin",
+          "profileKey": "a4828757cdd13134c006339e"
+        },
+        {
+          "id": "Canyon",
+          "nickname": "Canyon",
+          "name": "김건부",
+          "country": "South Korea",
+          "roles": [
+            "Jungle"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-11-19",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2025-11-19 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Canyon",
+          "profileKey": "5ab895c8cc30de98cba7265f"
+        },
+        {
+          "id": "Chovy",
+          "nickname": "Chovy",
+          "name": "정지훈",
+          "country": "South Korea",
+          "roles": [
+            "Mid"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2024-11-20",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2024-11-20 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Chovy",
+          "profileKey": "65b2bb5d84203819a7f17f85"
+        },
+        {
+          "id": "Ruler",
+          "nickname": "Ruler",
+          "name": "박재혁",
+          "country": "South Korea",
+          "roles": [
+            "Bot"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2024-11-20",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2024-11-20 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Ruler",
+          "profileKey": "b2eb0fa2b0167b6c922f813e"
+        },
+        {
+          "id": "Duro",
+          "nickname": "Duro",
+          "name": "주민규",
+          "country": "South Korea",
+          "roles": [
+            "Support"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2024-11-20",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2024-11-20 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Duro",
+          "profileKey": "649f085c70b1304a9da1559c"
+        },
+        {
+          "id": "Lyn",
+          "nickname": "Lyn",
+          "name": "김다빈",
+          "country": "South Korea",
+          "roles": [
+            "Coach"
+          ],
+          "group": "staff",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-11-28",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2025-11-28 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Lyn",
+          "profileKey": "e5884305cfa35f6efbfea72d"
+        },
+        {
+          "id": "Nova (Park Chan-ho)",
+          "nickname": "Nova",
+          "name": "박찬호",
+          "country": "South Korea",
+          "roles": [
+            "Coach"
+          ],
+          "group": "staff",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-12-23",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2025-12-23 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Nova_%28Park_Chan-ho%29",
+          "profileKey": "57432b018b104af79e5608c2"
+        },
+        {
+          "id": "Ryu",
+          "nickname": "Ryu",
+          "name": "류상욱",
+          "country": "South Korea",
+          "roles": [
+            "Head Coach"
+          ],
+          "group": "staff",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-11-17",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2025-11-17 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Ryu",
+          "profileKey": "b50988561c5b62c89da0a521"
+        }
+      ]
+    },
+    {
+      "name": "Hanwha Life Esports",
+      "sourceUrl": "https://lol.fandom.com/wiki/Hanwha_Life_Esports",
+      "members": [
+        {
+          "id": "Zeus",
+          "nickname": "Zeus",
+          "name": "최우제",
+          "country": "South Korea",
+          "roles": [
+            "Top"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2024-11-20",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2024-11-20 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Zeus",
+          "profileKey": "0ff0ef099ecb754b08b36053"
+        },
+        {
+          "id": "Kanavi",
+          "nickname": "Kanavi",
+          "name": "서진혁",
+          "country": "South Korea",
+          "roles": [
+            "Jungle"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-11-23",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2025-11-23 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Kanavi",
+          "profileKey": "f14a87d7f36ecb01e1ed44dc"
+        },
+        {
+          "id": "Zeka (Kim Geon-woo)",
+          "nickname": "Zeka",
+          "name": "김건우",
+          "country": "South Korea",
+          "roles": [
+            "Mid"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2022-11-24",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2022-11-24 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Zeka_%28Kim_Geon-woo%29",
+          "profileKey": "bb630851820ac49d8648751a"
+        },
+        {
+          "id": "Gumayusi",
+          "nickname": "Gumayusi",
+          "name": "이민형",
+          "country": "South Korea",
+          "roles": [
+            "Bot"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-11-23",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2025-11-23 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Gumayusi",
+          "profileKey": "436bedb688e48fbaa36ff493"
+        },
+        {
+          "id": "Delight",
+          "nickname": "Delight",
+          "name": "유환중",
+          "country": "South Korea",
+          "roles": [
+            "Support"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2023-11-22",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2023-11-22 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Delight",
+          "profileKey": "1643635c12cab0825568be20"
+        },
+        {
+          "id": "Homme",
+          "nickname": "Homme",
+          "name": "윤성영",
+          "country": "South Korea",
+          "roles": [
+            "Head Coach"
+          ],
+          "group": "staff",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-11-27",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2025-11-27 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Homme",
+          "profileKey": "f7f9ca3e2f67af2a1076e0b2"
+        },
+        {
+          "id": "Mowgli",
+          "nickname": "Mowgli",
+          "name": "이재하",
+          "country": "South Korea",
+          "roles": [
+            "Coach"
+          ],
+          "group": "staff",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2022-11-30",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2022-11-30 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Mowgli",
+          "profileKey": "01bbfedea457570995b394e9"
+        },
+        {
+          "id": "Sin (Yeon Hyeong-mo)",
+          "nickname": "Sin",
+          "name": "연형모",
+          "country": "South Korea",
+          "roles": [
+            "Coach"
+          ],
+          "group": "staff",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-12-15",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2025-12-15 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Sin_%28Yeon_Hyeong-mo%29",
+          "profileKey": "86cf35b82c484fab50ba3211"
+        }
+      ]
+    },
+    {
+      "name": "KT Rolster",
+      "sourceUrl": "https://lol.fandom.com/wiki/KT_Rolster",
+      "members": [
+        {
+          "id": "PerfecT (Lee Seung-min)",
+          "nickname": "PerfecT",
+          "name": "이승민",
+          "country": "South Korea",
+          "roles": [
+            "Top"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2023-12-01",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2023-12-01 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/PerfecT_%28Lee_Seung-min%29",
+          "profileKey": "b41c1200f21b87f0a6a10f1a"
+        },
+        {
+          "id": "Cuzz",
+          "nickname": "Cuzz",
+          "name": "문우찬",
+          "country": "South Korea",
+          "roles": [
+            "Jungle"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2024-11-20",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2024-11-20 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Cuzz",
+          "profileKey": "0c0f58a08adac02c58551fc9"
+        },
+        {
+          "id": "Bdd",
+          "nickname": "Bdd",
+          "name": "곽보성",
+          "country": "South Korea",
+          "roles": [
+            "Mid"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2022-11-22",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2022-11-22 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Bdd",
+          "profileKey": "acdca2630bc3ca67a5f37189"
+        },
+        {
+          "id": "Jiwoo",
+          "nickname": "Jiwoo",
+          "name": "정지우",
+          "country": "South Korea",
+          "roles": [
+            "Bot"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2026-08-25",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2026-08-25 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Jiwoo",
+          "profileKey": "998f7d4065744c0082b14aab"
+        },
+        {
+          "id": "Effort",
+          "nickname": "Effort",
+          "name": "이상호",
+          "country": "South Korea",
+          "roles": [
+            "Support"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2026-03-22",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2026-03-22 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Effort",
+          "profileKey": "4387e5d3966fc43653279276"
+        },
+        {
+          "id": "Highness",
+          "nickname": "Highness",
+          "name": "박지원",
+          "country": "South Korea",
+          "roles": [
+            "Analyst"
+          ],
+          "group": "staff",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2024-05-27",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2024-05-27 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Highness",
+          "profileKey": "315ed5aebc3247dc5cd1025d"
+        },
+        {
+          "id": "Museong",
+          "nickname": "Museong",
+          "name": "김무성",
+          "country": "South Korea",
+          "roles": [
+            "Coach"
+          ],
+          "group": "staff",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2023-11-30",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2023-11-30 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Museong",
+          "profileKey": "6db1d87ed0bc43c530ecb592"
+        },
+        {
+          "id": "Score",
+          "nickname": "Score",
+          "name": "고동빈",
+          "country": "South Korea",
+          "roles": [
+            "Head Coach"
+          ],
+          "group": "staff",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2024-11-21",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2024-11-21 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Score",
+          "profileKey": "38e5a46cbc5ad32842ac60a4"
+        },
+        {
+          "id": "Sonstar",
+          "nickname": "Sonstar",
+          "name": "손승익",
+          "country": "South Korea",
+          "roles": [
+            "Coach"
+          ],
+          "group": "staff",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-01-06",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2025-01-06 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Sonstar",
+          "profileKey": "d1279a0680cc9ecd321a78ea"
+        }
+      ]
+    },
+    {
+      "name": "Dplus KIA",
+      "sourceUrl": "https://lol.fandom.com/wiki/Dplus_KIA",
+      "members": [
+        {
+          "id": "Siwoo",
+          "nickname": "Siwoo",
+          "name": "전시우",
+          "country": "South Korea",
+          "roles": [
+            "Top"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2024-11-19",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2024-11-19 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Siwoo",
+          "profileKey": "d0c20ed59ee4196718a1d0d9"
+        },
+        {
+          "id": "Lucid (Choi Yong-hyeok)",
+          "nickname": "Lucid",
+          "name": "최용혁",
+          "country": "South Korea",
+          "roles": [
+            "Jungle"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2023-11-23",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2023-11-23 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Lucid_%28Choi_Yong-hyeok%29",
+          "profileKey": "c99a356bfaceeab2d5368034"
+        },
+        {
+          "id": "ShowMaker",
+          "nickname": "ShowMaker",
+          "name": "허수",
+          "country": "South Korea",
+          "roles": [
+            "Mid"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2021-12-01",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2023-01-09 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/ShowMaker",
+          "profileKey": "fe04ca019dbcb1fe79d418d7"
+        },
+        {
+          "id": "Smash (Shin Geum-jae)",
+          "nickname": "Smash",
+          "name": "신금재",
+          "country": "South Korea",
+          "roles": [
+            "Bot"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-11-21",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2025-11-21 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Smash_%28Shin_Geum-jae%29",
+          "profileKey": "360aee83456365537256751f"
+        },
+        {
+          "id": "Career",
+          "nickname": "Career",
+          "name": "오형석",
+          "country": "South Korea",
+          "roles": [
+            "Support"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-11-21",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2025-11-21 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Career",
+          "profileKey": "732863fa5c6125a201487a2f"
+        },
+        {
+          "id": "CvMax",
+          "nickname": "cvMax",
+          "name": "김대호",
+          "country": "South Korea",
+          "roles": [
+            "Head Coach"
+          ],
+          "group": "staff",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-06-18",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2025-11-17 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/CvMax",
+          "profileKey": "f9e84767e6c7fdc2351a2332"
+        },
+        {
+          "id": "Hachani",
+          "nickname": "Hachani",
+          "name": "하승찬",
+          "country": "South Korea",
+          "roles": [
+            "Coach"
+          ],
+          "group": "staff",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-11-21",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2025-11-21 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Hachani",
+          "profileKey": "b8da0475923300a797e21e59"
+        },
+        {
+          "id": "PoohManDu",
+          "nickname": "PoohManDu",
+          "name": "이정현",
+          "country": "South Korea",
+          "roles": [
+            "Coach"
+          ],
+          "group": "staff",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-11-21",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2025-11-21 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/PoohManDu",
+          "profileKey": "11f77f181ef2e2973205f39c"
+        }
+      ]
+    },
+    {
+      "name": "BNK FEARX",
+      "sourceUrl": "https://lol.fandom.com/wiki/BNK_FEARX",
+      "members": [
+        {
+          "id": "Clear (Song Hyeon-min)",
+          "nickname": "Clear",
+          "name": "송현민",
+          "country": "South Korea",
+          "roles": [
+            "Top"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2023-12-15",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2024-05-23 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Clear_%28Song_Hyeon-min%29",
+          "profileKey": "22ecf5dcffc786104c15744e"
+        },
+        {
+          "id": "Raptor (Jeon Eo-jin)",
+          "nickname": "Raptor",
+          "name": "전어진",
+          "country": "South Korea",
+          "roles": [
+            "Jungle"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2024-06-09",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2024-06-09 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Raptor_%28Jeon_Eo-jin%29",
+          "profileKey": "5e0cadac21cdadf098cf9bd3"
+        },
+        {
+          "id": "Daystar",
+          "nickname": "Daystar",
+          "name": "유지명",
+          "country": "South Korea",
+          "roles": [
+            "Mid"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "Sub",
+          "joinedAt": "2025-11-13",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2025-11-13 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Daystar",
+          "profileKey": "a6c6fea31da853c9ccf17aa0"
+        },
+        {
+          "id": "VicLa",
+          "nickname": "VicLa",
+          "name": "이대광",
+          "country": "South Korea",
+          "roles": [
+            "Mid"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2024-11-22",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2024-11-22 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/VicLa",
+          "profileKey": "063916eae648efa7fd2d79cf"
+        },
+        {
+          "id": "Taeyoon (Kim Tae-yoon)",
+          "nickname": "Taeyoon",
+          "name": "김태윤",
+          "country": "South Korea",
+          "roles": [
+            "Bot"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2026-04-30",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2026-04-30 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Taeyoon_%28Kim_Tae-yoon%29",
+          "profileKey": "d44e5ee3fef3e1c876456536"
+        },
+        {
+          "id": "Kellin",
+          "nickname": "Kellin",
+          "name": "김형규",
+          "country": "South Korea",
+          "roles": [
+            "Support"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2024-11-21",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2024-11-21 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Kellin",
+          "profileKey": "9da632e02ae1f50d158b8484"
+        },
+        {
+          "id": "Edo (Park Jun-seok)",
+          "nickname": "Edo",
+          "name": "박준석",
+          "country": "South Korea",
+          "roles": [
+            "Head Coach"
+          ],
+          "group": "staff",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-11-19",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2025-11-19 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Edo_%28Park_Jun-seok%29",
+          "profileKey": "97f8a80ad6b44b3a1cfc265d"
+        },
+        {
+          "id": "Lira",
+          "nickname": "Lira",
+          "name": "남태유",
+          "country": "South Korea",
+          "roles": [
+            "Coach"
+          ],
+          "group": "staff",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-11-25",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2025-11-25 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Lira",
+          "profileKey": "9bbd74016f4b175630523562"
+        },
+        {
+          "id": "Rather",
+          "nickname": "Rather",
+          "name": "신형섭",
+          "country": "South Korea",
+          "roles": [
+            "Coach"
+          ],
+          "group": "staff",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-11-20",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2025-11-20 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Rather",
+          "profileKey": "3f5362ab9b3604b05c6c5d29"
+        }
+      ]
+    },
+    {
+      "name": "DN SOOPers",
+      "sourceUrl": "https://lol.fandom.com/wiki/DN_SOOPers",
+      "members": [
+        {
+          "id": "DuDu (Lee Dong-ju)",
+          "nickname": "DuDu",
+          "name": "이동주",
+          "country": "South Korea",
+          "roles": [
+            "Top"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2022-11-30",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2025-12-21 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/DuDu_%28Lee_Dong-ju%29",
+          "profileKey": "3c3627b36019af57f619bcac"
+        },
+        {
+          "id": "Pyosik",
+          "nickname": "Pyosik",
+          "name": "홍창현",
+          "country": "South Korea",
+          "roles": [
+            "Jungle"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2024-11-18",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2025-12-21 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Pyosik",
+          "profileKey": "206ae5da084f4e2d77daa303"
+        },
+        {
+          "id": "Sharvel",
+          "nickname": "Sharvel",
+          "name": "김단우",
+          "country": "South Korea",
+          "roles": [
+            "Jungle"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2026-06-29",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2026-06-29 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Sharvel",
+          "profileKey": "7317cf674ef8e0372b349550"
+        },
+        {
+          "id": "Clozer",
+          "nickname": "Clozer",
+          "name": "이주현",
+          "country": "South Korea",
+          "roles": [
+            "Mid"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-11-20",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2025-12-21 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Clozer",
+          "profileKey": "ef74ece70154e63b2a9c869a"
+        },
+        {
+          "id": "Deokdam",
+          "nickname": "deokdam",
+          "name": "서대길",
+          "country": "South Korea",
+          "roles": [
+            "Bot"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-11-20",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2025-12-21 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Deokdam",
+          "profileKey": "93368eae8ff5cd7bb10ef3cd"
+        },
+        {
+          "id": "Life",
+          "nickname": "Life",
+          "name": "김정민",
+          "country": "South Korea",
+          "roles": [
+            "Support"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2024-11-18",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2025-12-21 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Life",
+          "profileKey": "52d46ffedcf86c4d0859f4b7"
+        },
+        {
+          "id": "Peter (Jeong Yoon-su)",
+          "nickname": "Peter",
+          "name": "정윤수",
+          "country": "South Korea",
+          "roles": [
+            "Support"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2026-07-23",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2026-07-23 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Peter_%28Jeong_Yoon-su%29",
+          "profileKey": "da61a7bece1897a5c1c4619a"
+        },
+        {
+          "id": "Ggoong",
+          "nickname": "Ggoong",
+          "name": "유병준",
+          "country": "South Korea",
+          "roles": [
+            "Interim Head Coach"
+          ],
+          "group": "staff",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-11-18",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2026-05-18 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Ggoong",
+          "profileKey": "2d0e4fb1206a82efa3431c91"
+        },
+        {
+          "id": "Minit",
+          "nickname": "Minit",
+          "name": "양현민",
+          "country": "South Korea",
+          "roles": [
+            "Coach"
+          ],
+          "group": "staff",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-07-03",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2025-12-21 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Minit",
+          "profileKey": "50fad7c8fa568acac5544f6e"
+        }
+      ]
+    },
+    {
+      "name": "Nongshim RedForce",
+      "sourceUrl": "https://lol.fandom.com/wiki/Nongshim_RedForce",
+      "members": [
+        {
+          "id": "Kingen",
+          "nickname": "Kingen",
+          "name": "황성훈",
+          "country": "South Korea",
+          "roles": [
+            "Top"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2024-11-21",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2024-11-21 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Kingen",
+          "profileKey": "f6fbd0628c11bbbce797623f"
+        },
+        {
+          "id": "Sponge",
+          "nickname": "Sponge",
+          "name": "배영준",
+          "country": "South Korea",
+          "roles": [
+            "Jungle"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-11-18",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2025-11-18 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Sponge",
+          "profileKey": "a380544c4b4ff846215a3ce3"
+        },
+        {
+          "id": "Calix (Syun Hyun-bin)",
+          "nickname": "Calix",
+          "name": "선현빈",
+          "country": "South Korea",
+          "roles": [
+            "Mid"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "Sub",
+          "joinedAt": "2025-04-16",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2025-11-21 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Calix_%28Syun_Hyun-bin%29",
+          "profileKey": "16a5e06016e6efe91c8a9ce4"
+        },
+        {
+          "id": "Scout",
+          "nickname": "Scout",
+          "name": "이예찬",
+          "country": "South Korea",
+          "roles": [
+            "Mid"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-11-20",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2025-11-20 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Scout",
+          "profileKey": "8a1db462be7537747b0f0b48"
+        },
+        {
+          "id": "Diable",
+          "nickname": "Diable",
+          "name": "남대근",
+          "country": "South Korea",
+          "roles": [
+            "Bot"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2026-04-30",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2026-04-30 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Diable",
+          "profileKey": "182b0a73672bd9011031260c"
+        },
+        {
+          "id": "Lehends",
+          "nickname": "Lehends",
+          "name": "손시우",
+          "country": "South Korea",
+          "roles": [
+            "Support"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2024-11-21",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2024-11-21 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Lehends",
+          "profileKey": "72db4b55f1e8fcaaf9826ddf"
+        },
+        {
+          "id": "Chelly (Park Seung-jin)",
+          "nickname": "Chelly",
+          "name": "박승진",
+          "country": "South Korea",
+          "roles": [
+            "Coach"
+          ],
+          "group": "staff",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2022-11-22",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2025-11-19 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Chelly_%28Park_Seung-jin%29",
+          "profileKey": "06f7e7eec970588abe3ff250"
+        },
+        {
+          "id": "Crazy (Kim Jae-hee)",
+          "nickname": "Crazy",
+          "name": "김재희",
+          "country": "South Korea",
+          "roles": [
+            "Coach"
+          ],
+          "group": "staff",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2024-11-21",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2024-11-21 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Crazy_%28Kim_Jae-hee%29",
+          "profileKey": "953c9dea7032c17386336a83"
+        },
+        {
+          "id": "DanDy",
+          "nickname": "DanDy",
+          "name": "최인규",
+          "country": "South Korea",
+          "roles": [
+            "Head Coach"
+          ],
+          "group": "staff",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-11-19",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2025-11-19 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/DanDy",
+          "profileKey": "fe2f6a8816254839aa686b67"
+        }
+      ]
+    },
+    {
+      "name": "KIWOOM DRX",
+      "sourceUrl": "https://lol.fandom.com/wiki/KIWOOM_DRX",
+      "members": [
+        {
+          "id": "Frog (Lee Min-hoi)",
+          "nickname": "Frog",
+          "name": "이민회",
+          "country": "South Korea",
+          "roles": [
+            "Top"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2026-07-23",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2026-07-23 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Frog_%28Lee_Min-hoi%29",
+          "profileKey": "157b730db82c6933fbbe8698"
+        },
+        {
+          "id": "Vincenzo (Ha Seung-min)",
+          "nickname": "Vincenzo",
+          "name": "하승민",
+          "country": "South Korea",
+          "roles": [
+            "Jungle"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "Sub",
+          "joinedAt": "2025-11-18",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2026-03-19 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Vincenzo_%28Ha_Seung-min%29",
+          "profileKey": "b1dd7b0fcadfde20a1b4f7aa"
+        },
+        {
+          "id": "Willer",
+          "nickname": "Willer",
+          "name": "김정현",
+          "country": "South Korea",
+          "roles": [
+            "Jungle"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-11-18",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2026-03-19 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Willer",
+          "profileKey": "1dd770d819d95eda65b246ac"
+        },
+        {
+          "id": "Ucal",
+          "nickname": "Ucal",
+          "name": "손우현",
+          "country": "South Korea",
+          "roles": [
+            "Mid"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-12-04",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2026-03-19 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Ucal",
+          "profileKey": "46a90d22acd8da8642a9a384"
+        },
+        {
+          "id": "Aiming",
+          "nickname": "Aiming",
+          "name": "김하람",
+          "country": "South Korea",
+          "roles": [
+            "Bot"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2026-07-30",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2026-07-30 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Aiming",
+          "profileKey": "7686b834266d6ce1d1b87a71"
+        },
+        {
+          "id": "Andil",
+          "nickname": "Andil",
+          "name": "문관빈",
+          "country": "South Korea",
+          "roles": [
+            "Support"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2024-11-26",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2026-03-19 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Andil",
+          "profileKey": "a2fe7400ba9316ea37df5451"
+        },
+        {
+          "id": "Joker (Cho Jae-eup)",
+          "nickname": "Joker",
+          "name": "조재읍",
+          "country": "South Korea",
+          "roles": [
+            "Head Coach"
+          ],
+          "group": "staff",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-11-18",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2026-03-19 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Joker_%28Cho_Jae-eup%29",
+          "profileKey": "f7b6d2f3c9de12d3d594d0a5"
+        },
+        {
+          "id": "Naehyun",
+          "nickname": "Naehyun",
+          "name": "유내현",
+          "country": "South Korea",
+          "roles": [
+            "Coach"
+          ],
+          "group": "staff",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-11-18",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2026-03-19 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Naehyun",
+          "profileKey": "feea74a5b1f1cfd5524ee0df"
+        },
+        {
+          "id": "Saroo",
+          "nickname": "Saroo",
+          "name": "이종원",
+          "country": "South Korea",
+          "roles": [
+            "Coach"
+          ],
+          "group": "staff",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2026-07-16",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2026-07-16 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Saroo",
+          "profileKey": "182e52a4fc2f23d7a8fbd2e1"
+        }
+      ]
+    },
+    {
+      "name": "HANJIN BRION",
+      "sourceUrl": "https://lol.fandom.com/wiki/HANJIN_BRION",
+      "members": [
+        {
+          "id": "Casting",
+          "nickname": "Casting",
+          "name": "신민제",
+          "country": "South Korea",
+          "roles": [
+            "Top"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-11-21",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2026-01-01 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Casting",
+          "profileKey": "0c9e7b062660e3dcb0ea2efe"
+        },
+        {
+          "id": "GIDEON",
+          "nickname": "GIDEON",
+          "name": "김민성",
+          "country": "South Korea",
+          "roles": [
+            "Jungle"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-11-21",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2026-01-01 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/GIDEON",
+          "profileKey": "163f10c08fc746d06b5ad32f"
+        },
+        {
+          "id": "Pungyeon",
+          "nickname": "Pungyeon",
+          "name": "이종혁",
+          "country": "South Korea",
+          "roles": [
+            "Mid"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "Sub",
+          "joinedAt": "2026-06-29",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2026-06-29 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Pungyeon",
+          "profileKey": "dbc6b8c0fe5b55bf51a38a48"
+        },
+        {
+          "id": "Roamer",
+          "nickname": "Roamer",
+          "name": "조우진",
+          "country": "South Korea",
+          "roles": [
+            "Mid"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-12-28",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2026-01-01 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Roamer",
+          "profileKey": "0544f8dbb5c228c828b9eb0b"
+        },
+        {
+          "id": "Teddy",
+          "nickname": "Teddy",
+          "name": "박진성",
+          "country": "South Korea",
+          "roles": [
+            "Bot"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-11-20",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2026-01-01 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Teddy",
+          "profileKey": "c4336ca98d45385e52787a3e"
+        },
+        {
+          "id": "Namgung",
+          "nickname": "Namgung",
+          "name": "남궁성훈",
+          "country": "South Korea",
+          "roles": [
+            "Support"
+          ],
+          "group": "players",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-11-22",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2026-01-01 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Namgung",
+          "profileKey": "dca759c6920db39afe6fe706"
+        },
+        {
+          "id": "Duke (Lee Ho-seong)",
+          "nickname": "Duke",
+          "name": "이호성",
+          "country": "South Korea",
+          "roles": [
+            "Coach"
+          ],
+          "group": "staff",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-06-19",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2026-01-01 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Duke_%28Lee_Ho-seong%29",
+          "profileKey": "baa8d7ad4b75f0da7ce81fcf"
+        },
+        {
+          "id": "Reach (Park Jung-suk)",
+          "nickname": "Reach",
+          "name": "박정석",
+          "country": "South Korea",
+          "roles": [
+            "Manager"
+          ],
+          "group": "staff",
+          "status": null,
+          "roleModifier": null,
+          "joinedAt": null,
+          "joinedPrecision": null,
+          "roleRecordAt": null,
+          "roleVerified": false,
+          "sourceUrl": "https://lol.fandom.com/wiki/Reach_%28Park_Jung-suk%29",
+          "profileKey": "e5f43784f3d56425abd9e742"
+        },
+        {
+          "id": "Ssong",
+          "nickname": "Ssong",
+          "name": "김상수",
+          "country": "South Korea",
+          "roles": [
+            "Head Coach"
+          ],
+          "group": "staff",
+          "status": "",
+          "roleModifier": "",
+          "joinedAt": "2025-11-19",
+          "joinedPrecision": "1",
+          "roleRecordAt": "2026-01-01 00:00:00",
+          "roleVerified": true,
+          "sourceUrl": "https://lol.fandom.com/wiki/Ssong",
+          "profileKey": "ef2f14b2feb2e37ea4148592"
+        }
+      ]
+    }
+  ]
+}

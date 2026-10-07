@@ -1,0 +1,455 @@
+{
+  "schemaVersion": 1,
+  "id": "Saroo",
+  "fetchedAt": "2026-10-07T09:20:41.533078+00:00",
+  "sourceUrl": "https://lol.fandom.com/wiki/Saroo",
+  "careerStatus": "fetched",
+  "resultsStatus": "fetched",
+  "awardsStatus": "not_collected",
+  "awards": [],
+  "careers": [
+    {
+      "team": "Kiwoom DRX",
+      "joinedAt": "2026-07-16",
+      "leftAt": null,
+      "current": true,
+      "joinedPrecision": "1",
+      "leftPrecision": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Saroo"
+    },
+    {
+      "team": "DRX",
+      "joinedAt": "2025-03-18",
+      "leftAt": "2026-01-05",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Saroo"
+    },
+    {
+      "team": "DRX Challengers",
+      "joinedAt": "2025-01-04",
+      "leftAt": "2025-03-18",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Saroo"
+    },
+    {
+      "team": "DRX",
+      "joinedAt": "2024-07-16",
+      "leftAt": "2025-01-04",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Saroo"
+    },
+    {
+      "team": "Game Coach Academy",
+      "joinedAt": "2021-08-17",
+      "leftAt": "2023-11-30",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Saroo"
+    },
+    {
+      "team": "All Knights",
+      "joinedAt": "2021-05-24",
+      "leftAt": "2021-07-01",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Saroo"
+    },
+    {
+      "team": "PSG Talon",
+      "joinedAt": "2020-01-08",
+      "leftAt": "2020-10-25",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Saroo"
+    },
+    {
+      "team": "ESports Connected",
+      "joinedAt": "2019-12-17",
+      "leftAt": "2019-12-19",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Saroo"
+    },
+    {
+      "team": "bbq Olivers",
+      "joinedAt": "2019-06-05",
+      "leftAt": "2019-12-17",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Saroo"
+    },
+    {
+      "team": "SinoDragon Gaming",
+      "joinedAt": "2018-12-17",
+      "leftAt": "2019-06-05",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Saroo"
+    },
+    {
+      "team": "MVP",
+      "joinedAt": "2016-11-02",
+      "leftAt": "2018-11-18",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Saroo"
+    },
+    {
+      "team": "Ever8 Winners",
+      "joinedAt": "2016-01-14",
+      "leftAt": "2016-05-25",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Saroo"
+    }
+  ],
+  "results": [
+    {
+      "id": "LCK/2026 Season/Rounds 3-4_2_4",
+      "tournament": "LCK 2026 Rounds 3-4",
+      "team": "Kiwoom DRX",
+      "date": "2026-08-23",
+      "place": "4",
+      "phase": "Rise Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_3-4"
+    },
+    {
+      "id": "2026 LoL KeSPA Cup_6",
+      "tournament": "KeSPA Cup 2026",
+      "team": "Kiwoom DRX",
+      "date": "2026-08-10",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "2025 LoL KeSPA Cup_8",
+      "tournament": "KeSPA Cup 2025",
+      "team": "DRX",
+      "date": "2025-12-08",
+      "place": "7-9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "2025 Asia Masters/Finals_2",
+      "tournament": "Asia Masters 2025 Finals",
+      "team": "DRX Challengers",
+      "date": "2025-10-13",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_Asia_Masters%2FFinals"
+    },
+    {
+      "id": "LCK CL/2025 Season/Season Playoffs_4",
+      "tournament": "LCK CL 2025 Season Playoffs",
+      "team": "DRX Challengers",
+      "date": "2025-09-26",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2025_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK CL/2025 Season/Rounds 3-5_1_3",
+      "tournament": "LCK CL 2025 Rounds 3-5",
+      "team": "DRX Challengers",
+      "date": "2025-08-29",
+      "place": "3",
+      "phase": "Challenge Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2025_Season%2FRounds_3-5"
+    },
+    {
+      "id": "2025 Asia Masters/Swiss 2_1",
+      "tournament": "Asia Masters 2025 Swiss 2",
+      "team": "DRX Challengers",
+      "date": "2025-06-26",
+      "place": "1-2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_Asia_Masters%2FSwiss_2"
+    },
+    {
+      "id": "LCK/2025 Season/Rounds 1-2_9",
+      "tournament": "LCK 2025 Rounds 1-2",
+      "team": "DRX",
+      "date": "2025-06-04",
+      "place": "9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRounds_1-2"
+    },
+    {
+      "id": "LCK CL/2025 Season/Kickoff_3",
+      "tournament": "LCK CL 2025 Kickoff",
+      "team": "DRX Challengers",
+      "date": "2025-02-25",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2025_Season%2FKickoff"
+    },
+    {
+      "id": "LCK Academy Series/2023 Season/March_32",
+      "tournament": "LCK AS 2023 March",
+      "team": "GCA Beta",
+      "date": "2023-02-26",
+      "place": "27-35",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2023_Season%2FMarch"
+    },
+    {
+      "id": "LCK Academy Series/2023 Season/March_18",
+      "tournament": "LCK AS 2023 March",
+      "team": "GCA Alpha",
+      "date": "2023-02-26",
+      "place": "17-26",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2023_Season%2FMarch"
+    },
+    {
+      "id": "LCK Academy Series/2023 Season/February_7",
+      "tournament": "LCK AS 2023 February",
+      "team": "GCA Alpha",
+      "date": "2023-02-05",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2023_Season%2FFebruary"
+    },
+    {
+      "id": "LCK Academy Series/2023 Season/February_38",
+      "tournament": "LCK AS 2023 February",
+      "team": "GCA Beta",
+      "date": "2023-01-29",
+      "place": "27-38",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2023_Season%2FFebruary"
+    },
+    {
+      "id": "2022 Asia Star Challengers Invitational_7",
+      "tournament": "Asia Star Challengers Invitational 2022",
+      "team": "Korean Streamer",
+      "date": "2022-09-19",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2022_Asia_Star_Challengers_Invitational"
+    },
+    {
+      "id": "LCK Academy Series/2021 Season/September_37",
+      "tournament": "LCK AS 2021 September",
+      "team": "Game Coach Academy",
+      "date": "2021-09-19",
+      "place": "36-37",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2021_Season%2FSeptember"
+    },
+    {
+      "id": "LCK Academy Series/2021 Season/August_22",
+      "tournament": "LCK AS 2021 August",
+      "team": "Game Coach Academy",
+      "date": "2021-08-22",
+      "place": "17-23",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2021_Season%2FAugust"
+    },
+    {
+      "id": "LLA/2021 Season/Closing Season_8",
+      "tournament": "LLA 2021 Closing",
+      "team": "All Knights",
+      "date": "2021-08-08",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LLA%2F2021_Season%2FClosing_Season"
+    },
+    {
+      "id": "2020 Season World Championship_10",
+      "tournament": "Worlds 2020",
+      "team": "PSG Talon",
+      "date": "2020-10-09",
+      "place": "9-12",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2020_Season_World_Championship"
+    },
+    {
+      "id": "PCS/2020 Season/Summer Playoffs_2",
+      "tournament": "PCS 2020 Summer Playoffs",
+      "team": "PSG Talon",
+      "date": "2020-08-30",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/PCS%2F2020_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "PCS/2020 Season/Summer Season_3",
+      "tournament": "PCS 2020 Summer",
+      "team": "PSG Talon",
+      "date": "2020-08-02",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/PCS%2F2020_Season%2FSummer_Season"
+    },
+    {
+      "id": "2020 Mid-Season Showdown_1",
+      "tournament": "Mid-Season Showdown 2020",
+      "team": "TALON (Hong Kong Team)",
+      "date": "2020-05-30",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2020_Mid-Season_Showdown"
+    },
+    {
+      "id": "PCS/2020 Season/Spring Playoffs_1",
+      "tournament": "PCS 2020 Spring Playoffs",
+      "team": "TALON (Hong Kong Team)",
+      "date": "2020-05-03",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/PCS%2F2020_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "PCS/2020 Season/Spring Season_3",
+      "tournament": "PCS 2020 Spring",
+      "team": "TALON (Hong Kong Team)",
+      "date": "2020-04-05",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/PCS%2F2020_Season%2FSpring_Season"
+    },
+    {
+      "id": "Challengers Korea/2020 Season/Spring Promotion_2",
+      "tournament": "CK 2020 Spring Promotion",
+      "team": "ESports Connected",
+      "date": "2019-12-18",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2020_Season%2FSpring_Promotion"
+    },
+    {
+      "id": "Challengers Korea/2019 Season/Summer Season_8",
+      "tournament": "CK 2019 Summer",
+      "team": "bbq Olivers",
+      "date": "2019-08-12",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2019_Season%2FSummer_Season"
+    },
+    {
+      "id": "LPL/2019 Season/Spring Season_1_6",
+      "tournament": "LPL 2019 Spring",
+      "team": "SinoDragon Gaming",
+      "date": "2019-03-31",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2019_Season%2FSpring_Season"
+    },
+    {
+      "id": "Demacia Cup/2018 Winter_7",
+      "tournament": "Demacia Cup 2018 Winter",
+      "team": "SinoDragon Gaming",
+      "date": "2018-12-20",
+      "place": "7-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Demacia_Cup%2F2018_Winter"
+    },
+    {
+      "id": "LCK/2019 Season/Spring Promotion_3",
+      "tournament": "LCK 2019 Spring Promotion",
+      "team": "MVP",
+      "date": "2018-09-22",
+      "place": "NQ",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2019_Season%2FSpring_Promotion"
+    },
+    {
+      "id": "LCK/2018 Season/Summer Season_9",
+      "tournament": "LCK 2018 Summer",
+      "team": "MVP",
+      "date": "2018-08-09",
+      "place": "9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2018_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2018 Season/Summer Promotion_2",
+      "tournament": "LCK 2018 Summer Promotion",
+      "team": "MVP",
+      "date": "2018-04-22",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2018_Season%2FSummer_Promotion"
+    },
+    {
+      "id": "LCK/2018 Season/Spring Season_9",
+      "tournament": "LCK 2018 Spring",
+      "team": "MVP",
+      "date": "2018-03-25",
+      "place": "9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2018_Season%2FSpring_Season"
+    },
+    {
+      "id": "2017 LoL KeSPA Cup_5",
+      "tournament": "KeSPA Cup 2017",
+      "team": "MVP",
+      "date": "2017-12-02",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2017_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK/2017 Season/Regional Finals_4",
+      "tournament": "Korea Regional Finals 2017",
+      "team": "MVP",
+      "date": "2017-08-28",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2017_Season%2FRegional_Finals"
+    },
+    {
+      "id": "LCK/2017 Season/Summer Season_8",
+      "tournament": "LCK 2017 Summer",
+      "team": "MVP",
+      "date": "2017-08-06",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2017_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2017 Season/Spring Playoffs_4",
+      "tournament": "LCK 2017 Spring Playoffs",
+      "team": "MVP",
+      "date": "2017-04-11",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2017_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK/2017 Season/Spring Season_5",
+      "tournament": "LCK 2017 Spring",
+      "team": "MVP",
+      "date": "2017-04-02",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2017_Season%2FSpring_Season"
+    },
+    {
+      "id": "2016 LoL KeSPA Cup_7",
+      "tournament": "KeSPA Cup 2016",
+      "team": "MVP",
+      "date": "2016-11-19",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2016_LoL_KeSPA_Cup"
+    }
+  ]
+}

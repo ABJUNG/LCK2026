@@ -1,0 +1,473 @@
+{
+  "schemaVersion": 1,
+  "id": "Raptor (Jeon Eo-jin)",
+  "fetchedAt": "2026-10-07T09:20:41.533078+00:00",
+  "sourceUrl": "https://lol.fandom.com/wiki/Raptor_%28Jeon_Eo-jin%29",
+  "careerStatus": "fetched",
+  "resultsStatus": "fetched",
+  "awardsStatus": "not_collected",
+  "awards": [],
+  "careers": [
+    {
+      "team": "BNK FEARX",
+      "joinedAt": "2024-06-09",
+      "leftAt": null,
+      "current": true,
+      "joinedPrecision": "1",
+      "leftPrecision": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Raptor_%28Jeon_Eo-jin%29"
+    },
+    {
+      "team": "BNK FEARX Youth",
+      "joinedAt": "2023-12-15",
+      "leftAt": "2024-06-09",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Raptor_%28Jeon_Eo-jin%29"
+    },
+    {
+      "team": "Liiv SANDBOX Youth",
+      "joinedAt": "2023-12-06",
+      "leftAt": "2023-12-15",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Raptor_%28Jeon_Eo-jin%29"
+    },
+    {
+      "team": "OKSavingsBank BRION Challengers",
+      "joinedAt": "2023-01-26",
+      "leftAt": "2023-11-17",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Raptor_%28Jeon_Eo-jin%29"
+    },
+    {
+      "team": "BRION",
+      "joinedAt": "2022-12-09",
+      "leftAt": "2023-01-26",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Raptor_%28Jeon_Eo-jin%29"
+    },
+    {
+      "team": "Fredit BRION Challengers",
+      "joinedAt": "2022-07-24",
+      "leftAt": "2022-12-09",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Raptor_%28Jeon_Eo-jin%29"
+    },
+    {
+      "team": "Fredit BRION",
+      "joinedAt": "2022-06-26",
+      "leftAt": "2022-07-24",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Raptor_%28Jeon_Eo-jin%29"
+    },
+    {
+      "team": "Fredit BRION Challengers",
+      "joinedAt": "2022-06-02",
+      "leftAt": "2022-06-26",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Raptor_%28Jeon_Eo-jin%29"
+    },
+    {
+      "team": "Fredit BRION",
+      "joinedAt": "2022-02-20",
+      "leftAt": "2022-06-02",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Raptor_%28Jeon_Eo-jin%29"
+    },
+    {
+      "team": "Fredit BRION Challengers",
+      "joinedAt": "2021-12-07",
+      "leftAt": "2022-02-20",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Raptor_%28Jeon_Eo-jin%29"
+    },
+    {
+      "team": "Incheon",
+      "joinedAt": "2021-10-02",
+      "leftAt": "2021-10-09",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Raptor_%28Jeon_Eo-jin%29"
+    },
+    {
+      "team": "구디단게이밍",
+      "joinedAt": "2021-08-17",
+      "leftAt": "2021-10-15",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Raptor_%28Jeon_Eo-jin%29"
+    },
+    {
+      "team": "묵직한한방",
+      "joinedAt": "2021-07-15",
+      "leftAt": "2021-08-17",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Raptor_%28Jeon_Eo-jin%29"
+    },
+    {
+      "team": "Spear Gaming",
+      "joinedAt": "2021-02-14",
+      "leftAt": "2021-12-07",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Raptor_%28Jeon_Eo-jin%29"
+    },
+    {
+      "team": "Team LoG",
+      "joinedAt": "2020-11-10",
+      "leftAt": "2020-11-22",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Raptor_%28Jeon_Eo-jin%29"
+    }
+  ],
+  "results": [
+    {
+      "id": "LCK/2026 Season/Season Playoffs_6",
+      "tournament": "LCK 2026 Season Playoffs",
+      "team": "BNK FEARX",
+      "date": "2026-09-03",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK/2026 Season/Season Play-In_2",
+      "tournament": "LCK 2026 Season Play-In",
+      "team": "BNK FEARX",
+      "date": "2026-08-28",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FSeason_Play-In"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 3-4_2_3",
+      "tournament": "LCK 2026 Rounds 3-4",
+      "team": "BNK FEARX",
+      "date": "2026-08-23",
+      "place": "3",
+      "phase": "Rise Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_3-4"
+    },
+    {
+      "id": "2026 LoL KeSPA Cup_10",
+      "tournament": "KeSPA Cup 2026",
+      "team": "BNK FEARX",
+      "date": "2026-07-27",
+      "place": "9-10",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 1-2_7",
+      "tournament": "LCK 2026 Rounds 1-2",
+      "team": "BNK FEARX",
+      "date": "2026-05-31",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_1-2"
+    },
+    {
+      "id": "Esports World Cup 2026/Online Qualifiers/Korea_6",
+      "tournament": "Esports World Cup 2026 Online Qualifier: Korea",
+      "team": "BNK FEARX",
+      "date": "2026-05-19",
+      "place": "NQ",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Esports_World_Cup_2026%2FOnline_Qualifiers%2FKorea"
+    },
+    {
+      "id": "2026 First Stand_5",
+      "tournament": "First Stand 2026",
+      "team": "BNK FEARX",
+      "date": "2026-03-20",
+      "place": "5-6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_First_Stand"
+    },
+    {
+      "id": "LCK/2026 Season/Cup_2",
+      "tournament": "LCK Cup 2026",
+      "team": "BNK FEARX",
+      "date": "2026-03-01",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FCup"
+    },
+    {
+      "id": "2025 LoL KeSPA Cup_7",
+      "tournament": "KeSPA Cup 2025",
+      "team": "BNK FEARX",
+      "date": "2025-12-08",
+      "place": "7-9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "2025 League of Legends Asia Invitational_1",
+      "tournament": "League of Legends Asia Invitational 2025",
+      "team": "BNK FEARX",
+      "date": "2025-10-12",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_League_of_Legends_Asia_Invitational"
+    },
+    {
+      "id": "LCK/2025 Season/Season Playoffs_6",
+      "tournament": "LCK 2025 Season Playoffs",
+      "team": "BNK FEARX",
+      "date": "2025-09-17",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK/2025 Season/Season Play-In_1",
+      "tournament": "LCK 2025 Season Play-In",
+      "team": "BNK FEARX",
+      "date": "2025-09-05",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FSeason_Play-In"
+    },
+    {
+      "id": "LCK/2025 Season/Rounds 3-5_2_2",
+      "tournament": "LCK 2025 Rounds 3-5",
+      "team": "BNK FEARX",
+      "date": "2025-08-31",
+      "place": "2",
+      "phase": "Rise Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRounds_3-5"
+    },
+    {
+      "id": "LCK/2025 Season/Rounds 1-2_7",
+      "tournament": "LCK 2025 Rounds 1-2",
+      "team": "BNK FEARX",
+      "date": "2025-06-04",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRounds_1-2"
+    },
+    {
+      "id": "LCK/2025 Season/Cup_10",
+      "tournament": "LCK Cup 2025",
+      "team": "BNK FEARX",
+      "date": "2025-02-02",
+      "place": "10",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FCup"
+    },
+    {
+      "id": "LCK/2024 Season/Regional Finals_4",
+      "tournament": "LCK 2024 Regional Finals",
+      "team": "BNK FEARX",
+      "date": "2024-09-13",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2024_Season%2FRegional_Finals"
+    },
+    {
+      "id": "LCK/2024 Season/Summer Playoffs_6",
+      "tournament": "LCK 2024 Summer Playoffs",
+      "team": "BNK FEARX",
+      "date": "2024-08-23",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2024_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2024 Season/Summer Season_1_6",
+      "tournament": "LCK 2024 Summer",
+      "team": "BNK FEARX",
+      "date": "2024-08-18",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2024_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK CL/2024 Season/Spring Playoffs_6",
+      "tournament": "LCK CL 2024 Spring Playoffs",
+      "team": "FearX Youth",
+      "date": "2024-03-26",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2024_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK CL/2024 Season/Spring Season_1_5",
+      "tournament": "LCK CL 2024 Spring",
+      "team": "FearX Youth",
+      "date": "2024-03-22",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2024_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK CL/2023 Season/Summer Season_1_6",
+      "tournament": "LCK CL 2023 Summer",
+      "team": "OKSavingsBank BRION Challengers",
+      "date": "2023-08-04",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2023_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK CL/2023 Season/Spring Season_1_10",
+      "tournament": "LCK CL 2023 Spring",
+      "team": "BRION Challengers",
+      "date": "2023-03-17",
+      "place": "10",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2023_Season%2FSpring_Season"
+    },
+    {
+      "id": "G-Star Cup 2022 League of Legends Invitational_1",
+      "tournament": "G-Star Cup 2022 League of Legends Invitational",
+      "team": "MZ세대",
+      "date": "2022-11-20",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/G-Star_Cup_2022_League_of_Legends_Invitational"
+    },
+    {
+      "id": "LCK/2022 Season/Summer Season_1_9",
+      "tournament": "LCK 2022 Summer",
+      "team": "Fredit BRION",
+      "date": "2022-08-14",
+      "place": "9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2022_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK CL/2022 Season/Summer Season_1_10",
+      "tournament": "LCK CL 2022 Summer",
+      "team": "Fredit BRION Challengers",
+      "date": "2022-08-12",
+      "place": "10",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2022_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2022 Season/Spring Season_1_6",
+      "tournament": "LCK 2022 Spring",
+      "team": "Fredit BRION",
+      "date": "2022-03-20",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2022_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK CL/2022 Season/Spring Season_1_9",
+      "tournament": "LCK CL 2022 Spring",
+      "team": "Fredit BRION Challengers",
+      "date": "2022-03-19",
+      "place": "9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2022_Season%2FSpring_Season"
+    },
+    {
+      "id": "2021 LoL KeSPA Cup_2",
+      "tournament": "KeSPA Cup 2021",
+      "team": "Fredit BRION Challengers",
+      "date": "2021-12-12",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2021_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "2021 KeG Championship_14",
+      "tournament": "KeG Championship 2021",
+      "team": "Incheon",
+      "date": "2021-10-02",
+      "place": "9-17",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2021_KeG_Championship"
+    },
+    {
+      "id": "LCK Academy Series/2021 Season/September_23",
+      "tournament": "LCK AS 2021 September",
+      "team": "구디단게이밍",
+      "date": "2021-09-19",
+      "place": "17-25",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2021_Season%2FSeptember"
+    },
+    {
+      "id": "LCK Academy Series/2021 Season/August_15",
+      "tournament": "LCK AS 2021 August",
+      "team": "구디단게이밍",
+      "date": "2021-08-28",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2021_Season%2FAugust"
+    },
+    {
+      "id": "LCK Academy Series/2021 Season/July_8",
+      "tournament": "LCK AS 2021 July",
+      "team": "묵직한한방",
+      "date": "2021-07-24",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2021_Season%2FJuly"
+    },
+    {
+      "id": "LCK Academy Series/2021 Season/1st Championship_6",
+      "tournament": "LCK AS 2021 1st Championship",
+      "team": "Spear Gaming",
+      "date": "2021-06-06",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2021_Season%2F1st_Championship"
+    },
+    {
+      "id": "LCK Academy Series/2021 Season/March_11",
+      "tournament": "LCK AS 2021 March",
+      "team": "Spear Gaming",
+      "date": "2021-03-27",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2021_Season%2FMarch"
+    },
+    {
+      "id": "LCK Academy Series/2021 Season/February_1",
+      "tournament": "LCK AS 2021 February",
+      "team": "Spear Gaming",
+      "date": "2021-02-28",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2021_Season%2FFebruary"
+    },
+    {
+      "id": "LCK Academy Series/2020 Season/November_18",
+      "tournament": "LCK AS 2020 November",
+      "team": "Team LoG",
+      "date": "2020-11-15",
+      "place": "15-18",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2020_Season%2FNovember"
+    }
+  ]
+}

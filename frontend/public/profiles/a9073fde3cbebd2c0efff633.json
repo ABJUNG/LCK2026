@@ -1,0 +1,995 @@
+{
+  "schemaVersion": 1,
+  "id": "Faker",
+  "fetchedAt": "2026-10-07T09:20:41.533078+00:00",
+  "sourceUrl": "https://lol.fandom.com/wiki/Faker",
+  "careerStatus": "fetched",
+  "resultsStatus": "fetched",
+  "awardsStatus": "not_collected",
+  "awards": [],
+  "careers": [
+    {
+      "team": "T1",
+      "joinedAt": "2019-12-08",
+      "leftAt": null,
+      "current": true,
+      "joinedPrecision": "1",
+      "leftPrecision": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Faker"
+    },
+    {
+      "team": "SK Telecom T1",
+      "joinedAt": "2014-12-02",
+      "leftAt": "2019-12-08",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Faker"
+    },
+    {
+      "team": "SK Telecom T1 K",
+      "joinedAt": "2013-02-12",
+      "leftAt": "2014-12-02",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Faker"
+    }
+  ],
+  "results": [
+    {
+      "id": "2026 Asian Games_1",
+      "tournament": "Asian Games 2026",
+      "team": "South Korea (National Team)",
+      "date": "2026-10-02",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_Asian_Games"
+    },
+    {
+      "id": "LCK/2026 Season/Season Playoffs_3",
+      "tournament": "LCK 2026 Season Playoffs",
+      "team": "T1",
+      "date": "2026-09-12",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 3-4_1_3",
+      "tournament": "LCK 2026 Rounds 3-4",
+      "team": "T1",
+      "date": "2026-08-23",
+      "place": "3",
+      "phase": "Legend Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_3-4"
+    },
+    {
+      "id": "2026 LoL KeSPA Cup_3",
+      "tournament": "KeSPA Cup 2026",
+      "team": "T1",
+      "date": "2026-08-17",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "Esports World Cup 2026_4",
+      "tournament": "Esports World Cup 2026",
+      "team": "T1",
+      "date": "2026-07-19",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Esports_World_Cup_2026"
+    },
+    {
+      "id": "2026 Mid-Season Invitational_6",
+      "tournament": "MSI 2026",
+      "team": "T1",
+      "date": "2026-07-08",
+      "place": "5-6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_Mid-Season_Invitational"
+    },
+    {
+      "id": "LCK/2026 Season/Road to MSI_2",
+      "tournament": "LCK 2026 Road to MSI",
+      "team": "T1",
+      "date": "2026-06-14",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRoad_to_MSI"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 1-2_2",
+      "tournament": "LCK 2026 Rounds 1-2",
+      "team": "T1",
+      "date": "2026-05-31",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_1-2"
+    },
+    {
+      "id": "Esports World Cup 2026/Online Qualifiers/Korea_1",
+      "tournament": "Esports World Cup 2026 Online Qualifier: Korea",
+      "team": "T1",
+      "date": "2026-05-25",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Esports_World_Cup_2026%2FOnline_Qualifiers%2FKorea"
+    },
+    {
+      "id": "LCK/2026 Season/Cup_4",
+      "tournament": "LCK Cup 2026",
+      "team": "T1",
+      "date": "2026-02-22",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FCup"
+    },
+    {
+      "id": "2025 LoL KeSPA Cup_1",
+      "tournament": "KeSPA Cup 2025",
+      "team": "T1",
+      "date": "2025-12-14",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "2025 Season World Championship_1",
+      "tournament": "Worlds 2025",
+      "team": "T1",
+      "date": "2025-11-09",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_Season_World_Championship"
+    },
+    {
+      "id": "LCK/2025 Season/Season Playoffs_4",
+      "tournament": "LCK 2025 Season Playoffs",
+      "team": "T1",
+      "date": "2025-09-21",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK/2025 Season/Rounds 3-5_1_3",
+      "tournament": "LCK 2025 Rounds 3-5",
+      "team": "T1",
+      "date": "2025-08-31",
+      "place": "3",
+      "phase": "Legend Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRounds_3-5"
+    },
+    {
+      "id": "Esports World Cup 2025_3",
+      "tournament": "Esports World Cup 2025",
+      "team": "T1",
+      "date": "2025-07-20",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Esports_World_Cup_2025"
+    },
+    {
+      "id": "2025 Mid-Season Invitational_2",
+      "tournament": "MSI 2025",
+      "team": "T1",
+      "date": "2025-07-12",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_Mid-Season_Invitational"
+    },
+    {
+      "id": "LCK/2025 Season/Road to MSI_2",
+      "tournament": "LCK 2025 Road to MSI",
+      "team": "T1",
+      "date": "2025-06-15",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRoad_to_MSI"
+    },
+    {
+      "id": "LCK/2025 Season/Rounds 1-2_3",
+      "tournament": "LCK 2025 Rounds 1-2",
+      "team": "T1",
+      "date": "2025-06-04",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRounds_1-2"
+    },
+    {
+      "id": "LCK/2025 Season/Cup_6",
+      "tournament": "LCK Cup 2025",
+      "team": "T1",
+      "date": "2025-02-13",
+      "place": "5-6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FCup"
+    },
+    {
+      "id": "2024 Season World Championship_1",
+      "tournament": "Worlds 2024",
+      "team": "T1",
+      "date": "2024-11-02",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2024_Season_World_Championship"
+    },
+    {
+      "id": "LCK/2024 Season/Regional Finals_2",
+      "tournament": "LCK 2024 Regional Finals",
+      "team": "T1",
+      "date": "2024-09-14",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2024_Season%2FRegional_Finals"
+    },
+    {
+      "id": "LCK/2024 Season/Summer Playoffs_3",
+      "tournament": "LCK 2024 Summer Playoffs",
+      "team": "T1",
+      "date": "2024-09-07",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2024_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2024 Season/Summer Season_1_4",
+      "tournament": "LCK 2024 Summer",
+      "team": "T1",
+      "date": "2024-08-18",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2024_Season%2FSummer_Season"
+    },
+    {
+      "id": "Esports World Cup 2024_1",
+      "tournament": "Esports World Cup 2024",
+      "team": "T1",
+      "date": "2024-07-07",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Esports_World_Cup_2024"
+    },
+    {
+      "id": "2024 Mid-Season Invitational_3",
+      "tournament": "MSI 2024",
+      "team": "T1",
+      "date": "2024-05-18",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2024_Mid-Season_Invitational"
+    },
+    {
+      "id": "LCK/2024 Season/Spring Playoffs_2",
+      "tournament": "LCK 2024 Spring Playoffs",
+      "team": "T1",
+      "date": "2024-04-14",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2024_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK/2024 Season/Spring Season_1_2",
+      "tournament": "LCK 2024 Spring",
+      "team": "T1",
+      "date": "2024-03-24",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2024_Season%2FSpring_Season"
+    },
+    {
+      "id": "2023 Season World Championship_1",
+      "tournament": "Worlds 2023",
+      "team": "T1",
+      "date": "2023-11-19",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2023_Season_World_Championship"
+    },
+    {
+      "id": "2022 Asian Games_1",
+      "tournament": "Asian Games 2022",
+      "team": "South Korea (National Team)",
+      "date": "2023-09-29",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2022_Asian_Games"
+    },
+    {
+      "id": "LCK/2023 Season/Summer Playoffs_2",
+      "tournament": "LCK 2023 Summer Playoffs",
+      "team": "T1",
+      "date": "2023-08-20",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2023_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2023 Season/Summer Season_1_5",
+      "tournament": "LCK 2023 Summer",
+      "team": "T1",
+      "date": "2023-08-06",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2023_Season%2FSummer_Season"
+    },
+    {
+      "id": "2023 Mid-Season Invitational_3",
+      "tournament": "MSI 2023",
+      "team": "T1",
+      "date": "2023-05-20",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2023_Mid-Season_Invitational"
+    },
+    {
+      "id": "LCK/2023 Season/Spring Playoffs_2",
+      "tournament": "LCK 2023 Spring Playoffs",
+      "team": "T1",
+      "date": "2023-04-09",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2023_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK/2023 Season/Spring Season_1_1",
+      "tournament": "LCK 2023 Spring",
+      "team": "T1",
+      "date": "2023-03-19",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2023_Season%2FSpring_Season"
+    },
+    {
+      "id": "2022 Season World Championship_2",
+      "tournament": "Worlds 2022",
+      "team": "T1",
+      "date": "2022-11-05",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2022_Season_World_Championship"
+    },
+    {
+      "id": "LCK/2022 Season/Summer Playoffs_2",
+      "tournament": "LCK 2022 Summer Playoffs",
+      "team": "T1",
+      "date": "2022-08-28",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2022_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2022 Season/Summer Season_1_2",
+      "tournament": "LCK 2022 Summer",
+      "team": "T1",
+      "date": "2022-08-14",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2022_Season%2FSummer_Season"
+    },
+    {
+      "id": "2022 Mid-Season Invitational_2",
+      "tournament": "MSI 2022",
+      "team": "T1",
+      "date": "2022-05-29",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2022_Mid-Season_Invitational"
+    },
+    {
+      "id": "LCK/2022 Season/Spring Playoffs_1",
+      "tournament": "LCK 2022 Spring Playoffs",
+      "team": "T1",
+      "date": "2022-04-02",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2022_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK/2022 Season/Spring Season_1_1",
+      "tournament": "LCK 2022 Spring",
+      "team": "T1",
+      "date": "2022-03-20",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2022_Season%2FSpring_Season"
+    },
+    {
+      "id": "2021 Season World Championship_3",
+      "tournament": "Worlds 2021",
+      "team": "T1",
+      "date": "2021-10-30",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2021_Season_World_Championship"
+    },
+    {
+      "id": "LCK/2021 Season/Regional Finals_1",
+      "tournament": "LCK 2021 Regional Finals",
+      "team": "T1",
+      "date": "2021-09-02",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2021_Season%2FRegional_Finals"
+    },
+    {
+      "id": "LCK/2021 Season/Summer Playoffs_2",
+      "tournament": "LCK 2021 Summer Playoffs",
+      "team": "T1",
+      "date": "2021-08-28",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2021_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2021 Season/Summer Season_1_4",
+      "tournament": "LCK 2021 Summer",
+      "team": "T1",
+      "date": "2021-08-15",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2021_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2021 Season/Spring Playoffs_4",
+      "tournament": "LCK 2021 Spring Playoffs",
+      "team": "T1",
+      "date": "2021-04-04",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2021_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK/2021 Season/Spring Season_1_4",
+      "tournament": "LCK 2021 Spring",
+      "team": "T1",
+      "date": "2021-03-28",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2021_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK/2020 Season/Regional Finals_2",
+      "tournament": "LCK 2020 Regional Finals",
+      "team": "T1",
+      "date": "2020-09-09",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2020_Season%2FRegional_Finals"
+    },
+    {
+      "id": "LCK/2020 Season/Summer Playoffs_5",
+      "tournament": "LCK 2020 Summer Playoffs",
+      "team": "T1",
+      "date": "2020-08-26",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2020_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2020 Season/Summer Season_4",
+      "tournament": "LCK 2020 Summer",
+      "team": "T1",
+      "date": "2020-08-23",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2020_Season%2FSummer_Season"
+    },
+    {
+      "id": "2020 Mid-Season Cup_7",
+      "tournament": "Mid-Season Cup 2020",
+      "team": "T1",
+      "date": "2020-05-28",
+      "place": "7-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2020_Mid-Season_Cup"
+    },
+    {
+      "id": "LCK/2020 Season/Spring Playoffs_1",
+      "tournament": "LCK 2020 Spring Playoffs",
+      "team": "T1",
+      "date": "2020-04-25",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2020_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK/2020 Season/Spring Season_2",
+      "tournament": "LCK 2020 Spring",
+      "team": "T1",
+      "date": "2020-04-16",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2020_Season%2FSpring_Season"
+    },
+    {
+      "id": "2019 LoL KeSPA Cup_3",
+      "tournament": "KeSPA Cup 2019",
+      "team": "T1",
+      "date": "2020-01-03",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2019_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "2019 Season World Championship_4",
+      "tournament": "Worlds 2019",
+      "team": "SK Telecom T1",
+      "date": "2019-11-03",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2019_Season_World_Championship"
+    },
+    {
+      "id": "LCK/2019 Season/Summer Playoffs_1",
+      "tournament": "LCK 2019 Summer Playoffs",
+      "team": "SK Telecom T1",
+      "date": "2019-08-31",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2019_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2019 Season/Summer Season_4",
+      "tournament": "LCK 2019 Summer",
+      "team": "SK Telecom T1",
+      "date": "2019-08-18",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2019_Season%2FSummer_Season"
+    },
+    {
+      "id": "Rift Rivals 2019/LCK-LPL-LMS-VCS_1",
+      "tournament": "Rift Rivals 2019 LCK-LPL-LMS-VCS",
+      "team": "SK Telecom T1",
+      "date": "2019-07-07",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Rift_Rivals_2019%2FLCK-LPL-LMS-VCS"
+    },
+    {
+      "id": "2019 Mid-Season Invitational_4",
+      "tournament": "MSI 2019",
+      "team": "SK Telecom T1",
+      "date": "2019-05-18",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2019_Mid-Season_Invitational"
+    },
+    {
+      "id": "LCK/2019 Season/Spring Playoffs_1",
+      "tournament": "LCK 2019 Spring Playoffs",
+      "team": "SK Telecom T1",
+      "date": "2019-04-13",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2019_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK/2019 Season/Spring Season_2",
+      "tournament": "LCK 2019 Spring",
+      "team": "SK Telecom T1",
+      "date": "2019-03-31",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2019_Season%2FSpring_Season"
+    },
+    {
+      "id": "2018 LoL KeSPA Cup_8",
+      "tournament": "KeSPA Cup 2018",
+      "team": "SK Telecom T1",
+      "date": "2018-12-27",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2018_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK/2018 Season/Regional Finals_4",
+      "tournament": "Korea Regional Finals 2018",
+      "team": "SK Telecom T1",
+      "date": "2018-09-12",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2018_Season%2FRegional_Finals"
+    },
+    {
+      "id": "2018 Asian Games_2",
+      "tournament": "Asian Games 2018",
+      "team": "South Korea (National Team)",
+      "date": "2018-08-29",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2018_Asian_Games"
+    },
+    {
+      "id": "LCK/2018 Season/Summer Season_7",
+      "tournament": "LCK 2018 Summer",
+      "team": "SK Telecom T1",
+      "date": "2018-08-09",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2018_Season%2FSummer_Season"
+    },
+    {
+      "id": "Rift Rivals 2018/LCK-LPL-LMS_8",
+      "tournament": "Rift Rivals 2018 LCK-LPL-LMS",
+      "team": "SK Telecom T1",
+      "date": "2018-07-08",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Rift_Rivals_2018%2FLCK-LPL-LMS"
+    },
+    {
+      "id": "2018 Asian Games/East Asia Qualifier_1",
+      "tournament": "Asian Games 2018 Q - East",
+      "team": "South Korea (National Team)",
+      "date": "2018-06-10",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2018_Asian_Games%2FEast_Asia_Qualifier"
+    },
+    {
+      "id": "LCK/2018 Season/Spring Playoffs_4",
+      "tournament": "LCK 2018 Spring Playoffs",
+      "team": "SK Telecom T1",
+      "date": "2018-04-04",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2018_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK/2018 Season/Spring Season_4",
+      "tournament": "LCK 2018 Spring",
+      "team": "SK Telecom T1",
+      "date": "2018-03-25",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2018_Season%2FSpring_Season"
+    },
+    {
+      "id": "2017 LoL KeSPA Cup_4",
+      "tournament": "KeSPA Cup 2017",
+      "team": "SK Telecom T1",
+      "date": "2017-12-02",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2017_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "2017 Season World Championship_2",
+      "tournament": "Worlds 2017",
+      "team": "SK Telecom T1",
+      "date": "2017-11-04",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2017_Season_World_Championship"
+    },
+    {
+      "id": "LCK/2017 Season/Summer Playoffs_2",
+      "tournament": "LCK 2017 Summer Playoffs",
+      "team": "SK Telecom T1",
+      "date": "2017-08-26",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2017_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2017 Season/Summer Season_4",
+      "tournament": "LCK 2017 Summer",
+      "team": "SK Telecom T1",
+      "date": "2017-08-06",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2017_Season%2FSummer_Season"
+    },
+    {
+      "id": "Rift Rivals 2017/LCK-LPL-LMS_8",
+      "tournament": "Rift Rivals 2017 LCK-LPL-LMS",
+      "team": "SK Telecom T1",
+      "date": "2017-07-09",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Rift_Rivals_2017%2FLCK-LPL-LMS"
+    },
+    {
+      "id": "2017 Mid-Season Invitational_1",
+      "tournament": "MSI 2017",
+      "team": "SK Telecom T1",
+      "date": "2017-05-21",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2017_Mid-Season_Invitational"
+    },
+    {
+      "id": "LCK/2017 Season/Spring Playoffs_1",
+      "tournament": "LCK 2017 Spring Playoffs",
+      "team": "SK Telecom T1",
+      "date": "2017-04-22",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2017_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK/2017 Season/Spring Season_1",
+      "tournament": "LCK 2017 Spring",
+      "team": "SK Telecom T1",
+      "date": "2017-04-02",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2017_Season%2FSpring_Season"
+    },
+    {
+      "id": "2016 LoL KeSPA Cup_4",
+      "tournament": "KeSPA Cup 2016",
+      "team": "SK Telecom T1",
+      "date": "2016-11-19",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2016_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "2016 Season World Championship_1",
+      "tournament": "Worlds 2016",
+      "team": "SK Telecom T1",
+      "date": "2016-10-29",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2016_Season_World_Championship"
+    },
+    {
+      "id": "LCK/2016 Season/Summer Playoffs_3",
+      "tournament": "LCK 2016 Summer Playoffs",
+      "team": "SK Telecom T1",
+      "date": "2016-08-12",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2016_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2016 Season/Summer Season_2",
+      "tournament": "LCK 2016 Summer",
+      "team": "SK Telecom T1",
+      "date": "2016-08-06",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2016_Season%2FSummer_Season"
+    },
+    {
+      "id": "2016 Mid-Season Invitational_1",
+      "tournament": "MSI 2016",
+      "team": "SK Telecom T1",
+      "date": "2016-05-15",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2016_Mid-Season_Invitational"
+    },
+    {
+      "id": "LCK/2016 Season/Spring Playoffs_1",
+      "tournament": "LCK 2016 Spring Playoffs",
+      "team": "SK Telecom T1",
+      "date": "2016-04-23",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2016_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK/2016 Season/Spring Season_3",
+      "tournament": "LCK 2016 Spring",
+      "team": "SK Telecom T1",
+      "date": "2016-04-09",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2016_Season%2FSpring_Season"
+    },
+    {
+      "id": "IEM Season X - World Championship_1",
+      "tournament": "IEM Season 10 World Championship",
+      "team": "SK Telecom T1",
+      "date": "2016-03-07",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/IEM_Season_X_-_World_Championship"
+    },
+    {
+      "id": "2015 LoL KeSPA Cup_4",
+      "tournament": "KeSPA Cup 2015",
+      "team": "SK Telecom T1",
+      "date": "2015-11-14",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2015_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "2015 Season World Championship_1",
+      "tournament": "Worlds 2015",
+      "team": "SK Telecom T1",
+      "date": "2015-10-31",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2015_Season_World_Championship"
+    },
+    {
+      "id": "Champions/2015 Season/Summer Playoffs_1",
+      "tournament": "Champions 2015 Summer Playoffs",
+      "team": "SK Telecom T1",
+      "date": "2015-08-29",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2015_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "Champions/2015 Season/Summer Season_1",
+      "tournament": "Champions 2015 Summer",
+      "team": "SK Telecom T1",
+      "date": "2015-08-13",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2015_Season%2FSummer_Season"
+    },
+    {
+      "id": "2015 Mid-Season Invitational_2",
+      "tournament": "MSI 2015",
+      "team": "SK Telecom T1",
+      "date": "2015-05-10",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2015_Mid-Season_Invitational"
+    },
+    {
+      "id": "Champions/2015 Season/Spring Playoffs_1",
+      "tournament": "Champions 2015 Spring Playoffs",
+      "team": "SK Telecom T1",
+      "date": "2015-05-02",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2015_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "Champions/2015 Season/Spring Season_2",
+      "tournament": "Champions 2015 Spring",
+      "team": "SK Telecom T1",
+      "date": "2015-04-11",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2015_Season%2FSpring_Season"
+    },
+    {
+      "id": "Champions/2015 Season/Spring Preseason_1_1",
+      "tournament": "Champions 2015 Spring Preseason",
+      "team": "SK Telecom T1",
+      "date": "2014-12-20",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2015_Season%2FSpring_Preseason"
+    },
+    {
+      "id": "2014 Season Korea Regional Finals_2",
+      "tournament": "Korea Regional Finals 2014",
+      "team": "SK Telecom T1 K",
+      "date": "2014-08-30",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2014_Season_Korea_Regional_Finals"
+    },
+    {
+      "id": "NLB/2014 Season/Summer Season_1",
+      "tournament": "NLB 2014 Summer",
+      "team": "SK Telecom T1 K",
+      "date": "2014-08-09",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/NLB%2F2014_Season%2FSummer_Season"
+    },
+    {
+      "id": "Champions/2014 Season/Summer Season_6",
+      "tournament": "Champions 2014 Summer",
+      "team": "SK Telecom T1 K",
+      "date": "2014-07-23",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2014_Season%2FSummer_Season"
+    },
+    {
+      "id": "SK Telecom LTE-A LoL Masters 2014_2",
+      "tournament": "LoL Masters 2014",
+      "team": "SK Telecom T1 (Club Masters)",
+      "date": "2014-06-08",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/SK_Telecom_LTE-A_LoL_Masters_2014"
+    },
+    {
+      "id": "NLB/2014 Season/Spring Season_3",
+      "tournament": "NLB 2014 Spring",
+      "team": "SK Telecom T1 K",
+      "date": "2014-05-14",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/NLB%2F2014_Season%2FSpring_Season"
+    },
+    {
+      "id": "All-Star Paris 2014_1",
+      "tournament": "All-Star 2014 Paris",
+      "team": "SK Telecom T1 K",
+      "date": "2014-05-11",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/All-Star_Paris_2014"
+    },
+    {
+      "id": "Champions/2014 Season/Spring Season_8",
+      "tournament": "Champions 2014 Spring",
+      "team": "SK Telecom T1 K",
+      "date": "2014-04-16",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2014_Season%2FSpring_Season"
+    },
+    {
+      "id": "Champions/2014 Season/Winter Season_1",
+      "tournament": "Champions 2014 Winter",
+      "team": "SK Telecom T1 K",
+      "date": "2014-01-25",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2014_Season%2FWinter_Season"
+    },
+    {
+      "id": "Season 3 World Championship_1",
+      "tournament": "Worlds Season 3",
+      "team": "SK Telecom T1",
+      "date": "2013-10-04",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Season_3_World_Championship"
+    },
+    {
+      "id": "Season 3 Korea Regional Finals_1",
+      "tournament": "Korea Regional Finals Season 3",
+      "team": "SK Telecom T1",
+      "date": "2013-09-07",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Season_3_Korea_Regional_Finals"
+    },
+    {
+      "id": "Champions/2013 Season/Summer_1",
+      "tournament": "Champions 2013 Summer",
+      "team": "SK Telecom T1 2",
+      "date": "2013-08-31",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2013_Season%2FSummer"
+    },
+    {
+      "id": "AMD-INVEN GamExperience_4",
+      "tournament": "AMD-INVEN GamExperience",
+      "team": "SK Telecom T1 2",
+      "date": "2013-06-29",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/AMD-INVEN_GamExperience"
+    },
+    {
+      "id": "Champions/2013 Season/Spring_3",
+      "tournament": "Champions 2013 Spring",
+      "team": "SK Telecom T1 2",
+      "date": "2013-06-05",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2013_Season%2FSpring"
+    },
+    {
+      "id": "Champions/2013 Season/Spring Qualifiers_3",
+      "tournament": "Champions 2013 Spring Qualifiers",
+      "team": "SK Telecom T1 2",
+      "date": "2013-03-23",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2013_Season%2FSpring_Qualifiers"
+    }
+  ]
+}

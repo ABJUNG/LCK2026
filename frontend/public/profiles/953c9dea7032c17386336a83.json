@@ -1,0 +1,455 @@
+{
+  "schemaVersion": 1,
+  "id": "Crazy (Kim Jae-hee)",
+  "fetchedAt": "2026-10-07T09:20:41.533078+00:00",
+  "sourceUrl": "https://lol.fandom.com/wiki/Crazy_%28Kim_Jae-hee%29",
+  "careerStatus": "fetched",
+  "resultsStatus": "fetched",
+  "awardsStatus": "not_collected",
+  "awards": [],
+  "careers": [
+    {
+      "team": "Nongshim RedForce",
+      "joinedAt": "2024-11-21",
+      "leftAt": null,
+      "current": true,
+      "joinedPrecision": "1",
+      "leftPrecision": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Crazy_%28Kim_Jae-hee%29"
+    },
+    {
+      "team": "Galatasaray Esports",
+      "joinedAt": "2021-05-19",
+      "leftAt": "2022-11-17",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Crazy_%28Kim_Jae-hee%29"
+    },
+    {
+      "team": "Rogue Warriors",
+      "joinedAt": "2019-12-17",
+      "leftAt": "2020-11-18",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Crazy_%28Kim_Jae-hee%29"
+    },
+    {
+      "team": "SK Telecom T1",
+      "joinedAt": "2018-11-22",
+      "leftAt": "2019-11-18",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Crazy_%28Kim_Jae-hee%29"
+    },
+    {
+      "team": "bbq Olivers",
+      "joinedAt": "2017-01-10",
+      "leftAt": "2018-11-19",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Crazy_%28Kim_Jae-hee%29"
+    },
+    {
+      "team": "ESC Ever",
+      "joinedAt": "2015-05-25",
+      "leftAt": "2017-01-10",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Crazy_%28Kim_Jae-hee%29"
+    }
+  ],
+  "results": [
+    {
+      "id": "LCK/2026 Season/Season Play-In_4",
+      "tournament": "LCK 2026 Season Play-In",
+      "team": "Nongshim RedForce",
+      "date": "2026-08-27",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FSeason_Play-In"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 3-4_2_2",
+      "tournament": "LCK 2026 Rounds 3-4",
+      "team": "Nongshim RedForce",
+      "date": "2026-08-23",
+      "place": "2",
+      "phase": "Rise Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_3-4"
+    },
+    {
+      "id": "2026 LoL KeSPA Cup_2",
+      "tournament": "KeSPA Cup 2026",
+      "team": "Nongshim RedForce",
+      "date": "2026-08-18",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 1-2_9",
+      "tournament": "LCK 2026 Rounds 1-2",
+      "team": "Nongshim RedForce",
+      "date": "2026-05-31",
+      "place": "9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_1-2"
+    },
+    {
+      "id": "Esports World Cup 2026/Online Qualifiers/Korea_4",
+      "tournament": "Esports World Cup 2026 Online Qualifier: Korea",
+      "team": "Nongshim RedForce",
+      "date": "2026-05-25",
+      "place": "NQ",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Esports_World_Cup_2026%2FOnline_Qualifiers%2FKorea"
+    },
+    {
+      "id": "LCK/2026 Season/Cup_7",
+      "tournament": "LCK Cup 2026",
+      "team": "Nongshim RedForce",
+      "date": "2026-02-08",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FCup"
+    },
+    {
+      "id": "2025 LoL KeSPA Cup_4",
+      "tournament": "KeSPA Cup 2025",
+      "team": "Nongshim RedForce",
+      "date": "2025-12-11",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "2025 League of Legends Asia Invitational_3",
+      "tournament": "League of Legends Asia Invitational 2025",
+      "team": "Nongshim RedForce",
+      "date": "2025-10-11",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_League_of_Legends_Asia_Invitational"
+    },
+    {
+      "id": "LCK/2025 Season/Season Play-In_3",
+      "tournament": "LCK 2025 Season Play-In",
+      "team": "Nongshim RedForce",
+      "date": "2025-09-07",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FSeason_Play-In"
+    },
+    {
+      "id": "LCK/2025 Season/Rounds 3-5_1_5",
+      "tournament": "LCK 2025 Rounds 3-5",
+      "team": "Nongshim RedForce",
+      "date": "2025-08-31",
+      "place": "5",
+      "phase": "Legend Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRounds_3-5"
+    },
+    {
+      "id": "LCK/2025 Season/Road to MSI_5",
+      "tournament": "LCK 2025 Road to MSI",
+      "team": "Nongshim RedForce",
+      "date": "2025-06-08",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRoad_to_MSI"
+    },
+    {
+      "id": "LCK/2025 Season/Rounds 1-2_4",
+      "tournament": "LCK 2025 Rounds 1-2",
+      "team": "Nongshim RedForce",
+      "date": "2025-06-04",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRounds_1-2"
+    },
+    {
+      "id": "LCK/2025 Season/Cup_4",
+      "tournament": "LCK Cup 2025",
+      "team": "Nongshim RedForce",
+      "date": "2025-02-20",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FCup"
+    },
+    {
+      "id": "2024 LoL KeSPA Cup_7",
+      "tournament": "KeSPA Cup 2024",
+      "team": "Nongshim RedForce",
+      "date": "2024-12-05",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2024_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "TCL/2022 Season/Summer Playoffs_6",
+      "tournament": "TCL 2022 Summer Playoffs",
+      "team": "Galatasaray Esports",
+      "date": "2022-08-21",
+      "place": "5-6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/TCL%2F2022_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "TCL/2022 Season/Summer Season_1_5",
+      "tournament": "TCL 2022 Summer",
+      "team": "Galatasaray Esports",
+      "date": "2022-08-14",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/TCL%2F2022_Season%2FSummer_Season"
+    },
+    {
+      "id": "TCL/2022 Season/Winter Playoffs_2",
+      "tournament": "TCL 2022 Winter Playoffs",
+      "team": "Galatasaray Esports",
+      "date": "2022-04-09",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/TCL%2F2022_Season%2FWinter_Playoffs"
+    },
+    {
+      "id": "TCL/2022 Season/Winter Season_1_2",
+      "tournament": "TCL 2022 Winter",
+      "team": "Galatasaray Esports",
+      "date": "2022-03-20",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/TCL%2F2022_Season%2FWinter_Season"
+    },
+    {
+      "id": "2021 Season World Championship_19",
+      "tournament": "Worlds 2021",
+      "team": "Galatasaray Esports",
+      "date": "2021-10-08",
+      "place": "19-20",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2021_Season_World_Championship"
+    },
+    {
+      "id": "TCL/2021 Season/Summer Playoffs_1",
+      "tournament": "TCL 2021 Summer Playoffs",
+      "team": "Galatasaray Esports",
+      "date": "2021-09-04",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/TCL%2F2021_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "TCL/2021 Season/Summer Season_1_1",
+      "tournament": "TCL 2021 Summer",
+      "team": "Galatasaray Esports",
+      "date": "2021-08-08",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/TCL%2F2021_Season%2FSummer_Season"
+    },
+    {
+      "id": "LPL/2020 Season/Summer Season_1_15",
+      "tournament": "LPL 2020 Summer",
+      "team": "Rogue Warriors",
+      "date": "2020-08-09",
+      "place": "15",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2020_Season%2FSummer_Season"
+    },
+    {
+      "id": "LPL/2020 Season/Spring Season_1_13",
+      "tournament": "LPL 2020 Spring",
+      "team": "Rogue Warriors",
+      "date": "2020-04-20",
+      "place": "13",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2020_Season%2FSpring_Season"
+    },
+    {
+      "id": "Demacia Cup 2019_8",
+      "tournament": "Demacia Cup 2019",
+      "team": "Rogue Warriors",
+      "date": "2019-12-27",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Demacia_Cup_2019"
+    },
+    {
+      "id": "LCK/2019 Season/Spring Promotion_4",
+      "tournament": "LCK 2019 Spring Promotion",
+      "team": "bbq Olivers",
+      "date": "2018-09-21",
+      "place": "NQ",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2019_Season%2FSpring_Promotion"
+    },
+    {
+      "id": "LCK/2018 Season/Summer Season_10",
+      "tournament": "LCK 2018 Summer",
+      "team": "bbq Olivers",
+      "date": "2018-08-09",
+      "place": "10",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2018_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2018 Season/Spring Season_8",
+      "tournament": "LCK 2018 Spring",
+      "team": "bbq Olivers",
+      "date": "2018-03-25",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2018_Season%2FSpring_Season"
+    },
+    {
+      "id": "2017 LoL KeSPA Cup_10",
+      "tournament": "KeSPA Cup 2017",
+      "team": "bbq Olivers",
+      "date": "2017-12-02",
+      "place": "9-12",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2017_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK/2018 Season/Spring Promotion_2",
+      "tournament": "LCK 2018 Spring Promotion",
+      "team": "bbq Olivers",
+      "date": "2017-09-16",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2018_Season%2FSpring_Promotion"
+    },
+    {
+      "id": "LCK/2017 Season/Summer Season_9",
+      "tournament": "LCK 2017 Summer",
+      "team": "bbq Olivers",
+      "date": "2017-08-06",
+      "place": "9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2017_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2017 Season/Spring Season_8",
+      "tournament": "LCK 2017 Spring",
+      "team": "bbq Olivers",
+      "date": "2017-04-02",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2017_Season%2FSpring_Season"
+    },
+    {
+      "id": "2016 LoL KeSPA Cup_3",
+      "tournament": "KeSPA Cup 2016",
+      "team": "ESC Ever",
+      "date": "2016-11-19",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2016_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK/2017 Season/Spring Promotion_2",
+      "tournament": "LCK 2017 Spring Promotion",
+      "team": "ESC Ever",
+      "date": "2016-08-27",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2017_Season%2FSpring_Promotion"
+    },
+    {
+      "id": "LCK/2016 Season/Summer Season_9",
+      "tournament": "LCK 2016 Summer",
+      "team": "ESC Ever",
+      "date": "2016-08-06",
+      "place": "9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2016_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2016 Season/Summer Promotion_1",
+      "tournament": "LCK 2016 Summer Promotion",
+      "team": "ESC Ever",
+      "date": "2016-04-29",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2016_Season%2FSummer_Promotion"
+    },
+    {
+      "id": "Challengers Korea/2016 Season/Spring Playoffs_1",
+      "tournament": "CK 2016 Spring Playoffs",
+      "team": "ESC Ever",
+      "date": "2016-04-16",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2016_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "Challengers Korea/2016 Season/Spring Season_2",
+      "tournament": "CK 2016 Spring",
+      "team": "ESC Ever",
+      "date": "2016-03-29",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2016_Season%2FSpring_Season"
+    },
+    {
+      "id": "IEM Season X - World Championship_5",
+      "tournament": "IEM Season 10 World Championship",
+      "team": "ESC Ever",
+      "date": "2016-03-05",
+      "place": "5-6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/IEM_Season_X_-_World_Championship"
+    },
+    {
+      "id": "IEM Season X - Cologne_1",
+      "tournament": "IEM Season 10 Cologne",
+      "team": "ESC Ever",
+      "date": "2015-12-21",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/IEM_Season_X_-_Cologne"
+    },
+    {
+      "id": "2015 LoL KeSPA Cup_1",
+      "tournament": "KeSPA Cup 2015",
+      "team": "ESC Ever",
+      "date": "2015-11-14",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2015_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK/2016 Season/Spring Promotion_4",
+      "tournament": "LCK 2016 Spring Promotion",
+      "team": "ESC Ever",
+      "date": "2015-09-12",
+      "place": "NQ",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2016_Season%2FSpring_Promotion"
+    },
+    {
+      "id": "Challengers Korea/2015 Season/Summer Playoffs_2",
+      "tournament": "CK 2015 Summer Playoffs",
+      "team": "ESC Ever",
+      "date": "2015-08-23",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2015_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "Challengers Korea/2015 Season/Summer_2",
+      "tournament": "CK 2015 Summer",
+      "team": "ESC Ever",
+      "date": "2015-08-06",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2015_Season%2FSummer"
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "schemaVersion": 1,
+  "id": "Peter (Jeong Yoon-su)",
+  "fetchedAt": "2026-10-07T09:20:41.533078+00:00",
+  "sourceUrl": "https://lol.fandom.com/wiki/Peter_%28Jeong_Yoon-su%29",
+  "careerStatus": "fetched",
+  "resultsStatus": "fetched",
+  "awardsStatus": "not_collected",
+  "awards": [],
+  "careers": [
+    {
+      "team": "DN SOOPers",
+      "joinedAt": "2026-07-23",
+      "leftAt": null,
+      "current": true,
+      "joinedPrecision": "1",
+      "leftPrecision": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Peter_%28Jeong_Yoon-su%29"
+    },
+    {
+      "team": "DN SOOPers Challengers",
+      "joinedAt": "2026-04-27",
+      "leftAt": "2026-07-23",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Peter_%28Jeong_Yoon-su%29"
+    },
+    {
+      "team": "DN SOOPers",
+      "joinedAt": "2025-11-20",
+      "leftAt": "2026-04-27",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Peter_%28Jeong_Yoon-su%29"
+    },
+    {
+      "team": "KT Rolster",
+      "joinedAt": "2025-03-18",
+      "leftAt": "2025-11-17",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Peter_%28Jeong_Yoon-su%29"
+    },
+    {
+      "team": "KT Rolster Challengers",
+      "joinedAt": "2024-11-19",
+      "leftAt": "2025-03-18",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Peter_%28Jeong_Yoon-su%29"
+    },
+    {
+      "team": "Nongshim Esports Academy",
+      "joinedAt": "2024-05-27",
+      "leftAt": "2024-11-11",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Peter_%28Jeong_Yoon-su%29"
+    },
+    {
+      "team": "Nongshim RedForce",
+      "joinedAt": "2022-11-22",
+      "leftAt": "2024-05-27",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Peter_%28Jeong_Yoon-su%29"
+    },
+    {
+      "team": "Nongshim RedForce Challengers",
+      "joinedAt": "2022-07-10",
+      "leftAt": "2022-11-22",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Peter_%28Jeong_Yoon-su%29"
+    },
+    {
+      "team": "Nongshim RedForce",
+      "joinedAt": "2022-02-20",
+      "leftAt": "2022-07-10",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Peter_%28Jeong_Yoon-su%29"
+    },
+    {
+      "team": "Nongshim RedForce Challengers",
+      "joinedAt": "2022-02-13",
+      "leftAt": "2022-02-20",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Peter_%28Jeong_Yoon-su%29"
+    },
+    {
+      "team": "Nongshim RedForce",
+      "joinedAt": "2021-12-07",
+      "leftAt": "2022-02-13",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Peter_%28Jeong_Yoon-su%29"
+    },
+    {
+      "team": "Nongshim RedForce Challengers",
+      "joinedAt": "2021-05-12",
+      "leftAt": "2021-12-10",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Peter_%28Jeong_Yoon-su%29"
+    },
+    {
+      "team": "Nongshim RedForce Academy",
+      "joinedAt": "2020-12-16",
+      "leftAt": "2021-05-12",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Peter_%28Jeong_Yoon-su%29"
+    },
+    {
+      "team": "Team Dynamics Academy",
+      "joinedAt": "2020-11-27",
+      "leftAt": "2020-12-16",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Peter_%28Jeong_Yoon-su%29"
+    }
+  ],
+  "results": [
+    {
+      "id": "LCK/2026 Season/Rounds 3-4_2_5",
+      "tournament": "LCK 2026 Rounds 3-4",
+      "team": "DN SOOPers",
+      "date": "2026-08-23",
+      "place": "5",
+      "phase": "Rise Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_3-4"
+    },
+    {
+      "id": "2026 LoL KeSPA Cup_1",
+      "tournament": "KeSPA Cup 2026",
+      "team": "DN SOOPers",
+      "date": "2026-08-18",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 1-2_10",
+      "tournament": "LCK 2026 Rounds 1-2",
+      "team": "DN SOOPers",
+      "date": "2026-05-31",
+      "place": "10",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_1-2"
+    },
+    {
+      "id": "LCK CL/2026 Season/Rounds 1-2_5",
+      "tournament": "LCK CL 2026 Rounds 1-2",
+      "team": "DN SOOPers Challengers",
+      "date": "2026-05-29",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2026_Season%2FRounds_1-2"
+    },
+    {
+      "id": "LCK/2026 Season/Cup_5",
+      "tournament": "LCK Cup 2026",
+      "team": "DN SOOPers",
+      "date": "2026-02-20",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FCup"
+    },
+    {
+      "id": "2025 Season World Championship_2",
+      "tournament": "Worlds 2025",
+      "team": "KT Rolster",
+      "date": "2025-11-09",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_Season_World_Championship"
+    },
+    {
+      "id": "LCK/2025 Season/Season Playoffs_3",
+      "tournament": "LCK 2025 Season Playoffs",
+      "team": "KT Rolster",
+      "date": "2025-09-27",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK/2025 Season/Rounds 3-5_1_4",
+      "tournament": "LCK 2025 Rounds 3-5",
+      "team": "KT Rolster",
+      "date": "2025-08-31",
+      "place": "4",
+      "phase": "Legend Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRounds_3-5"
+    },
+    {
+      "id": "LCK CL/2025 Season/Rounds 3-5_1_1",
+      "tournament": "LCK CL 2025 Rounds 3-5",
+      "team": "KT Rolster Challengers",
+      "date": "2025-08-29",
+      "place": "1",
+      "phase": "Challenge Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2025_Season%2FRounds_3-5"
+    },
+    {
+      "id": "LCK/2025 Season/Road to MSI_4",
+      "tournament": "LCK 2025 Road to MSI",
+      "team": "KT Rolster",
+      "date": "2025-06-14",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRoad_to_MSI"
+    },
+    {
+      "id": "LCK/2025 Season/Rounds 1-2_5",
+      "tournament": "LCK 2025 Rounds 1-2",
+      "team": "KT Rolster",
+      "date": "2025-06-04",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRounds_1-2"
+    },
+    {
+      "id": "2025 Asia Masters/Swiss 1_1",
+      "tournament": "Asia Masters 2025 Swiss 1",
+      "team": "KT Rolster Challengers",
+      "date": "2025-03-09",
+      "place": "1-2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_Asia_Masters%2FSwiss_1"
+    },
+    {
+      "id": "LCK CL/2025 Season/Kickoff_1",
+      "tournament": "LCK CL 2025 Kickoff",
+      "team": "KT Rolster Challengers",
+      "date": "2025-02-27",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2025_Season%2FKickoff"
+    },
+    {
+      "id": "2024 LoL KeSPA Cup_6",
+      "tournament": "KeSPA Cup 2024",
+      "team": "KT Rolster",
+      "date": "2024-12-05",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2024_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK/2024 Season/Spring Season_1_8",
+      "tournament": "LCK 2024 Spring",
+      "team": "Nongshim RedForce",
+      "date": "2024-03-24",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2024_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK/2023 Season/Summer Season_1_9",
+      "tournament": "LCK 2023 Summer",
+      "team": "Nongshim RedForce",
+      "date": "2023-08-06",
+      "place": "9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2023_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2023 Season/Spring Season_1_10",
+      "tournament": "LCK 2023 Spring",
+      "team": "Nongshim RedForce",
+      "date": "2023-03-19",
+      "place": "10",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2023_Season%2FSpring_Season"
+    },
+    {
+      "id": "2022 Esports Championships East Asia_1",
+      "tournament": "Esports Championships East Asia 2022",
+      "team": "South Korea (National Team)",
+      "date": "2022-11-18",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2022_Esports_Championships_East_Asia"
+    },
+    {
+      "id": "2022 Asia Star Challengers Invitational_10",
+      "tournament": "Asia Star Challengers Invitational 2022",
+      "team": "Nongshim RedForce Challengers",
+      "date": "2022-09-15",
+      "place": "9-12",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2022_Asia_Star_Challengers_Invitational"
+    },
+    {
+      "id": "LCK CL/2022 Season/Summer Playoffs_1",
+      "tournament": "LCK CL 2022 Summer Playoffs",
+      "team": "Nongshim RedForce Challengers",
+      "date": "2022-08-26",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2022_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2022 Season/Summer Season_1_8",
+      "tournament": "LCK 2022 Summer",
+      "team": "Nongshim RedForce",
+      "date": "2022-08-14",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2022_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK CL/2022 Season/Summer Season_1_5",
+      "tournament": "LCK CL 2022 Summer",
+      "team": "Nongshim RedForce Challengers",
+      "date": "2022-08-12",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2022_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2022 Season/Spring Season_1_8",
+      "tournament": "LCK 2022 Spring",
+      "team": "Nongshim RedForce",
+      "date": "2022-03-20",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2022_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK CL/2022 Season/Spring Season_1_6",
+      "tournament": "LCK CL 2022 Spring",
+      "team": "Nongshim RedForce Challengers",
+      "date": "2022-03-19",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2022_Season%2FSpring_Season"
+    },
+    {
+      "id": "2021 LoL KeSPA Cup_13",
+      "tournament": "KeSPA Cup 2021",
+      "team": "Nongshim RedForce Challengers",
+      "date": "2021-12-10",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2021_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK Academy Series/2020 Season/Championship_2",
+      "tournament": "LCK AS 2020 Championship",
+      "team": "Nongshim RedForce Academy",
+      "date": "2020-12-20",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2020_Season%2FChampionship"
+    }
+  ]
+}

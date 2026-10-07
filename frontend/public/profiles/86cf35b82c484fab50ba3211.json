@@ -1,0 +1,662 @@
+{
+  "schemaVersion": 1,
+  "id": "Sin (Yeon Hyeong-mo)",
+  "fetchedAt": "2026-10-07T09:20:41.533078+00:00",
+  "sourceUrl": "https://lol.fandom.com/wiki/Sin_%28Yeon_Hyeong-mo%29",
+  "careerStatus": "fetched",
+  "resultsStatus": "fetched",
+  "awardsStatus": "not_collected",
+  "awards": [],
+  "careers": [
+    {
+      "team": "Hanwha Life Esports",
+      "joinedAt": "2025-12-15",
+      "leftAt": null,
+      "current": true,
+      "joinedPrecision": "1",
+      "leftPrecision": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Sin_%28Yeon_Hyeong-mo%29"
+    },
+    {
+      "team": "JD Gaming",
+      "joinedAt": "2025-04-25",
+      "leftAt": "2025-12-15",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Sin_%28Yeon_Hyeong-mo%29"
+    },
+    {
+      "team": "JD Gaming",
+      "joinedAt": "2024-12-09",
+      "leftAt": "2025-03-20",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Sin_%28Yeon_Hyeong-mo%29"
+    },
+    {
+      "team": "FunPlus Phoenix",
+      "joinedAt": "2023-12-14",
+      "leftAt": "2024-11-19",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Sin_%28Yeon_Hyeong-mo%29"
+    },
+    {
+      "team": "Royal Never Give Up",
+      "joinedAt": "2021-12-15",
+      "leftAt": "2023-12-12",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Sin_%28Yeon_Hyeong-mo%29"
+    },
+    {
+      "team": "Afreeca Freecs",
+      "joinedAt": "2019-12-04",
+      "leftAt": "2020-11-03",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Sin_%28Yeon_Hyeong-mo%29"
+    },
+    {
+      "team": "Kingzone DragonX",
+      "joinedAt": "2018-01-07",
+      "leftAt": "2018-11-19",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Sin_%28Yeon_Hyeong-mo%29"
+    },
+    {
+      "team": "Longzhu Gaming",
+      "joinedAt": "2017-11-25",
+      "leftAt": "2018-01-07",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Sin_%28Yeon_Hyeong-mo%29"
+    },
+    {
+      "team": "Game Talents",
+      "joinedAt": "2017-05-01",
+      "leftAt": "2017-11-25",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Sin_%28Yeon_Hyeong-mo%29"
+    },
+    {
+      "team": "Royal Never Give Up",
+      "joinedAt": "2016-05-18",
+      "leftAt": "2016-12-19",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Sin_%28Yeon_Hyeong-mo%29"
+    },
+    {
+      "team": "Masters 3",
+      "joinedAt": "2015-01-01",
+      "leftAt": "2016-05-18",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Sin_%28Yeon_Hyeong-mo%29"
+    },
+    {
+      "team": "Team WE",
+      "joinedAt": "2014-06-13",
+      "leftAt": "2014-08-22",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Sin_%28Yeon_Hyeong-mo%29"
+    },
+    {
+      "team": "NaJin Black Sword",
+      "joinedAt": "2014-02-04",
+      "leftAt": "2014-03-18",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Sin_%28Yeon_Hyeong-mo%29"
+    },
+    {
+      "team": "Jin Air Green Wings Falcons",
+      "joinedAt": "2013-10-18",
+      "leftAt": "2014-01-22",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Sin_%28Yeon_Hyeong-mo%29"
+    },
+    {
+      "team": "Jin Air Green Wings Stealths",
+      "joinedAt": "2013-07-10",
+      "leftAt": "2013-08-28",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Sin_%28Yeon_Hyeong-mo%29"
+    },
+    {
+      "team": "Hoon Good Day",
+      "joinedAt": "2013-05-05",
+      "leftAt": "2013-07-10",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Sin_%28Yeon_Hyeong-mo%29"
+    },
+    {
+      "team": "ahq e-Sports Club Korea",
+      "joinedAt": "2013-02-15",
+      "leftAt": "2013-05-04",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Sin_%28Yeon_Hyeong-mo%29"
+    },
+    {
+      "team": "NEB",
+      "joinedAt": "2012-02-01",
+      "leftAt": "2012-05-01",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Sin_%28Yeon_Hyeong-mo%29"
+    }
+  ],
+  "results": [
+    {
+      "id": "LCK/2026 Season/Season Playoffs_2",
+      "tournament": "LCK 2026 Season Playoffs",
+      "team": "Hanwha Life Esports",
+      "date": "2026-09-13",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 3-4_1_2",
+      "tournament": "LCK 2026 Rounds 3-4",
+      "team": "Hanwha Life Esports",
+      "date": "2026-08-23",
+      "place": "2",
+      "phase": "Legend Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_3-4"
+    },
+    {
+      "id": "2026 LoL KeSPA Cup_4",
+      "tournament": "KeSPA Cup 2026",
+      "team": "Hanwha Life Esports",
+      "date": "2026-08-11",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "Esports World Cup 2026_5",
+      "tournament": "Esports World Cup 2026",
+      "team": "Hanwha Life Esports",
+      "date": "2026-07-17",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Esports_World_Cup_2026"
+    },
+    {
+      "id": "2026 Mid-Season Invitational_1",
+      "tournament": "MSI 2026",
+      "team": "Hanwha Life Esports",
+      "date": "2026-07-12",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_Mid-Season_Invitational"
+    },
+    {
+      "id": "LCK/2026 Season/Road to MSI_1",
+      "tournament": "LCK 2026 Road to MSI",
+      "team": "Hanwha Life Esports",
+      "date": "2026-06-12",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRoad_to_MSI"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 1-2_1",
+      "tournament": "LCK 2026 Rounds 1-2",
+      "team": "Hanwha Life Esports",
+      "date": "2026-05-31",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_1-2"
+    },
+    {
+      "id": "Esports World Cup 2026/Online Qualifiers/Korea_2",
+      "tournament": "Esports World Cup 2026 Online Qualifier: Korea",
+      "team": "Hanwha Life Esports",
+      "date": "2026-05-26",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Esports_World_Cup_2026%2FOnline_Qualifiers%2FKorea"
+    },
+    {
+      "id": "LCK/2026 Season/Cup_10",
+      "tournament": "LCK Cup 2026",
+      "team": "Hanwha Life Esports",
+      "date": "2026-02-01",
+      "place": "10",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FCup"
+    },
+    {
+      "id": "LPL/2025 Season/Split 2 Playoffs_8",
+      "tournament": "LPL 2025 Split 2 Playoffs",
+      "team": "JD Gaming",
+      "date": "2025-06-05",
+      "place": "7-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2025_Season%2FSplit_2_Playoffs"
+    },
+    {
+      "id": "LPL/2025 Season/Split 2_1_3",
+      "tournament": "LPL 2025 Split 2",
+      "team": "JD Gaming",
+      "date": "2025-05-22",
+      "place": "3",
+      "phase": "Group Ascend",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2025_Season%2FSplit_2"
+    },
+    {
+      "id": "Demacia Cup 2024_9",
+      "tournament": "Demacia Cup 2024",
+      "team": "JD Gaming",
+      "date": "2024-12-16",
+      "place": "9-12",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Demacia_Cup_2024"
+    },
+    {
+      "id": "LPL/2024 Season/Summer Playoffs_8",
+      "tournament": "LPL 2024 Summer Playoffs",
+      "team": "FunPlus Phoenix",
+      "date": "2024-08-13",
+      "place": "7-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2024_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LPL/2024 Season/Summer Season_1_7",
+      "tournament": "LPL 2024 Summer",
+      "team": "FunPlus Phoenix",
+      "date": "2024-07-31",
+      "place": "7",
+      "phase": "Higher Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2024_Season%2FSummer_Season"
+    },
+    {
+      "id": "LPL/2024 Season/Summer Placements_7",
+      "tournament": "LPL 2024 Summer Placements",
+      "team": "FunPlus Phoenix",
+      "date": "2024-06-29",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2024_Season%2FSummer_Placements"
+    },
+    {
+      "id": "LPL/2024 Season/Spring Playoffs_5",
+      "tournament": "LPL 2024 Spring Playoffs",
+      "team": "FunPlus Phoenix",
+      "date": "2024-04-04",
+      "place": "5-6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2024_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LPL/2024 Season/Spring Season_1_4",
+      "tournament": "LPL 2024 Spring",
+      "team": "FunPlus Phoenix",
+      "date": "2024-03-27",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2024_Season%2FSpring_Season"
+    },
+    {
+      "id": "Demacia Cup 2023_15",
+      "tournament": "Demacia Cup 2023",
+      "team": "FunPlus Phoenix",
+      "date": "2023-12-28",
+      "place": "13-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Demacia_Cup_2023"
+    },
+    {
+      "id": "LPL/2023 Season/Summer Season_1_7",
+      "tournament": "LPL 2023 Summer",
+      "team": "Royal Never Give Up",
+      "date": "2023-07-17",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2023_Season%2FSummer_Season"
+    },
+    {
+      "id": "LPL/2023 Season/Spring Playoffs_7",
+      "tournament": "LPL 2023 Spring Playoffs",
+      "team": "Royal Never Give Up",
+      "date": "2023-04-01",
+      "place": "7-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2023_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LPL/2023 Season/Spring Season_1_9",
+      "tournament": "LPL 2023 Spring",
+      "team": "Royal Never Give Up",
+      "date": "2023-03-26",
+      "place": "9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2023_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK/2020 Season/Spring Season_6",
+      "tournament": "LCK 2020 Spring",
+      "team": "Afreeca Freecs",
+      "date": "2020-04-16",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2020_Season%2FSpring_Season"
+    },
+    {
+      "id": "2019 LoL KeSPA Cup_1",
+      "tournament": "KeSPA Cup 2019",
+      "team": "Afreeca Freecs",
+      "date": "2020-01-05",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2019_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK/2018 Season/Regional Finals_2",
+      "tournament": "Korea Regional Finals 2018",
+      "team": "Kingzone DragonX",
+      "date": "2018-09-16",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2018_Season%2FRegional_Finals"
+    },
+    {
+      "id": "LCK/2018 Season/Summer Playoffs_4",
+      "tournament": "LCK 2018 Summer Playoffs",
+      "team": "Kingzone DragonX",
+      "date": "2018-08-15",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2018_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2018 Season/Summer Season_3",
+      "tournament": "LCK 2018 Summer",
+      "team": "Kingzone DragonX",
+      "date": "2018-08-09",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2018_Season%2FSummer_Season"
+    },
+    {
+      "id": "Rift Rivals 2018/LCK-LPL-LMS_5",
+      "tournament": "Rift Rivals 2018 LCK-LPL-LMS",
+      "team": "Kingzone DragonX",
+      "date": "2018-07-08",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Rift_Rivals_2018%2FLCK-LPL-LMS"
+    },
+    {
+      "id": "2018 Mid-Season Invitational_2",
+      "tournament": "MSI 2018",
+      "team": "Kingzone DragonX",
+      "date": "2018-05-20",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2018_Mid-Season_Invitational"
+    },
+    {
+      "id": "LCK/2018 Season/Spring Playoffs_1",
+      "tournament": "LCK 2018 Spring Playoffs",
+      "team": "Kingzone DragonX",
+      "date": "2018-04-14",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2018_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK/2018 Season/Spring Season_1",
+      "tournament": "LCK 2018 Spring",
+      "team": "Kingzone DragonX",
+      "date": "2018-03-25",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2018_Season%2FSpring_Season"
+    },
+    {
+      "id": "2017 LoL KeSPA Cup_2",
+      "tournament": "KeSPA Cup 2017",
+      "team": "Longzhu Gaming",
+      "date": "2017-12-02",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2017_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LSPL/2017 Season/Summer Playoffs_3",
+      "tournament": "LSPL 2017 Summer Playoffs",
+      "team": "Game Talents",
+      "date": "2017-08-24",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LSPL%2F2017_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LSPL/2017 Season/Summer Season_1_4",
+      "tournament": "LSPL 2017 Summer",
+      "team": "Game Talents",
+      "date": "2017-08-16",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LSPL%2F2017_Season%2FSummer_Season"
+    },
+    {
+      "id": "LPL/2016 Season/Summer Playoffs_2",
+      "tournament": "LPL 2016 Summer Playoffs",
+      "team": "Royal Never Give Up",
+      "date": "2016-08-26",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2016_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LPL/2016 Season/Summer Season_2_1",
+      "tournament": "LPL 2016 Summer",
+      "team": "Royal Never Give Up",
+      "date": "2016-08-07",
+      "place": "1",
+      "phase": "Group B",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2016_Season%2FSummer_Season"
+    },
+    {
+      "id": "National Electronic Sports Tournament 2015_8",
+      "tournament": "NEST 2015",
+      "team": "Masters 3",
+      "date": "2015-11-29",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/National_Electronic_Sports_Tournament_2015"
+    },
+    {
+      "id": "LPL/2015 Season/Summer Playoffs_8",
+      "tournament": "LPL 2015 Summer Playoffs",
+      "team": "Masters 3",
+      "date": "2015-08-11",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2015_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LPL/2015 Season/Summer Season_8",
+      "tournament": "LPL 2015 Summer",
+      "team": "Masters 3",
+      "date": "2015-08-09",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2015_Season%2FSummer_Season"
+    },
+    {
+      "id": "LPL/2015 Season/Spring Season_9",
+      "tournament": "LPL 2015 Spring",
+      "team": "Masters 3",
+      "date": "2015-04-12",
+      "place": "9-12",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2015_Season%2FSpring_Season"
+    },
+    {
+      "id": "Demacia Cup/Season 2_2",
+      "tournament": "Demacia Cup Season 2",
+      "team": "Team WE",
+      "date": "2014-12-12",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Demacia_Cup%2FSeason_2"
+    },
+    {
+      "id": "X Championship/Season I_8",
+      "tournament": "X Championship Season I",
+      "team": "Team WE",
+      "date": "2014-09-10",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/X_Championship%2FSeason_I"
+    },
+    {
+      "id": "LPL/2014 Season/Summer Season_1_5",
+      "tournament": "LPL 2014 Summer",
+      "team": "Team WE",
+      "date": "2014-08-16",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2014_Season%2FSummer_Season"
+    },
+    {
+      "id": "IEM Season IX - Shenzhen_1",
+      "tournament": "IEM Season 9 Shenzhen",
+      "team": "Team WE",
+      "date": "2014-07-20",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/IEM_Season_IX_-_Shenzhen"
+    },
+    {
+      "id": "SK Telecom LTE-A LoL Masters 2014_4",
+      "tournament": "LoL Masters 2014",
+      "team": "NaJin e-mFire (Club Masters)",
+      "date": "2014-05-22",
+      "place": "4-7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/SK_Telecom_LTE-A_LoL_Masters_2014"
+    },
+    {
+      "id": "NLB/2014 Season/Winter Season_7",
+      "tournament": "NLB 2014 Winter",
+      "team": "Jin Air Green Wings Falcons",
+      "date": "2014-01-02",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/NLB%2F2014_Season%2FWinter_Season"
+    },
+    {
+      "id": "Champions/2014 Season/Winter Season_13",
+      "tournament": "Champions 2014 Winter",
+      "team": "Jin Air Green Wings Falcons",
+      "date": "2013-12-06",
+      "place": "9-15",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2014_Season%2FWinter_Season"
+    },
+    {
+      "id": "NLB/2013 Season/Summer_6",
+      "tournament": "NLB 2013 Summer",
+      "team": "Jin Air Green Wings Stealths",
+      "date": "2013-08-15",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/NLB%2F2013_Season%2FSummer"
+    },
+    {
+      "id": "Champions/2013 Season/Summer_16",
+      "tournament": "Champions 2013 Summer",
+      "team": "Jin Air Green Wings Stealths",
+      "date": "2013-07-20",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2013_Season%2FSummer"
+    },
+    {
+      "id": "AMD-INVEN GamExperience_10",
+      "tournament": "AMD-INVEN GamExperience",
+      "team": "Hoon Good Day",
+      "date": "2013-06-29",
+      "place": "9-10",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/AMD-INVEN_GamExperience"
+    },
+    {
+      "id": "Champions/2013 Season/Summer Qualifiers_2",
+      "tournament": "Champions 2013 Summer Qualifiers",
+      "team": "Hoon Good Day",
+      "date": "2013-06-21",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2013_Season%2FSummer_Qualifiers"
+    },
+    {
+      "id": "NLB/2013 Season/Spring_6",
+      "tournament": "NLB 2013 Spring",
+      "team": "Hoon Good Day",
+      "date": "2013-06-14",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/NLB%2F2013_Season%2FSpring"
+    },
+    {
+      "id": "Champions/2013 Season/Spring_11",
+      "tournament": "Champions 2013 Spring",
+      "team": "ahq e-Sports Club Korea",
+      "date": "2013-05-03",
+      "place": "9-12",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2013_Season%2FSpring"
+    },
+    {
+      "id": "Champions/2013 Season/Spring Qualifiers_2",
+      "tournament": "Champions 2013 Spring Qualifiers",
+      "team": "ahq e-Sports Club Korea",
+      "date": "2013-03-23",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2013_Season%2FSpring_Qualifiers"
+    },
+    {
+      "id": "Champions/2012 Season/Spring_14",
+      "tournament": "Champions 2012 Spring",
+      "team": "NEB",
+      "date": "2012-04-06",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Champions%2F2012_Season%2FSpring"
+    }
+  ]
+}

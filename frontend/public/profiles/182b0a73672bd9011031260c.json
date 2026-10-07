@@ -1,0 +1,401 @@
+{
+  "schemaVersion": 1,
+  "id": "Diable",
+  "fetchedAt": "2026-10-07T09:20:41.533078+00:00",
+  "sourceUrl": "https://lol.fandom.com/wiki/Diable",
+  "careerStatus": "fetched",
+  "resultsStatus": "fetched",
+  "awardsStatus": "not_collected",
+  "awards": [],
+  "careers": [
+    {
+      "team": "Nongshim RedForce",
+      "joinedAt": "2026-04-30",
+      "leftAt": null,
+      "current": true,
+      "joinedPrecision": "1",
+      "leftPrecision": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Diable"
+    },
+    {
+      "team": "BNK FEARX Youth",
+      "joinedAt": "2026-04-28",
+      "leftAt": "2026-04-30",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Diable"
+    },
+    {
+      "team": "BNK FEARX",
+      "joinedAt": "2024-11-20",
+      "leftAt": "2026-04-28",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Diable"
+    },
+    {
+      "team": "BNK FEARX Youth",
+      "joinedAt": "2023-12-15",
+      "leftAt": "2024-11-20",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Diable"
+    },
+    {
+      "team": "Liiv SANDBOX Youth",
+      "joinedAt": "2022-12-04",
+      "leftAt": "2023-12-15",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Diable"
+    },
+    {
+      "team": "Liiv SANDBOX Academy",
+      "joinedAt": "2022-01-19",
+      "leftAt": "2022-12-04",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Diable"
+    },
+    {
+      "team": "1top",
+      "joinedAt": "2021-09-16",
+      "leftAt": "2021-09-26",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Diable"
+    },
+    {
+      "team": "Shadow ELG",
+      "joinedAt": "2021-05-13",
+      "leftAt": "2021-09-16",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Diable"
+    },
+    {
+      "team": "ELROY Gaming",
+      "joinedAt": "2021-04-15",
+      "leftAt": "2021-05-13",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Diable"
+    }
+  ],
+  "results": [
+    {
+      "id": "LCK/2026 Season/Season Play-In_4",
+      "tournament": "LCK 2026 Season Play-In",
+      "team": "Nongshim RedForce",
+      "date": "2026-08-27",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FSeason_Play-In"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 3-4_2_2",
+      "tournament": "LCK 2026 Rounds 3-4",
+      "team": "Nongshim RedForce",
+      "date": "2026-08-23",
+      "place": "2",
+      "phase": "Rise Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_3-4"
+    },
+    {
+      "id": "2026 LoL KeSPA Cup_2",
+      "tournament": "KeSPA Cup 2026",
+      "team": "Nongshim RedForce",
+      "date": "2026-08-18",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 1-2_9",
+      "tournament": "LCK 2026 Rounds 1-2",
+      "team": "Nongshim RedForce",
+      "date": "2026-05-31",
+      "place": "9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_1-2"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 1-2_7",
+      "tournament": "LCK 2026 Rounds 1-2",
+      "team": "BNK FEARX",
+      "date": "2026-05-31",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_1-2"
+    },
+    {
+      "id": "LCK CL/2026 Season/Rounds 1-2_7",
+      "tournament": "LCK CL 2026 Rounds 1-2",
+      "team": "BNK FEARX Youth",
+      "date": "2026-05-29",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2026_Season%2FRounds_1-2"
+    },
+    {
+      "id": "Esports World Cup 2026/Online Qualifiers/Korea_4",
+      "tournament": "Esports World Cup 2026 Online Qualifier: Korea",
+      "team": "Nongshim RedForce",
+      "date": "2026-05-25",
+      "place": "NQ",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Esports_World_Cup_2026%2FOnline_Qualifiers%2FKorea"
+    },
+    {
+      "id": "2026 First Stand_5",
+      "tournament": "First Stand 2026",
+      "team": "BNK FEARX",
+      "date": "2026-03-20",
+      "place": "5-6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_First_Stand"
+    },
+    {
+      "id": "LCK/2026 Season/Cup_2",
+      "tournament": "LCK Cup 2026",
+      "team": "BNK FEARX",
+      "date": "2026-03-01",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FCup"
+    },
+    {
+      "id": "2025 LoL KeSPA Cup_7",
+      "tournament": "KeSPA Cup 2025",
+      "team": "BNK FEARX",
+      "date": "2025-12-08",
+      "place": "7-9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "2025 League of Legends Asia Invitational_1",
+      "tournament": "League of Legends Asia Invitational 2025",
+      "team": "BNK FEARX",
+      "date": "2025-10-12",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_League_of_Legends_Asia_Invitational"
+    },
+    {
+      "id": "LCK/2025 Season/Season Playoffs_6",
+      "tournament": "LCK 2025 Season Playoffs",
+      "team": "BNK FEARX",
+      "date": "2025-09-17",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK/2025 Season/Season Play-In_1",
+      "tournament": "LCK 2025 Season Play-In",
+      "team": "BNK FEARX",
+      "date": "2025-09-05",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FSeason_Play-In"
+    },
+    {
+      "id": "LCK/2025 Season/Rounds 3-5_2_2",
+      "tournament": "LCK 2025 Rounds 3-5",
+      "team": "BNK FEARX",
+      "date": "2025-08-31",
+      "place": "2",
+      "phase": "Rise Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRounds_3-5"
+    },
+    {
+      "id": "LCK/2025 Season/Rounds 1-2_7",
+      "tournament": "LCK 2025 Rounds 1-2",
+      "team": "BNK FEARX",
+      "date": "2025-06-04",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRounds_1-2"
+    },
+    {
+      "id": "LCK/2025 Season/Cup_10",
+      "tournament": "LCK Cup 2025",
+      "team": "BNK FEARX",
+      "date": "2025-02-02",
+      "place": "10",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FCup"
+    },
+    {
+      "id": "2024 LoL KeSPA Cup_9",
+      "tournament": "KeSPA Cup 2024",
+      "team": "BNK FEARX",
+      "date": "2024-12-02",
+      "place": "9-10",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2024_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK CL/2024 Season/Summer Playoffs_5",
+      "tournament": "LCK CL 2024 Summer Playoffs",
+      "team": "BNK FEARX Youth",
+      "date": "2024-08-19",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2024_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK CL/2024 Season/Summer Season_1_4",
+      "tournament": "LCK CL 2024 Summer",
+      "team": "BNK FEARX Youth",
+      "date": "2024-08-16",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2024_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK CL/2024 Season/Spring Playoffs_6",
+      "tournament": "LCK CL 2024 Spring Playoffs",
+      "team": "FearX Youth",
+      "date": "2024-03-26",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2024_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK CL/2024 Season/Spring Season_1_5",
+      "tournament": "LCK CL 2024 Spring",
+      "team": "FearX Youth",
+      "date": "2024-03-22",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2024_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK CL/2023 Season/Summer Season_1_10",
+      "tournament": "LCK CL 2023 Summer",
+      "team": "Liiv SANDBOX Youth",
+      "date": "2023-08-04",
+      "place": "10",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2023_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK CL/2023 Season/Spring Season_1_7",
+      "tournament": "LCK CL 2023 Spring",
+      "team": "Liiv SANDBOX Youth",
+      "date": "2023-03-17",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_CL%2F2023_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/September_32",
+      "tournament": "LCK AS 2022 September",
+      "team": "Liiv SANDBOX Academy Online",
+      "date": "2022-08-28",
+      "place": "26-42",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2FSeptember"
+    },
+    {
+      "id": "Liiv Mobile Academy/Open Scream Playoffs_2",
+      "tournament": "Liiv Mobile Academy Open Scream Playoffs",
+      "team": "Liiv SANDBOX Academy 2Team",
+      "date": "2022-05-25",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Liiv_Mobile_Academy%2FOpen_Scream_Playoffs"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/1st Championship_1_7",
+      "tournament": "LCK AS 2022 1st Championship",
+      "team": "Liiv SANDBOX Academy",
+      "date": "2022-05-21",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2F1st_Championship"
+    },
+    {
+      "id": "Liiv Mobile Academy/Open Scream_1_1",
+      "tournament": "Liiv Mobile Academy Open Scream",
+      "team": "Liiv SANDBOX Academy 2Team",
+      "date": "2022-05-19",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Liiv_Mobile_Academy%2FOpen_Scream"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/March_37",
+      "tournament": "LCK AS 2022 March",
+      "team": "Liiv SANDBOX Academy 2Team",
+      "date": "2022-03-20",
+      "place": "27-45",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2FMarch"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/February_28",
+      "tournament": "LCK AS 2022 February",
+      "team": "Liiv SANDBOX Academy 2Team",
+      "date": "2022-02-20",
+      "place": "26-42",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2FFebruary"
+    },
+    {
+      "id": "LCK Academy Series/2022 Season/January_27",
+      "tournament": "LCK AS 2022 January",
+      "team": "Liiv SANDBOX Academy 2Team",
+      "date": "2022-01-23",
+      "place": "17-27",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2022_Season%2FJanuary"
+    },
+    {
+      "id": "LCK Academy Series/2021 Season/September_13",
+      "tournament": "LCK AS 2021 September",
+      "team": "1top",
+      "date": "2021-09-25",
+      "place": "9-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2021_Season%2FSeptember"
+    },
+    {
+      "id": "LCK Academy Series/2021 Season/July_24",
+      "tournament": "LCK AS 2021 July",
+      "team": "Shadow ELG",
+      "date": "2021-07-18",
+      "place": "17-26",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2021_Season%2FJuly"
+    },
+    {
+      "id": "LCK Academy Series/2021 Season/May_30",
+      "tournament": "LCK AS 2021 May",
+      "team": "Shadow ELG",
+      "date": "2021-05-16",
+      "place": "27-41",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2021_Season%2FMay"
+    },
+    {
+      "id": "LCK Academy Series/2021 Season/April_23",
+      "tournament": "LCK AS 2021 April",
+      "team": "ELROY Gaming Star",
+      "date": "2021-04-18",
+      "place": "17-27",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK_Academy_Series%2F2021_Season%2FApril"
+    }
+  ]
+}

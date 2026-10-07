@@ -1,0 +1,82 @@
+[
+  {
+    "file": "dragons.png",
+    "source": "https://raw.communitydragon.org/latest/game/assets/ux/scoreboard/_dragon.png",
+    "retrieved": "2026-09-23",
+    "owner": "Riot Games",
+    "provider": "CommunityDragon",
+    "changes": "None; displayed resized"
+  },
+  {
+    "file": "clouds.png",
+    "source": "https://raw.communitydragon.org/latest/game/assets/ux/scoreboard/_clouddrake.png",
+    "retrieved": "2026-09-23",
+    "owner": "Riot Games",
+    "provider": "CommunityDragon",
+    "changes": "None; displayed resized"
+  },
+  {
+    "file": "infernals.png",
+    "source": "https://raw.communitydragon.org/latest/game/assets/ux/scoreboard/_infernaldrake.png",
+    "retrieved": "2026-09-23",
+    "owner": "Riot Games",
+    "provider": "CommunityDragon",
+    "changes": "None; displayed resized"
+  },
+  {
+    "file": "mountains.png",
+    "source": "https://raw.communitydragon.org/latest/game/assets/ux/scoreboard/_mountaindrake.png",
+    "retrieved": "2026-09-23",
+    "owner": "Riot Games",
+    "provider": "CommunityDragon",
+    "changes": "None; displayed resized"
+  },
+  {
+    "file": "oceans.png",
+    "source": "https://raw.communitydragon.org/latest/game/assets/ux/scoreboard/_oceandrake.png",
+    "retrieved": "2026-09-23",
+    "owner": "Riot Games",
+    "provider": "CommunityDragon",
+    "changes": "None; displayed resized"
+  },
+  {
+    "file": "hextechs.png",
+    "source": "https://raw.communitydragon.org/latest/game/assets/ux/scoreboard/_hextechdrake.png",
+    "retrieved": "2026-09-23",
+    "owner": "Riot Games",
+    "provider": "CommunityDragon",
+    "changes": "None; displayed resized"
+  },
+  {
+    "file": "chemtechs.png",
+    "source": "https://raw.communitydragon.org/latest/game/assets/ux/scoreboard/_chemtechdrake.png",
+    "retrieved": "2026-09-23",
+    "owner": "Riot Games",
+    "provider": "CommunityDragon",
+    "changes": "None; displayed resized"
+  },
+  {
+    "file": "elders.png",
+    "source": "https://raw.communitydragon.org/latest/game/assets/ux/scoreboard/_elderdrake.png",
+    "retrieved": "2026-09-23",
+    "owner": "Riot Games",
+    "provider": "CommunityDragon",
+    "changes": "None; displayed resized"
+  },
+  {
+    "file": "barons.png",
+    "source": "https://raw.communitydragon.org/latest/game/assets/ux/scoreboard/_baronnashor.png",
+    "retrieved": "2026-09-23",
+    "owner": "Riot Games",
+    "provider": "CommunityDragon",
+    "changes": "None; displayed resized"
+  },
+  {
+    "file": "heralds.png",
+    "source": "https://raw.communitydragon.org/latest/game/assets/ux/scoreboard/_riftherald.png",
+    "retrieved": "2026-09-23",
+    "owner": "Riot Games",
+    "provider": "CommunityDragon",
+    "changes": "None; displayed resized"
+  }
+]

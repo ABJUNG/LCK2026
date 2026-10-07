@@ -1,0 +1,491 @@
+{
+  "schemaVersion": 1,
+  "id": "Gumayusi",
+  "fetchedAt": "2026-10-07T09:20:41.533078+00:00",
+  "sourceUrl": "https://lol.fandom.com/wiki/Gumayusi",
+  "careerStatus": "fetched",
+  "resultsStatus": "fetched",
+  "awardsStatus": "not_collected",
+  "awards": [],
+  "careers": [
+    {
+      "team": "Hanwha Life Esports",
+      "joinedAt": "2025-11-23",
+      "leftAt": null,
+      "current": true,
+      "joinedPrecision": "1",
+      "leftPrecision": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Gumayusi"
+    },
+    {
+      "team": "T1",
+      "joinedAt": "2019-12-08",
+      "leftAt": "2025-11-17",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Gumayusi"
+    },
+    {
+      "team": "SK Telecom T1",
+      "joinedAt": "2018-12-28",
+      "leftAt": "2019-12-08",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Gumayusi"
+    },
+    {
+      "team": "Seoul",
+      "joinedAt": "2018-08-18",
+      "leftAt": "2018-12-18",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Gumayusi"
+    }
+  ],
+  "results": [
+    {
+      "id": "2026 Asian Games_1",
+      "tournament": "Asian Games 2026",
+      "team": "South Korea (National Team)",
+      "date": "2026-10-02",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_Asian_Games"
+    },
+    {
+      "id": "LCK/2026 Season/Season Playoffs_2",
+      "tournament": "LCK 2026 Season Playoffs",
+      "team": "Hanwha Life Esports",
+      "date": "2026-09-13",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 3-4_1_2",
+      "tournament": "LCK 2026 Rounds 3-4",
+      "team": "Hanwha Life Esports",
+      "date": "2026-08-23",
+      "place": "2",
+      "phase": "Legend Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_3-4"
+    },
+    {
+      "id": "2026 LoL KeSPA Cup_4",
+      "tournament": "KeSPA Cup 2026",
+      "team": "Hanwha Life Esports",
+      "date": "2026-08-11",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "Esports World Cup 2026_5",
+      "tournament": "Esports World Cup 2026",
+      "team": "Hanwha Life Esports",
+      "date": "2026-07-17",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Esports_World_Cup_2026"
+    },
+    {
+      "id": "2026 Mid-Season Invitational_1",
+      "tournament": "MSI 2026",
+      "team": "Hanwha Life Esports",
+      "date": "2026-07-12",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_Mid-Season_Invitational"
+    },
+    {
+      "id": "LCK/2026 Season/Road to MSI_1",
+      "tournament": "LCK 2026 Road to MSI",
+      "team": "Hanwha Life Esports",
+      "date": "2026-06-12",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRoad_to_MSI"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 1-2_1",
+      "tournament": "LCK 2026 Rounds 1-2",
+      "team": "Hanwha Life Esports",
+      "date": "2026-05-31",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_1-2"
+    },
+    {
+      "id": "Esports World Cup 2026/Online Qualifiers/Korea_2",
+      "tournament": "Esports World Cup 2026 Online Qualifier: Korea",
+      "team": "Hanwha Life Esports",
+      "date": "2026-05-26",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Esports_World_Cup_2026%2FOnline_Qualifiers%2FKorea"
+    },
+    {
+      "id": "LCK/2026 Season/Cup_10",
+      "tournament": "LCK Cup 2026",
+      "team": "Hanwha Life Esports",
+      "date": "2026-02-01",
+      "place": "10",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FCup"
+    },
+    {
+      "id": "2025 LoL KeSPA Cup_2",
+      "tournament": "KeSPA Cup 2025",
+      "team": "Hanwha Life Esports",
+      "date": "2025-12-14",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "2025 Season World Championship_1",
+      "tournament": "Worlds 2025",
+      "team": "T1",
+      "date": "2025-11-09",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_Season_World_Championship"
+    },
+    {
+      "id": "LCK/2025 Season/Season Playoffs_4",
+      "tournament": "LCK 2025 Season Playoffs",
+      "team": "T1",
+      "date": "2025-09-21",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK/2025 Season/Rounds 3-5_1_3",
+      "tournament": "LCK 2025 Rounds 3-5",
+      "team": "T1",
+      "date": "2025-08-31",
+      "place": "3",
+      "phase": "Legend Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRounds_3-5"
+    },
+    {
+      "id": "Esports World Cup 2025_3",
+      "tournament": "Esports World Cup 2025",
+      "team": "T1",
+      "date": "2025-07-20",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Esports_World_Cup_2025"
+    },
+    {
+      "id": "2025 Mid-Season Invitational_2",
+      "tournament": "MSI 2025",
+      "team": "T1",
+      "date": "2025-07-12",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_Mid-Season_Invitational"
+    },
+    {
+      "id": "LCK/2025 Season/Road to MSI_2",
+      "tournament": "LCK 2025 Road to MSI",
+      "team": "T1",
+      "date": "2025-06-15",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRoad_to_MSI"
+    },
+    {
+      "id": "LCK/2025 Season/Rounds 1-2_3",
+      "tournament": "LCK 2025 Rounds 1-2",
+      "team": "T1",
+      "date": "2025-06-04",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRounds_1-2"
+    },
+    {
+      "id": "LCK/2025 Season/Cup_6",
+      "tournament": "LCK Cup 2025",
+      "team": "T1",
+      "date": "2025-02-13",
+      "place": "5-6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FCup"
+    },
+    {
+      "id": "2024 LoL KeSPA Cup_12",
+      "tournament": "KeSPA Cup 2024",
+      "team": "T1",
+      "date": "2024-12-03",
+      "place": "11-12",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2024_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "2024 Season World Championship_1",
+      "tournament": "Worlds 2024",
+      "team": "T1",
+      "date": "2024-11-02",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2024_Season_World_Championship"
+    },
+    {
+      "id": "LCK/2024 Season/Regional Finals_2",
+      "tournament": "LCK 2024 Regional Finals",
+      "team": "T1",
+      "date": "2024-09-14",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2024_Season%2FRegional_Finals"
+    },
+    {
+      "id": "LCK/2024 Season/Summer Playoffs_3",
+      "tournament": "LCK 2024 Summer Playoffs",
+      "team": "T1",
+      "date": "2024-09-07",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2024_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2024 Season/Summer Season_1_4",
+      "tournament": "LCK 2024 Summer",
+      "team": "T1",
+      "date": "2024-08-18",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2024_Season%2FSummer_Season"
+    },
+    {
+      "id": "Esports World Cup 2024_1",
+      "tournament": "Esports World Cup 2024",
+      "team": "T1",
+      "date": "2024-07-07",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Esports_World_Cup_2024"
+    },
+    {
+      "id": "2024 Mid-Season Invitational_3",
+      "tournament": "MSI 2024",
+      "team": "T1",
+      "date": "2024-05-18",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2024_Mid-Season_Invitational"
+    },
+    {
+      "id": "LCK/2024 Season/Spring Playoffs_2",
+      "tournament": "LCK 2024 Spring Playoffs",
+      "team": "T1",
+      "date": "2024-04-14",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2024_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK/2024 Season/Spring Season_1_2",
+      "tournament": "LCK 2024 Spring",
+      "team": "T1",
+      "date": "2024-03-24",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2024_Season%2FSpring_Season"
+    },
+    {
+      "id": "2023 Season World Championship_1",
+      "tournament": "Worlds 2023",
+      "team": "T1",
+      "date": "2023-11-19",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2023_Season_World_Championship"
+    },
+    {
+      "id": "LCK/2023 Season/Summer Playoffs_2",
+      "tournament": "LCK 2023 Summer Playoffs",
+      "team": "T1",
+      "date": "2023-08-20",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2023_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2023 Season/Summer Season_1_5",
+      "tournament": "LCK 2023 Summer",
+      "team": "T1",
+      "date": "2023-08-06",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2023_Season%2FSummer_Season"
+    },
+    {
+      "id": "2023 Mid-Season Invitational_3",
+      "tournament": "MSI 2023",
+      "team": "T1",
+      "date": "2023-05-20",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2023_Mid-Season_Invitational"
+    },
+    {
+      "id": "LCK/2023 Season/Spring Playoffs_2",
+      "tournament": "LCK 2023 Spring Playoffs",
+      "team": "T1",
+      "date": "2023-04-09",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2023_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK/2023 Season/Spring Season_1_1",
+      "tournament": "LCK 2023 Spring",
+      "team": "T1",
+      "date": "2023-03-19",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2023_Season%2FSpring_Season"
+    },
+    {
+      "id": "2022 Season World Championship_2",
+      "tournament": "Worlds 2022",
+      "team": "T1",
+      "date": "2022-11-05",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2022_Season_World_Championship"
+    },
+    {
+      "id": "LCK/2022 Season/Summer Playoffs_2",
+      "tournament": "LCK 2022 Summer Playoffs",
+      "team": "T1",
+      "date": "2022-08-28",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2022_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2022 Season/Summer Season_1_2",
+      "tournament": "LCK 2022 Summer",
+      "team": "T1",
+      "date": "2022-08-14",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2022_Season%2FSummer_Season"
+    },
+    {
+      "id": "2022 Mid-Season Invitational_2",
+      "tournament": "MSI 2022",
+      "team": "T1",
+      "date": "2022-05-29",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2022_Mid-Season_Invitational"
+    },
+    {
+      "id": "LCK/2022 Season/Spring Playoffs_1",
+      "tournament": "LCK 2022 Spring Playoffs",
+      "team": "T1",
+      "date": "2022-04-02",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2022_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK/2022 Season/Spring Season_1_1",
+      "tournament": "LCK 2022 Spring",
+      "team": "T1",
+      "date": "2022-03-20",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2022_Season%2FSpring_Season"
+    },
+    {
+      "id": "2021 Season World Championship_3",
+      "tournament": "Worlds 2021",
+      "team": "T1",
+      "date": "2021-10-30",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2021_Season_World_Championship"
+    },
+    {
+      "id": "LCK/2021 Season/Regional Finals_1",
+      "tournament": "LCK 2021 Regional Finals",
+      "team": "T1",
+      "date": "2021-09-02",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2021_Season%2FRegional_Finals"
+    },
+    {
+      "id": "LCK/2021 Season/Summer Playoffs_2",
+      "tournament": "LCK 2021 Summer Playoffs",
+      "team": "T1",
+      "date": "2021-08-28",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2021_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2021 Season/Summer Season_1_4",
+      "tournament": "LCK 2021 Summer",
+      "team": "T1",
+      "date": "2021-08-15",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2021_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2021 Season/Spring Season_1_4",
+      "tournament": "LCK 2021 Spring",
+      "team": "T1",
+      "date": "2021-03-28",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2021_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK/2020 Season/Regional Finals_2",
+      "tournament": "LCK 2020 Regional Finals",
+      "team": "T1",
+      "date": "2020-09-09",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2020_Season%2FRegional_Finals"
+    },
+    {
+      "id": "2018 LoL KeSPA Cup_11",
+      "tournament": "KeSPA Cup 2018",
+      "team": "Seoul",
+      "date": "2018-12-25",
+      "place": "9-12",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2018_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "IeSF 10th Esports World Championship_1",
+      "tournament": "IeSF 10th Esports World Championship",
+      "team": "South Korea (National Team)",
+      "date": "2018-11-11",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/IeSF_10th_Esports_World_Championship"
+    },
+    {
+      "id": "2018 KeG Championship_1",
+      "tournament": "KeG Championship 2018",
+      "team": "Seoul",
+      "date": "2018-08-19",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2018_KeG_Championship"
+    }
+  ]
+}

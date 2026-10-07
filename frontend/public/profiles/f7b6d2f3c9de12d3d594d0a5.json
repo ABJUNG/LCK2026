@@ -1,0 +1,518 @@
+{
+  "schemaVersion": 1,
+  "id": "Joker (Cho Jae-eup)",
+  "fetchedAt": "2026-10-07T09:20:41.533078+00:00",
+  "sourceUrl": "https://lol.fandom.com/wiki/Joker_%28Cho_Jae-eup%29",
+  "careerStatus": "fetched",
+  "resultsStatus": "fetched",
+  "awardsStatus": "not_collected",
+  "awards": [],
+  "careers": [
+    {
+      "team": "Kiwoom DRX",
+      "joinedAt": "2025-11-18",
+      "leftAt": null,
+      "current": true,
+      "joinedPrecision": "1",
+      "leftPrecision": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Joker_%28Cho_Jae-eup%29"
+    },
+    {
+      "team": "BNK FEARX",
+      "joinedAt": "2024-11-20",
+      "leftAt": "2025-11-17",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Joker_%28Cho_Jae-eup%29"
+    },
+    {
+      "team": "OKSavingsBank BRION",
+      "joinedAt": "2024-07-16",
+      "leftAt": "2024-11-17",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Joker_%28Cho_Jae-eup%29"
+    },
+    {
+      "team": "Anyone's Legend",
+      "joinedAt": "2023-12-12",
+      "leftAt": "2024-05-26",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Joker_%28Cho_Jae-eup%29"
+    },
+    {
+      "team": "Invictus Gaming",
+      "joinedAt": "2022-12-16",
+      "leftAt": "2023-05-09",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Joker_%28Cho_Jae-eup%29"
+    },
+    {
+      "team": "Liiv SANDBOX",
+      "joinedAt": "2020-04-19",
+      "leftAt": "2022-10-16",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Joker_%28Cho_Jae-eup%29"
+    },
+    {
+      "team": "SANDBOX Gaming",
+      "joinedAt": "2018-12-18",
+      "leftAt": "2020-04-19",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Joker_%28Cho_Jae-eup%29"
+    },
+    {
+      "team": "Team BattleComics",
+      "joinedAt": "2016-12-31",
+      "leftAt": "2018-12-18",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Joker_%28Cho_Jae-eup%29"
+    },
+    {
+      "team": "Chungbuk",
+      "joinedAt": "2015-08-05",
+      "leftAt": "2015-08-14",
+      "current": false,
+      "joinedPrecision": "1",
+      "leftPrecision": "1",
+      "sourceUrl": "https://lol.fandom.com/wiki/Joker_%28Cho_Jae-eup%29"
+    }
+  ],
+  "results": [
+    {
+      "id": "LCK/2026 Season/Rounds 3-4_2_4",
+      "tournament": "LCK 2026 Rounds 3-4",
+      "team": "Kiwoom DRX",
+      "date": "2026-08-23",
+      "place": "4",
+      "phase": "Rise Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_3-4"
+    },
+    {
+      "id": "2026 LoL KeSPA Cup_6",
+      "tournament": "KeSPA Cup 2026",
+      "team": "Kiwoom DRX",
+      "date": "2026-08-10",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2026_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK/2026 Season/Rounds 1-2_8",
+      "tournament": "LCK 2026 Rounds 1-2",
+      "team": "Kiwoom DRX",
+      "date": "2026-05-31",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FRounds_1-2"
+    },
+    {
+      "id": "Esports World Cup 2026/Online Qualifiers/Korea_9",
+      "tournament": "Esports World Cup 2026 Online Qualifier: Korea",
+      "team": "Kiwoom DRX",
+      "date": "2026-05-04",
+      "place": "NQ",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Esports_World_Cup_2026%2FOnline_Qualifiers%2FKorea"
+    },
+    {
+      "id": "LCK/2026 Season/Cup_6",
+      "tournament": "LCK Cup 2026",
+      "team": "DRX",
+      "date": "2026-02-19",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2026_Season%2FCup"
+    },
+    {
+      "id": "2025 LoL KeSPA Cup_8",
+      "tournament": "KeSPA Cup 2025",
+      "team": "DRX",
+      "date": "2025-12-08",
+      "place": "7-9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "2025 League of Legends Asia Invitational_1",
+      "tournament": "League of Legends Asia Invitational 2025",
+      "team": "BNK FEARX",
+      "date": "2025-10-12",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_League_of_Legends_Asia_Invitational"
+    },
+    {
+      "id": "LCK/2025 Season/Season Playoffs_6",
+      "tournament": "LCK 2025 Season Playoffs",
+      "team": "BNK FEARX",
+      "date": "2025-09-17",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FSeason_Playoffs"
+    },
+    {
+      "id": "LCK/2025 Season/Season Play-In_1",
+      "tournament": "LCK 2025 Season Play-In",
+      "team": "BNK FEARX",
+      "date": "2025-09-05",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FSeason_Play-In"
+    },
+    {
+      "id": "LCK/2025 Season/Rounds 3-5_2_2",
+      "tournament": "LCK 2025 Rounds 3-5",
+      "team": "BNK FEARX",
+      "date": "2025-08-31",
+      "place": "2",
+      "phase": "Rise Group",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRounds_3-5"
+    },
+    {
+      "id": "2025 Asia Masters/Swiss 2_7",
+      "tournament": "Asia Masters 2025 Swiss 2",
+      "team": "BNK FEARX Youth",
+      "date": "2025-07-17",
+      "place": "7-11",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2025_Asia_Masters%2FSwiss_2"
+    },
+    {
+      "id": "LCK/2025 Season/Rounds 1-2_7",
+      "tournament": "LCK 2025 Rounds 1-2",
+      "team": "BNK FEARX",
+      "date": "2025-06-04",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FRounds_1-2"
+    },
+    {
+      "id": "LCK/2025 Season/Cup_10",
+      "tournament": "LCK Cup 2025",
+      "team": "BNK FEARX",
+      "date": "2025-02-02",
+      "place": "10",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2025_Season%2FCup"
+    },
+    {
+      "id": "2024 LoL KeSPA Cup_9",
+      "tournament": "KeSPA Cup 2024",
+      "team": "BNK FEARX",
+      "date": "2024-12-02",
+      "place": "9-10",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2024_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LPL/2024 Season/Spring Season_1_11",
+      "tournament": "LPL 2024 Spring",
+      "team": "Anyone's Legend",
+      "date": "2024-03-27",
+      "place": "11",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2024_Season%2FSpring_Season"
+    },
+    {
+      "id": "Demacia Cup 2023_13",
+      "tournament": "Demacia Cup 2023",
+      "team": "Anyone's Legend",
+      "date": "2023-12-26",
+      "place": "13-16",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Demacia_Cup_2023"
+    },
+    {
+      "id": "International E-sports Festival 2023/Korea Qualifiers_4",
+      "tournament": "IEF 2023 Korea Qualifiers",
+      "team": "브레스메타",
+      "date": "2023-09-14",
+      "place": "3-4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/International_E-sports_Festival_2023%2FKorea_Qualifiers"
+    },
+    {
+      "id": "LPL/2023 Season/Spring Season_1_11",
+      "tournament": "LPL 2023 Spring",
+      "team": "Invictus Gaming",
+      "date": "2023-03-26",
+      "place": "11",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LPL%2F2023_Season%2FSpring_Season"
+    },
+    {
+      "id": "Demacia Cup 2022_5",
+      "tournament": "Demacia Cup 2022",
+      "team": "Invictus Gaming",
+      "date": "2022-12-21",
+      "place": "5-8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Demacia_Cup_2022"
+    },
+    {
+      "id": "LCK/2022 Season/Regional Finals_3",
+      "tournament": "LCK 2022 Regional Finals",
+      "team": "Liiv SANDBOX",
+      "date": "2022-09-03",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2022_Season%2FRegional_Finals"
+    },
+    {
+      "id": "LCK/2022 Season/Summer Playoffs_3",
+      "tournament": "LCK 2022 Summer Playoffs",
+      "team": "Liiv SANDBOX",
+      "date": "2022-08-20",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2022_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2022 Season/Summer Season_1_3",
+      "tournament": "LCK 2022 Summer",
+      "team": "Liiv SANDBOX",
+      "date": "2022-08-14",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2022_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2022 Season/Spring Season_1_9",
+      "tournament": "LCK 2022 Spring",
+      "team": "Liiv SANDBOX",
+      "date": "2022-03-20",
+      "place": "9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2022_Season%2FSpring_Season"
+    },
+    {
+      "id": "LCK/2021 Season/Regional Finals_4",
+      "tournament": "LCK 2021 Regional Finals",
+      "team": "Liiv SANDBOX",
+      "date": "2021-08-31",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2021_Season%2FRegional_Finals"
+    },
+    {
+      "id": "LCK/2021 Season/Summer Playoffs_5",
+      "tournament": "LCK 2021 Summer Playoffs",
+      "team": "Liiv SANDBOX",
+      "date": "2021-08-19",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2021_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2021 Season/Summer Season_1_5",
+      "tournament": "LCK 2021 Summer",
+      "team": "Liiv SANDBOX",
+      "date": "2021-08-15",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2021_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2021 Season/Spring Season_1_8",
+      "tournament": "LCK 2021 Spring",
+      "team": "Liiv SANDBOX",
+      "date": "2021-03-28",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2021_Season%2FSpring_Season"
+    },
+    {
+      "id": "2020 LoL KeSPA Cup_5",
+      "tournament": "KeSPA Cup 2020",
+      "team": "Liiv SANDBOX",
+      "date": "2020-12-25",
+      "place": "5-6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2020_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK/2020 Season/Summer Season_7",
+      "tournament": "LCK 2020 Summer",
+      "team": "SANDBOX Gaming",
+      "date": "2020-08-23",
+      "place": "7",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2020_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2020 Season/Summer Promotion_2",
+      "tournament": "LCK 2020 Summer Promotion",
+      "team": "SANDBOX Gaming",
+      "date": "2020-04-30",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2020_Season%2FSummer_Promotion"
+    },
+    {
+      "id": "LCK/2020 Season/Spring Season_9",
+      "tournament": "LCK 2020 Spring",
+      "team": "SANDBOX Gaming",
+      "date": "2020-04-16",
+      "place": "9",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2020_Season%2FSpring_Season"
+    },
+    {
+      "id": "2019 LoL KeSPA Cup_2",
+      "tournament": "KeSPA Cup 2019",
+      "team": "SANDBOX Gaming",
+      "date": "2020-01-05",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2019_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK/2019 Season/Regional Finals_3",
+      "tournament": "LCK 2019 Regional Finals",
+      "team": "SANDBOX Gaming",
+      "date": "2019-09-05",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2019_Season%2FRegional_Finals"
+    },
+    {
+      "id": "LCK/2019 Season/Summer Playoffs_4",
+      "tournament": "LCK 2019 Summer Playoffs",
+      "team": "SANDBOX Gaming",
+      "date": "2019-08-23",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2019_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "LCK/2019 Season/Summer Season_3",
+      "tournament": "LCK 2019 Summer",
+      "team": "SANDBOX Gaming",
+      "date": "2019-08-18",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2019_Season%2FSummer_Season"
+    },
+    {
+      "id": "LCK/2019 Season/Spring Playoffs_5",
+      "tournament": "LCK 2019 Spring Playoffs",
+      "team": "SANDBOX Gaming",
+      "date": "2019-04-03",
+      "place": "5",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2019_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "LCK/2019 Season/Spring Season_4",
+      "tournament": "LCK 2019 Spring",
+      "team": "SANDBOX Gaming",
+      "date": "2019-03-31",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2019_Season%2FSpring_Season"
+    },
+    {
+      "id": "2018 LoL KeSPA Cup_9",
+      "tournament": "KeSPA Cup 2018",
+      "team": "SANDBOX Gaming",
+      "date": "2018-12-24",
+      "place": "9-12",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2018_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "LCK/2019 Season/Spring Promotion_2",
+      "tournament": "LCK 2019 Spring Promotion",
+      "team": "Team BattleComics",
+      "date": "2018-09-22",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/LCK%2F2019_Season%2FSpring_Promotion"
+    },
+    {
+      "id": "Challengers Korea/2018 Season/Summer Playoffs_1",
+      "tournament": "CK 2018 Summer Playoffs",
+      "team": "Team BattleComics",
+      "date": "2018-09-07",
+      "place": "1",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2018_Season%2FSummer_Playoffs"
+    },
+    {
+      "id": "Challengers Korea/2018 Season/Summer Season_1_4",
+      "tournament": "CK 2018 Summer",
+      "team": "Team BattleComics",
+      "date": "2018-08-27",
+      "place": "4",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2018_Season%2FSummer_Season"
+    },
+    {
+      "id": "Challengers Korea/2018 Season/Spring Playoffs_2",
+      "tournament": "CK 2018 Spring Playoffs",
+      "team": "Team BattleComics",
+      "date": "2018-04-13",
+      "place": "2",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2018_Season%2FSpring_Playoffs"
+    },
+    {
+      "id": "Challengers Korea/2018 Season/Spring Season_1_3",
+      "tournament": "CK 2018 Spring",
+      "team": "Team BattleComics",
+      "date": "2018-03-30",
+      "place": "3",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2018_Season%2FSpring_Season"
+    },
+    {
+      "id": "2017 LoL KeSPA Cup_19",
+      "tournament": "KeSPA Cup 2017",
+      "team": "Team BattleComics",
+      "date": "2017-12-02",
+      "place": "13-19",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/2017_LoL_KeSPA_Cup"
+    },
+    {
+      "id": "Challengers Korea/2017 Season/Summer Season_1_6",
+      "tournament": "CK 2017 Summer",
+      "team": "Team BattleComics",
+      "date": "2017-08-14",
+      "place": "6",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2017_Season%2FSummer_Season"
+    },
+    {
+      "id": "Challengers Korea/2017 Season/Summer Promotion_3",
+      "tournament": "CK 2017 Summer Promotion",
+      "team": "Team BattleComics",
+      "date": "2017-05-05",
+      "place": "Q",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2017_Season%2FSummer_Promotion"
+    },
+    {
+      "id": "Challengers Korea/2017 Season/Spring Season_1_8",
+      "tournament": "CK 2017 Spring",
+      "team": "Team BattleComics",
+      "date": "2017-04-10",
+      "place": "8",
+      "phase": "",
+      "sourceUrl": "https://lol.fandom.com/wiki/Challengers_Korea%2F2017_Season%2FSpring_Season"
+    }
+  ]
+}
